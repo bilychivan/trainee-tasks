@@ -1,0 +1,113 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0c63d879_0e1ed9bc",
+        "filename": "c_tasks_pack_1/div2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:37:47Z",
+      "side": 1,
+      "message": "prefer use %d",
+      "range": {
+        "startLine": 23,
+        "startChar": 12,
+        "endLine": 23,
+        "endChar": 16
+      },
+      "revId": "a4df10790af32b6e0e96243f1f347e8526da78bc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1ae31e85_b38ea97d",
+        "filename": "c_tasks_pack_1/div2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:37:47Z",
+      "side": 1,
+      "message": "this loop for some reason iterates over odd numbers",
+      "revId": "a4df10790af32b6e0e96243f1f347e8526da78bc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6ff51eca_7fbf6bf9",
+        "filename": "c_tasks_pack_1/div2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:37:47Z",
+      "side": 1,
+      "message": "Very strange thing... this is condition?",
+      "range": {
+        "startLine": 27,
+        "startChar": 8,
+        "endLine": 27,
+        "endChar": 27
+      },
+      "revId": "a4df10790af32b6e0e96243f1f347e8526da78bc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "83ea445b_799e6779",
+        "filename": "c_tasks_pack_1/div2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:37:47Z",
+      "side": 1,
+      "message": "what is this number?",
+      "range": {
+        "startLine": 27,
+        "startChar": 16,
+        "endLine": 27,
+        "endChar": 17
+      },
+      "revId": "a4df10790af32b6e0e96243f1f347e8526da78bc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e02209ef_61403494",
+        "filename": "c_tasks_pack_1/div2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:37:47Z",
+      "side": 1,
+      "message": "this is not min any more",
+      "range": {
+        "startLine": 28,
+        "startChar": 8,
+        "endLine": 28,
+        "endChar": 13
+      },
+      "revId": "a4df10790af32b6e0e96243f1f347e8526da78bc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
