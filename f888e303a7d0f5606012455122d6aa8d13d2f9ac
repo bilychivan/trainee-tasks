@@ -1,0 +1,289 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bff268a8_0f5aa70f",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:31:23Z",
+      "side": 1,
+      "message": "remove",
+      "revId": "f888e303a7d0f5606012455122d6aa8d13d2f9ac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "972cf4b5_9734e437",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:31:23Z",
+      "side": 1,
+      "message": "remove",
+      "revId": "f888e303a7d0f5606012455122d6aa8d13d2f9ac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1c1d5798_b1d695cc",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:31:23Z",
+      "side": 1,
+      "message": "this task could be solved without array",
+      "revId": "f888e303a7d0f5606012455122d6aa8d13d2f9ac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "154ea8c4_b713db25",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:31:23Z",
+      "side": 1,
+      "message": "remove",
+      "revId": "f888e303a7d0f5606012455122d6aa8d13d2f9ac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "64db25e7_1d25b285",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:31:23Z",
+      "side": 1,
+      "message": "remove",
+      "revId": "f888e303a7d0f5606012455122d6aa8d13d2f9ac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa08e20a_87c329d7",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:31:23Z",
+      "side": 1,
+      "message": "there is no this text in the output requirements",
+      "revId": "f888e303a7d0f5606012455122d6aa8d13d2f9ac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "74fb5133_f139d734",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:31:23Z",
+      "side": 1,
+      "message": "there was not task to print this message",
+      "range": {
+        "startLine": 50,
+        "startChar": 0,
+        "endLine": 53,
+        "endChar": 2
+      },
+      "revId": "f888e303a7d0f5606012455122d6aa8d13d2f9ac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "930671ba_ab91f7bb",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:31:23Z",
+      "side": 1,
+      "message": "why do you need this?",
+      "revId": "f888e303a7d0f5606012455122d6aa8d13d2f9ac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "95ec6ecd_0b3c982e",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:31:23Z",
+      "side": 1,
+      "message": "remove",
+      "revId": "f888e303a7d0f5606012455122d6aa8d13d2f9ac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "34c753b3_4597c461",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:31:23Z",
+      "side": 1,
+      "message": "all variable definitions should be at the top of the logical block",
+      "range": {
+        "startLine": 56,
+        "startChar": 1,
+        "endLine": 56,
+        "endChar": 16
+      },
+      "revId": "f888e303a7d0f5606012455122d6aa8d13d2f9ac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "19fb3b75_50d4f6ee",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:31:23Z",
+      "side": 1,
+      "message": "1 * A + B \u003d 3\n\n2 * A + B \u003d 5\n\nwhy do you solving equation with loop?",
+      "range": {
+        "startLine": 57,
+        "startChar": 0,
+        "endLine": 60,
+        "endChar": 2
+      },
+      "revId": "f888e303a7d0f5606012455122d6aa8d13d2f9ac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c6162d9a_3e96e748",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:31:23Z",
+      "side": 1,
+      "message": "there was no task to print this message",
+      "range": {
+        "startLine": 62,
+        "startChar": 0,
+        "endLine": 63,
+        "endChar": 68
+      },
+      "revId": "f888e303a7d0f5606012455122d6aa8d13d2f9ac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ea925fa6_23c1d719",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:31:23Z",
+      "side": 1,
+      "message": "remove",
+      "revId": "f888e303a7d0f5606012455122d6aa8d13d2f9ac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4370c96d_640e38ee",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:31:23Z",
+      "side": 1,
+      "message": "no newline symbol at the end of line and trailing space",
+      "revId": "f888e303a7d0f5606012455122d6aa8d13d2f9ac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "2753da06_ed8f9f77",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:31:23Z",
+      "side": 1,
+      "message": "why do you need this?",
+      "range": {
+        "startLine": 70,
+        "startChar": 1,
+        "endLine": 70,
+        "endChar": 10
+      },
+      "revId": "f888e303a7d0f5606012455122d6aa8d13d2f9ac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
