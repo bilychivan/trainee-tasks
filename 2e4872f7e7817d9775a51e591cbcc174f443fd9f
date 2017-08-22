@@ -1,0 +1,136 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f8f5545b_56887854",
+        "filename": "C_tasks/ariProg.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:05:18Z",
+      "side": 1,
+      "message": "Amount is normally used for nouns that can\u0027t be measured.",
+      "range": {
+        "startLine": 21,
+        "startChar": 24,
+        "endLine": 21,
+        "endChar": 30
+      },
+      "revId": "2e4872f7e7817d9775a51e591cbcc174f443fd9f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7c41287d_26c8fe60",
+        "filename": "C_tasks/ariProg.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:05:18Z",
+      "side": 1,
+      "message": "why do you call this function three times? each call required additional instructions to execute.",
+      "range": {
+        "startLine": 23,
+        "startChar": 1,
+        "endLine": 25,
+        "endChar": 22
+      },
+      "revId": "2e4872f7e7817d9775a51e591cbcc174f443fd9f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bd9cc5a7_8baf7dcf",
+        "filename": "C_tasks/ariProg.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:05:18Z",
+      "side": 1,
+      "message": "add space",
+      "range": {
+        "startLine": 27,
+        "startChar": 3,
+        "endLine": 27,
+        "endChar": 5
+      },
+      "revId": "2e4872f7e7817d9775a51e591cbcc174f443fd9f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ae0affd3_2fba0877",
+        "filename": "C_tasks/ariProg.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:05:18Z",
+      "side": 1,
+      "message": "why do you create additional variable and just copy value there",
+      "range": {
+        "startLine": 27,
+        "startChar": 16,
+        "endLine": 27,
+        "endChar": 35
+      },
+      "revId": "2e4872f7e7817d9775a51e591cbcc174f443fd9f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9efab607_ab24705f",
+        "filename": "C_tasks/ariProg.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:05:18Z",
+      "side": 1,
+      "message": "you can avoid using of this variable",
+      "range": {
+        "startLine": 27,
+        "startChar": 9,
+        "endLine": 27,
+        "endChar": 10
+      },
+      "revId": "2e4872f7e7817d9775a51e591cbcc174f443fd9f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4d4b9393_f0a00887",
+        "filename": "C_tasks/ariProg.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:05:18Z",
+      "side": 1,
+      "message": "you will have extra space with last character - this is an error",
+      "revId": "2e4872f7e7817d9775a51e591cbcc174f443fd9f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
