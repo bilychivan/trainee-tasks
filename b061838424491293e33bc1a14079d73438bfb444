@@ -1,0 +1,130 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "42c572f7_e4a519a8",
+        "filename": "c_tasks_pack_1/ariProg.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:09:04Z",
+      "side": 1,
+      "message": "prefer use %d as we are using decimal integers",
+      "range": {
+        "startLine": 24,
+        "startChar": 8,
+        "endLine": 24,
+        "endChar": 16
+      },
+      "revId": "b061838424491293e33bc1a14079d73438bfb444",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "47b52daf_07aa9b5d",
+        "filename": "c_tasks_pack_1/ariProg.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:09:04Z",
+      "side": 1,
+      "message": "remote trailing spaces",
+      "revId": "b061838424491293e33bc1a14079d73438bfb444",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f9f6b777_8c784714",
+        "filename": "c_tasks_pack_1/ariProg.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:09:04Z",
+      "side": 1,
+      "message": "you can avoid using of this variable",
+      "range": {
+        "startLine": 26,
+        "startChar": 6,
+        "endLine": 26,
+        "endChar": 11
+      },
+      "revId": "b061838424491293e33bc1a14079d73438bfb444",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c9ef7146_e4f83cd2",
+        "filename": "c_tasks_pack_1/ariProg.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:09:04Z",
+      "side": 1,
+      "message": "you will not have a newline character at the end of line - error",
+      "range": {
+        "startLine": 28,
+        "startChar": 10,
+        "endLine": 28,
+        "endChar": 13
+      },
+      "revId": "b061838424491293e33bc1a14079d73438bfb444",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ec57ab61_9157159b",
+        "filename": "c_tasks_pack_1/ariProg.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:09:04Z",
+      "side": 1,
+      "message": "this is no longer first member after +\u003d operation",
+      "range": {
+        "startLine": 29,
+        "startChar": 2,
+        "endLine": 29,
+        "endChar": 14
+      },
+      "revId": "b061838424491293e33bc1a14079d73438bfb444",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fe956b5b_ab35b4a9",
+        "filename": "c_tasks_pack_1/ariProg.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-22T15:09:04Z",
+      "side": 1,
+      "message": "separate return statement as it is separate block of code",
+      "revId": "b061838424491293e33bc1a14079d73438bfb444",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
