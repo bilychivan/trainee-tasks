@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "19da0df1_66a6496c",
+        "filename": "c_tasks_pack_1/max4.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:27:33Z",
+      "side": 1,
+      "message": "please separate blocks of code",
+      "range": {
+        "startLine": 39,
+        "startChar": 4,
+        "endLine": 40,
+        "endChar": 13
+      },
+      "revId": "2112f0323d1b2364dec4a1cf2243fead8f5ca6e3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
