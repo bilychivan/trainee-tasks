@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "af0f7dea_37d632f4",
+        "filename": "C_tasks/pyramid2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:20:45Z",
+      "side": 1,
+      "message": "separate blocks of code",
+      "range": {
+        "startLine": 22,
+        "startChar": 1,
+        "endLine": 23,
+        "endChar": 21
+      },
+      "revId": "53f38d6ef4455363c8ef265cdb314f8c6519637d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "853cadb6_0ac72340",
+        "filename": "C_tasks/pyramid2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:20:45Z",
+      "side": 1,
+      "message": "trailing space - fail!",
+      "range": {
+        "startLine": 29,
+        "startChar": 12,
+        "endLine": 29,
+        "endChar": 15
+      },
+      "revId": "53f38d6ef4455363c8ef265cdb314f8c6519637d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
