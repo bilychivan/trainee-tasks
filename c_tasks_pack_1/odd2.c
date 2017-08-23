@@ -17,13 +17,27 @@
 
 int main()
 {
-    unsigned int min, max;
-    scanf("%u %u", &min, &max);
+    unsigned int start, max;
+    scanf("%u %u", &start, &max);
 
-    while (min <= max)
+    if ((start % 2) == 0)
     {
-        ((min % 2) == 1) && printf("%u ", min);
-        min++;
+        start++;
     }
+
+    for (unsigned int i = start; i < max; i += 2)
+    {
+        printf("%u ", i);
+    }
+
+    if ((max % 2) != 0)
+    {
+        printf("%u\n", max);
+    }
+    else
+    {
+        printf("\n");
+    }
+
 	return 0;
 }
