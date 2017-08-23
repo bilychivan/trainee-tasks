@@ -17,27 +17,24 @@
 */
 
 #include <stdio.h>
-#include <limits.h>
 
 int main()
 {
-    int count;
-    scanf("%i", &count);
+    int numberOfInputs, min;
+    scanf("%d %d", &numberOfInputs, &min);
 
-    int min = INT_MAX;
-
-    while (count > 0)
+    while (numberOfInputs > 1)
     {
-        int t;
-        scanf("%i", &t);
+        int temp;
+        scanf("%d", &temp);
 
-        if (min > t)
+        if (min > temp)
         {
-            min = t;
+            min = temp;
         }
-        count--;
+        numberOfInputs--;
     }
 
-    printf("%i", min);
+    printf("%i\n", min);
 	return 0;
 }
