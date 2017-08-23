@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "60416e83_c10d588e",
+        "filename": "c_tasks_pack_1/max2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T07:51:53Z",
+      "side": 1,
+      "message": "why do you need array?",
+      "range": {
+        "startLine": 19,
+        "startChar": 4,
+        "endLine": 19,
+        "endChar": 13
+      },
+      "revId": "f18315c5fa5da38cb1ae94b7777c368bbf32e092",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "572241c9_579876a2",
+        "filename": "c_tasks_pack_1/max2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T07:51:53Z",
+      "side": 1,
+      "message": "please use %d",
+      "range": {
+        "startLine": 20,
+        "startChar": 11,
+        "endLine": 20,
+        "endChar": 16
+      },
+      "revId": "f18315c5fa5da38cb1ae94b7777c368bbf32e092",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3e632d3f_88efc91a",
+        "filename": "c_tasks_pack_1/max2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T07:51:53Z",
+      "side": 1,
+      "message": "please use if(), where is newline character?",
+      "range": {
+        "startLine": 22,
+        "startChar": 4,
+        "endLine": 22,
+        "endChar": 64
+      },
+      "revId": "f18315c5fa5da38cb1ae94b7777c368bbf32e092",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ef90a1f3_9b4be118",
+        "filename": "c_tasks_pack_1/max2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T07:51:53Z",
+      "side": 1,
+      "message": "please remove",
+      "range": {
+        "startLine": 23,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 25
+      },
+      "revId": "f18315c5fa5da38cb1ae94b7777c368bbf32e092",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6f0c74a6_2887ad0f",
+        "filename": "c_tasks_pack_1/max2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T07:51:53Z",
+      "side": 1,
+      "message": "use single code style",
+      "range": {
+        "startLine": 26,
+        "startChar": 0,
+        "endLine": 26,
+        "endChar": 1
+      },
+      "revId": "f18315c5fa5da38cb1ae94b7777c368bbf32e092",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
