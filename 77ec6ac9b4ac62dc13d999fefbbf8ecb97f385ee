@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "52ebb333_2fc90aea",
+        "filename": "c_tasks_pack_1/isOdd.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:30:25Z",
+      "side": 1,
+      "message": "please separate this blocks of code. this is single comment that does not give you instant +1",
+      "range": {
+        "startLine": 19,
+        "startChar": 4,
+        "endLine": 20,
+        "endChar": 25
+      },
+      "revId": "77ec6ac9b4ac62dc13d999fefbbf8ecb97f385ee",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
