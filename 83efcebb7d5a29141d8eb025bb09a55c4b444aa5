@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "c051dc3a_569d4de0",
+        "filename": "c_tasks_pack_1/odd2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T10:59:14Z",
+      "side": 1,
+      "message": "single style",
+      "range": {
+        "startLine": 28,
+        "startChar": 0,
+        "endLine": 28,
+        "endChar": 1
+      },
+      "revId": "83efcebb7d5a29141d8eb025bb09a55c4b444aa5",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
