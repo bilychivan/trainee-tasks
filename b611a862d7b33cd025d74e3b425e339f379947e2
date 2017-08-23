@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "44ce62af_694a473b",
+        "filename": "C_tasks/average_f.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T19:27:44Z",
+      "side": 1,
+      "message": "why do you need this war?",
+      "range": {
+        "startLine": 17,
+        "startChar": 1,
+        "endLine": 17,
+        "endChar": 23
+      },
+      "revId": "b611a862d7b33cd025d74e3b425e339f379947e2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b53e3d2d_f4f7b134",
+        "filename": "C_tasks/average_f.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T19:27:44Z",
+      "side": 1,
+      "message": "return a / 2 + b / 2 + (a % 2 + b % 2) / 2;",
+      "range": {
+        "startLine": 19,
+        "startChar": 1,
+        "endLine": 19,
+        "endChar": 37
+      },
+      "revId": "b611a862d7b33cd025d74e3b425e339f379947e2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
