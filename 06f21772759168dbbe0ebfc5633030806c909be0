@@ -1,0 +1,61 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "268ff4e1_872e176f",
+        "filename": "c_tasks_pack_1/pascal.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T10:54:55Z",
+      "side": 1,
+      "message": "please remove",
+      "revId": "06f21772759168dbbe0ebfc5633030806c909be0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ad520169_8f00e586",
+        "filename": "c_tasks_pack_1/pascal.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T10:54:55Z",
+      "side": 1,
+      "message": "please remove",
+      "revId": "06f21772759168dbbe0ebfc5633030806c909be0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df945126_e5309a9e",
+        "filename": "c_tasks_pack_1/pascal.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 155,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T10:54:55Z",
+      "side": 1,
+      "message": "wtf?",
+      "range": {
+        "startLine": 105,
+        "startChar": 0,
+        "endLine": 155,
+        "endChar": 3
+      },
+      "revId": "06f21772759168dbbe0ebfc5633030806c909be0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
