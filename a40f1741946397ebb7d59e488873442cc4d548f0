@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "18582822_41dfa36b",
+        "filename": "c_tasks_pack_1/prevMultiple.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T11:18:39Z",
+      "side": 1,
+      "message": "please avoid this check",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 5
+      },
+      "revId": "a40f1741946397ebb7d59e488873442cc4d548f0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8801e87c_133b695c",
+        "filename": "c_tasks_pack_1/prevMultiple.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T11:18:39Z",
+      "side": 1,
+      "message": "please add newline character",
+      "range": {
+        "startLine": 31,
+        "startChar": 19,
+        "endLine": 31,
+        "endChar": 23
+      },
+      "revId": "a40f1741946397ebb7d59e488873442cc4d548f0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "32cc16f5_6c8a04da",
+        "filename": "c_tasks_pack_1/prevMultiple.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T11:18:39Z",
+      "side": 1,
+      "message": "this could be done without loop",
+      "range": {
+        "startLine": 27,
+        "startChar": 4,
+        "endLine": 35,
+        "endChar": 5
+      },
+      "revId": "a40f1741946397ebb7d59e488873442cc4d548f0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
