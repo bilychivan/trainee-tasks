@@ -45,6 +45,30 @@
       "revId": "4a8600bb0439231a32dc875fdfb09706e41fb1c9",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3abd3bf2_653a9a48",
+        "filename": "c_tasks_pack_1/powerOf2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-23T12:07:11Z",
+      "side": 1,
+      "message": "we need to find factors of number 2, I don\u0027t get your question",
+      "parentUuid": "52c19693_4483d6a0",
+      "range": {
+        "startLine": 26,
+        "startChar": 16,
+        "endLine": 26,
+        "endChar": 17
+      },
+      "revId": "4a8600bb0439231a32dc875fdfb09706e41fb1c9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
