@@ -28,17 +28,14 @@ int isPrime(int n)
         return 0;
     }
 
-    int prime = 1;
     for (int i = 3; i < n; i += 2)
     {
-        double t = (double)n / (double)i;
-        if ((t - (int)t) == 0)
+        if ((n % i) == 0)
         {
-            prime = 0;
-            break;
+            return 0;
         }
     }
-    return prime;
+    return 1;
 }
 
 int main()
