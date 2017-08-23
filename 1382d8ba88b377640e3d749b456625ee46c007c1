@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4f567ed2_ee695c08",
+        "filename": "c_tasks_pack_1/isEven.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:39:06Z",
+      "side": 1,
+      "message": "please separate this block of code",
+      "range": {
+        "startLine": 19,
+        "startChar": 4,
+        "endLine": 20,
+        "endChar": 25
+      },
+      "revId": "1382d8ba88b377640e3d749b456625ee46c007c1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
