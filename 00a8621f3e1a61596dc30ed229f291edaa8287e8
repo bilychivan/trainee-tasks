@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "15419830_e0ec1053",
+        "filename": "c_tasks_pack_1/isEven.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T07:32:24Z",
+      "side": 1,
+      "message": "please use printf()",
+      "range": {
+        "startLine": 21,
+        "startChar": 21,
+        "endLine": 21,
+        "endChar": 45
+      },
+      "revId": "00a8621f3e1a61596dc30ed229f291edaa8287e8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "33b68fa1_a79c80c8",
+        "filename": "c_tasks_pack_1/isEven.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T07:32:24Z",
+      "side": 1,
+      "message": "separate logical blocks of code",
+      "range": {
+        "startLine": 19,
+        "startChar": 0,
+        "endLine": 22,
+        "endChar": 10
+      },
+      "revId": "00a8621f3e1a61596dc30ed229f291edaa8287e8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
