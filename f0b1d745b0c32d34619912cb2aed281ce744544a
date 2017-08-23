@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "40bddb18_553847a1",
+        "filename": "C_tasks/powerOf2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:33:26Z",
+      "side": 1,
+      "message": "this is wired and complex. bit shift operations should be used ONLY when you are working with bits. I guess this is not this case. Use powerOf2 *\u003d 2 - this is MUCH simpler and MUCE readable",
+      "range": {
+        "startLine": 22,
+        "startChar": 1,
+        "endLine": 22,
+        "endChar": 71
+      },
+      "revId": "f0b1d745b0c32d34619912cb2aed281ce744544a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "02815ba2_0bf468f4",
+        "filename": "C_tasks/powerOf2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:33:26Z",
+      "side": 1,
+      "message": "fail - trailing space",
+      "range": {
+        "startLine": 24,
+        "startChar": 9,
+        "endLine": 24,
+        "endChar": 17
+      },
+      "revId": "f0b1d745b0c32d34619912cb2aed281ce744544a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
