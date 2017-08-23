@@ -12,17 +12,26 @@
 
 */
 
-
 #include <stdio.h>
 
 int main()
 {
-    unsigned int number;
-    scanf("%u", &number);
+    unsigned int max;
+    scanf("%u", &max);
 
-    for (unsigned int i = 0; i <= number; i++)
+    printf("0 ");
+    for (unsigned int i = 2; i < max; i += 2)
     {
-        ((i % 2) == 0) && printf("%u ", i);
+        printf("%u ", i);
+    }
+
+    if ((max % 2) == 0)
+    {
+        printf("%u\n", max);
+    }
+    else
+    {
+        printf("\n");
     }
 	return 0;
 }
