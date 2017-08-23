@@ -32,41 +32,28 @@ length
 int main()
 {
 	int plain1;
-	int encrypted1;
+    int encrypted1;
 	int plain2;
 	int encrypted2;
 	int length;
-	
-	scanf("%i %i %i %i %i", &plain1, &encrypted1, &plain2, &encrypted2, &length);
-	
 	int inputs[length];
-	
+	int keyA;
+	int keyB;
+
+	scanf("%d %d %d %d %d", &plain1, &encrypted1, &plain2, &encrypted2, &length);
+
 	for (int i = 0; i < length; i++)
 	{
 		scanf("%u", &inputs[i]);
 	}
-	
-	printf("\nplain1: %i | encrypted1: %i\nplain2: %i | encrypted2: %i\nlength: %i\n", plain1, encrypted1, plain2, encrypted2, length);
-	for (int i = 0; i < length; i++)
+
+    keyA = (encrypted2 - encrypted1) / (plain2 - plain1);
+    keyB = encrypted1 - plain1 * keyA;
+
+	for (int i = 0; i < length-1; i++)
 	{
-		printf("%u ", inputs[i]);
+		printf("%i ", (inputs[i] - keyB) / keyA);
 	}
-	puts("");
-	
-	int factor = 1;
-	while ((plain1 * (factor+1)) < encrypted1)
-	{
-		factor++;
-	}
-	int difference = encrypted1 - (plain1 * factor);
-	printf("key A between plain1 and encrypted1 is: %i\n", factor);
-	printf("key B between plain1 and encrypted1 is: %i\n", difference);
-	
-	puts("Decrypted data:");
-	for (int i = 0; i < length; i++)
-	{
-		printf("%i ", (inputs[i] - difference) / factor);
-	}
-	puts("");
+	printf("%i\n", (inputs[length-1] - keyB) / keyA);
 	return 0;
 }
