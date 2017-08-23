@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "07629b13_d3a1b7b9",
+        "filename": "C_tasks/multiple5.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:52:58Z",
+      "side": 1,
+      "message": "please be more creative",
+      "range": {
+        "startLine": 18,
+        "startChar": 14,
+        "endLine": 18,
+        "endChar": 25
+      },
+      "revId": "8f77bf088e439932f81b8ce1604471bda66d692a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "33a19fac_c7630864",
+        "filename": "C_tasks/multiple5.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:52:58Z",
+      "side": 1,
+      "message": "please separate",
+      "range": {
+        "startLine": 18,
+        "startChar": 1,
+        "endLine": 19,
+        "endChar": 27
+      },
+      "revId": "8f77bf088e439932f81b8ce1604471bda66d692a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "935eed08_29394277",
+        "filename": "C_tasks/multiple5.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:52:58Z",
+      "side": 1,
+      "message": "this check 4 times of 5 in average FOR SURE gives false and 1 time of 5 FOR SURE gives true. why do we need for sure 4 times of 5 do it if we already know this will be false?",
+      "range": {
+        "startLine": 23,
+        "startChar": 2,
+        "endLine": 23,
+        "endChar": 19
+      },
+      "revId": "8f77bf088e439932f81b8ce1604471bda66d692a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1634f663_9bc26fd1",
+        "filename": "C_tasks/multiple5.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:52:58Z",
+      "side": 1,
+      "message": "please use brackets",
+      "range": {
+        "startLine": 23,
+        "startChar": 2,
+        "endLine": 24,
+        "endChar": 20
+      },
+      "revId": "8f77bf088e439932f81b8ce1604471bda66d692a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
