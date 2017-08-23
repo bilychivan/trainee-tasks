@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fd2c86f0_6b2edecf",
+        "filename": "c_tasks_pack_1/average_f.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:04:39Z",
+      "side": 1,
+      "message": "Read the task: Использовать только тип unsigned int.",
+      "range": {
+        "startLine": 17,
+        "startChar": 1,
+        "endLine": 17,
+        "endChar": 54
+      },
+      "revId": "df6c64f813c144c592e7e354b4a65c1a59f1320b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
