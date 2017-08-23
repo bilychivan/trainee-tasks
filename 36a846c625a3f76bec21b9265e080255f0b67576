@@ -48,6 +48,30 @@
     },
     {
       "key": {
+        "uuid": "74b27cc7_ea760420",
+        "filename": "c_tasks_pack_1/minN.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-23T09:49:35Z",
+      "side": 1,
+      "message": "verb\n determine the total number of (a collection of items).\n\nYou want this to be named \u0027number\u0027? Or how? I\u0027m asking user to determine the number of numbers to be processed, so I named it count.",
+      "parentUuid": "37d03a3b_695b434c",
+      "range": {
+        "startLine": 24,
+        "startChar": 8,
+        "endLine": 24,
+        "endChar": 13
+      },
+      "revId": "36a846c625a3f76bec21b9265e080255f0b67576",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "49110416_da9ec7ef",
         "filename": "c_tasks_pack_1/minN.c",
         "patchSetId": 1
@@ -94,6 +118,30 @@
     },
     {
       "key": {
+        "uuid": "c73ef060_67183a7b",
+        "filename": "c_tasks_pack_1/minN.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-23T09:49:35Z",
+      "side": 1,
+      "message": "I can avoid code duplication (writing something like):\n\nscanf(...,  \u0026min)\nloop\n scanf\n\nif I initialize min with int_max, then I do just\n\nloop\n scanf\n\nwithout first scanf which is duplicated in the first example",
+      "parentUuid": "b7a2f443_d8c2635b",
+      "range": {
+        "startLine": 27,
+        "startChar": 4,
+        "endLine": 27,
+        "endChar": 22
+      },
+      "revId": "36a846c625a3f76bec21b9265e080255f0b67576",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "0b9021ac_b37b0404",
         "filename": "c_tasks_pack_1/minN.c",
         "patchSetId": 1
@@ -105,6 +153,30 @@
       "writtenOn": "2017-08-23T08:00:10Z",
       "side": 1,
       "message": "time? tablet? please use correct names",
+      "range": {
+        "startLine": 31,
+        "startChar": 12,
+        "endLine": 31,
+        "endChar": 13
+      },
+      "revId": "36a846c625a3f76bec21b9265e080255f0b67576",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "76963ddb_679349b1",
+        "filename": "c_tasks_pack_1/minN.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-23T09:49:35Z",
+      "side": 1,
+      "message": "t - temp, but I will change",
+      "parentUuid": "0b9021ac_b37b0404",
       "range": {
         "startLine": 31,
         "startChar": 12,
