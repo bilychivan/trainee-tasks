@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9d2c83e4_3ae88fb8",
+        "filename": "c_tasks_pack_1/powerOfX.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T16:55:11Z",
+      "side": 1,
+      "message": "what the deal to move this to declaration line?",
+      "range": {
+        "startLine": 25,
+        "startChar": 4,
+        "endLine": 25,
+        "endChar": 10
+      },
+      "revId": "36ca48af937b3e8a20e01b5111caae1c37218ae3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
