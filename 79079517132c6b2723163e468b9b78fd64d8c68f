@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "85d7985e_665e9d61",
+        "filename": "c_tasks_pack_1/multiple3.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:22:20Z",
+      "side": 1,
+      "message": "please separate this block of code",
+      "range": {
+        "startLine": 19,
+        "startChar": 4,
+        "endLine": 19,
+        "endChar": 22
+      },
+      "revId": "79079517132c6b2723163e468b9b78fd64d8c68f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8f1b60ae_72a16347",
+        "filename": "c_tasks_pack_1/multiple3.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:22:20Z",
+      "side": 1,
+      "message": "please use #define DIVISOR 3",
+      "range": {
+        "startLine": 26,
+        "startChar": 15,
+        "endLine": 26,
+        "endChar": 16
+      },
+      "revId": "79079517132c6b2723163e468b9b78fd64d8c68f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a31d3f70_5c566322",
+        "filename": "c_tasks_pack_1/multiple3.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:22:20Z",
+      "side": 1,
+      "message": "fail! trailing space in this case",
+      "range": {
+        "startLine": 32,
+        "startChar": 8,
+        "endLine": 32,
+        "endChar": 21
+      },
+      "revId": "79079517132c6b2723163e468b9b78fd64d8c68f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
