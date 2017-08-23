@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "058adff0_0ece450a",
+        "filename": "C_tasks/isEven.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T19:07:08Z",
+      "side": 1,
+      "message": "please separate blocks of code",
+      "range": {
+        "startLine": 19,
+        "startChar": 1,
+        "endLine": 20,
+        "endChar": 27
+      },
+      "revId": "f3a9111c45d597950b05361d259d129462e59127",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "90f0935b_8826cfac",
+        "filename": "C_tasks/isEven.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T19:07:08Z",
+      "side": 1,
+      "message": "please remove trailing space",
+      "range": {
+        "startLine": 26,
+        "startChar": 5,
+        "endLine": 26,
+        "endChar": 6
+      },
+      "revId": "f3a9111c45d597950b05361d259d129462e59127",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
