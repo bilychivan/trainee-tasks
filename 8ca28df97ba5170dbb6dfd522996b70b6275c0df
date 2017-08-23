@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4fe2365a_eb1348e8",
+        "filename": "C_tasks/powerOfX.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:29:56Z",
+      "side": 1,
+      "message": "please separate blocks of code",
+      "range": {
+        "startLine": 19,
+        "startChar": 1,
+        "endLine": 21,
+        "endChar": 36
+      },
+      "revId": "8ca28df97ba5170dbb6dfd522996b70b6275c0df",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "09b7b2a2_c5fa0584",
+        "filename": "C_tasks/powerOfX.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:29:56Z",
+      "side": 1,
+      "message": "please move to the start of this block of code",
+      "range": {
+        "startLine": 23,
+        "startChar": 1,
+        "endLine": 23,
+        "endChar": 21
+      },
+      "revId": "8ca28df97ba5170dbb6dfd522996b70b6275c0df",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bedcc9f7_5cfc0dfd",
+        "filename": "C_tasks/powerOfX.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:29:56Z",
+      "side": 1,
+      "message": "please move this to the end of loop. this place is only for indexes (i, j, k, ...)",
+      "range": {
+        "startLine": 24,
+        "startChar": 49,
+        "endLine": 24,
+        "endChar": 68
+      },
+      "revId": "8ca28df97ba5170dbb6dfd522996b70b6275c0df",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "889a22b1_b1f71d2b",
+        "filename": "C_tasks/powerOfX.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:29:56Z",
+      "side": 1,
+      "message": "fail! - trailing space",
+      "range": {
+        "startLine": 26,
+        "startChar": 9,
+        "endLine": 26,
+        "endChar": 19
+      },
+      "revId": "8ca28df97ba5170dbb6dfd522996b70b6275c0df",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
