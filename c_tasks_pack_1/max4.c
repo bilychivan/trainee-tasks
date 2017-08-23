@@ -18,9 +18,11 @@
 int main()
 {
     int n1, n2, n3, n4;
-    scanf("%i %i %i %i", &n1, &n2, &n3, &n4);
+    int max;
 
-    int max = n1;
+    scanf("%d %d %d %d", &n1, &n2, &n3, &n4);
+
+    max = n1;
     if (max < n2)
     {
         max = n2;
@@ -34,6 +36,6 @@ int main()
         max = n4;
     }
 
-    printf("%i", max);
-	return 0;
+    printf("%i\n", max);
+    return 0;
 }
