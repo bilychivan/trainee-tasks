@@ -1,0 +1,165 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4ea4dc7d_20076c08",
+        "filename": "c_tasks_pack_1/minN.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T08:00:10Z",
+      "side": 1,
+      "message": "fail. please use only stdio.h",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 20,
+        "endChar": 19
+      },
+      "revId": "36a846c625a3f76bec21b9265e080255f0b67576",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "37d03a3b_695b434c",
+        "filename": "c_tasks_pack_1/minN.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T08:00:10Z",
+      "side": 1,
+      "message": "https://translate.google.com/#en/ru/count",
+      "range": {
+        "startLine": 24,
+        "startChar": 8,
+        "endLine": 24,
+        "endChar": 13
+      },
+      "revId": "36a846c625a3f76bec21b9265e080255f0b67576",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "49110416_da9ec7ef",
+        "filename": "c_tasks_pack_1/minN.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T08:00:10Z",
+      "side": 1,
+      "message": "please use %d",
+      "range": {
+        "startLine": 25,
+        "startChar": 11,
+        "endLine": 25,
+        "endChar": 13
+      },
+      "revId": "36a846c625a3f76bec21b9265e080255f0b67576",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b7a2f443_d8c2635b",
+        "filename": "c_tasks_pack_1/minN.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T08:00:10Z",
+      "side": 1,
+      "message": "please move to the beginning of the block; why INT_MAX? What is the problem to read first number as min?",
+      "range": {
+        "startLine": 27,
+        "startChar": 4,
+        "endLine": 27,
+        "endChar": 22
+      },
+      "revId": "36a846c625a3f76bec21b9265e080255f0b67576",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "0b9021ac_b37b0404",
+        "filename": "c_tasks_pack_1/minN.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T08:00:10Z",
+      "side": 1,
+      "message": "time? tablet? please use correct names",
+      "range": {
+        "startLine": 31,
+        "startChar": 12,
+        "endLine": 31,
+        "endChar": 13
+      },
+      "revId": "36a846c625a3f76bec21b9265e080255f0b67576",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "cb0af73a_26dc76bc",
+        "filename": "c_tasks_pack_1/minN.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T08:00:10Z",
+      "side": 1,
+      "message": "please add newline character",
+      "range": {
+        "startLine": 41,
+        "startChar": 12,
+        "endLine": 41,
+        "endChar": 14
+      },
+      "revId": "36a846c625a3f76bec21b9265e080255f0b67576",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ade1c7e6_3a396ce2",
+        "filename": "c_tasks_pack_1/minN.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T08:00:10Z",
+      "side": 1,
+      "message": "please use single style",
+      "range": {
+        "startLine": 42,
+        "startChar": 0,
+        "endLine": 42,
+        "endChar": 1
+      },
+      "revId": "36a846c625a3f76bec21b9265e080255f0b67576",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
