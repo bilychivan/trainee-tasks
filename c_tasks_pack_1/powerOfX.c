@@ -18,14 +18,17 @@ int main()
 {
     unsigned int base;
     unsigned int number;
+    unsigned int m;
+
     scanf("%u %u", &base, &number);
 
-    unsigned int m = 1;
-    for (unsigned int i = 0; i <= number; i++)
+    m = 1;
+    for (unsigned int i = 0; i < number; i++)
     {
         printf("%i ", m);
         m = m * base;
     }
+    printf("%i\n", m);
 
     return 0;
 }
