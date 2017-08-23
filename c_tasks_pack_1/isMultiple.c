@@ -16,15 +16,17 @@ yes
 
 int main()
 {
-    int n, div;
-    scanf("%i %i", &n, &div);
+    int number, divisor;
+    scanf("%d %d", &number, &divisor);
 
-    if (div == 0)
+    if ((number % divisor) == 0)
     {
-        puts("div can't be 0");
-        return 0;
+        printf("yes\n");
+    }
+    else
+    {
+        printf("no\n");
     }
 
-    ((n % div) == 0) ? puts("yes") : puts("no");
 	return 0;
 }
