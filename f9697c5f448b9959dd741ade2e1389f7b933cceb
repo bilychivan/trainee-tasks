@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6d373d18_ac34e068",
+        "filename": "c_tasks_pack_1/ariProg.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T14:06:11Z",
+      "side": 1,
+      "message": "you can avoid initialization as 0 will be changed for sure",
+      "range": {
+        "startLine": 21,
+        "startChar": 1,
+        "endLine": 23,
+        "endChar": 16
+      },
+      "revId": "f9697c5f448b9959dd741ade2e1389f7b933cceb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "be0da977_377c97ec",
+        "filename": "c_tasks_pack_1/ariProg.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T14:06:11Z",
+      "side": 1,
+      "message": "this is not an error but I\u0027d suggest use for loo",
+      "range": {
+        "startLine": 27,
+        "startChar": 1,
+        "endLine": 27,
+        "endChar": 19
+      },
+      "revId": "f9697c5f448b9959dd741ade2e1389f7b933cceb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "386821d9_da390e75",
+        "filename": "c_tasks_pack_1/ariProg.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T14:06:11Z",
+      "side": 1,
+      "message": "please separate return statement as this is another logical block",
+      "range": {
+        "startLine": 34,
+        "startChar": 1,
+        "endLine": 34,
+        "endChar": 10
+      },
+      "revId": "f9697c5f448b9959dd741ade2e1389f7b933cceb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
