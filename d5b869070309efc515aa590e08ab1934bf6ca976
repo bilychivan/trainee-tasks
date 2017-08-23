@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0b484882_e6b3c503",
+        "filename": "C_tasks/divN.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T19:14:35Z",
+      "side": 1,
+      "message": "please separate blocks of code",
+      "range": {
+        "startLine": 23,
+        "startChar": 1,
+        "endLine": 24,
+        "endChar": 41
+      },
+      "revId": "d5b869070309efc515aa590e08ab1934bf6ca976",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "93ec3578_a7422abb",
+        "filename": "C_tasks/divN.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T19:14:35Z",
+      "side": 1,
+      "message": "please avoid unnecessary iterations",
+      "range": {
+        "startLine": 26,
+        "startChar": 29,
+        "endLine": 26,
+        "endChar": 32
+      },
+      "revId": "d5b869070309efc515aa590e08ab1934bf6ca976",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8ac2a33d_527870e4",
+        "filename": "C_tasks/divN.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T19:14:35Z",
+      "side": 1,
+      "message": "please use brackets",
+      "range": {
+        "startLine": 28,
+        "startChar": 2,
+        "endLine": 29,
+        "endChar": 21
+      },
+      "revId": "d5b869070309efc515aa590e08ab1934bf6ca976",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
