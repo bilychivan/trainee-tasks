@@ -18,13 +18,15 @@
 
 int main()
 {
-    int min, max;
-    scanf("%i %i", &min, &max);
+    int start, max;
+    scanf("%d %d", &start, &max);
 
-    while (min <= max)
+    for ( ; start <= max; start++)
     {
-        ((min % 3) == 0) && printf("%i\n", min);
-        min++;
+        if ((start % 3) == 0)
+        {
+            printf("%d\n", start);
+        }
     }
 	return 0;
 }
