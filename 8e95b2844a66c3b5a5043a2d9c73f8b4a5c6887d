@@ -1,0 +1,228 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0b2d9b86_571f85a5",
+        "filename": "c_tasks_pack_1/prime.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T16:47:42Z",
+      "side": 1,
+      "message": "this check could be avoided",
+      "range": {
+        "startLine": 26,
+        "startChar": 0,
+        "endLine": 29,
+        "endChar": 5
+      },
+      "revId": "8e95b2844a66c3b5a5043a2d9c73f8b4a5c6887d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fbb6ced2_5c25b71b",
+        "filename": "c_tasks_pack_1/prime.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T16:47:42Z",
+      "side": 1,
+      "message": "say the truth you can check only half of this diapason...",
+      "range": {
+        "startLine": 36,
+        "startChar": 24,
+        "endLine": 36,
+        "endChar": 25
+      },
+      "revId": "8e95b2844a66c3b5a5043a2d9c73f8b4a5c6887d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f4500d6f_c8e93ae2",
+        "filename": "c_tasks_pack_1/prime.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T16:47:42Z",
+      "side": 1,
+      "message": "please separate logical block of code",
+      "range": {
+        "startLine": 43,
+        "startChar": 4,
+        "endLine": 43,
+        "endChar": 13
+      },
+      "revId": "8e95b2844a66c3b5a5043a2d9c73f8b4a5c6887d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "922dcef5_e4d88c48",
+        "filename": "c_tasks_pack_1/prime.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T16:47:42Z",
+      "side": 1,
+      "message": "please separate blocks of code",
+      "range": {
+        "startLine": 48,
+        "startChar": 4,
+        "endLine": 49,
+        "endChar": 25
+      },
+      "revId": "8e95b2844a66c3b5a5043a2d9c73f8b4a5c6887d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f1e622c3_01d6513b",
+        "filename": "c_tasks_pack_1/prime.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T16:47:42Z",
+      "side": 1,
+      "message": "return 0; why do we need proceed from this point?",
+      "revId": "8e95b2844a66c3b5a5043a2d9c73f8b4a5c6887d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d032b0ea_e2d50c58",
+        "filename": "c_tasks_pack_1/prime.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T16:47:42Z",
+      "side": 1,
+      "message": "this behavior should be moved to isPrime() function",
+      "range": {
+        "startLine": 54,
+        "startChar": 0,
+        "endLine": 58,
+        "endChar": 5
+      },
+      "revId": "8e95b2844a66c3b5a5043a2d9c73f8b4a5c6887d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfea30af_0c8e054e",
+        "filename": "c_tasks_pack_1/prime.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T16:47:42Z",
+      "side": 1,
+      "message": "please move all definitions to the beginning of the block",
+      "range": {
+        "startLine": 60,
+        "startChar": 4,
+        "endLine": 60,
+        "endChar": 29
+      },
+      "revId": "8e95b2844a66c3b5a5043a2d9c73f8b4a5c6887d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "63a5cb99_37fc86d8",
+        "filename": "c_tasks_pack_1/prime.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T16:47:42Z",
+      "side": 1,
+      "message": "add spaces between +\u003d",
+      "range": {
+        "startLine": 61,
+        "startChar": 22,
+        "endLine": 61,
+        "endChar": 24
+      },
+      "revId": "8e95b2844a66c3b5a5043a2d9c73f8b4a5c6887d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ce1461e0_8c80e4ed",
+        "filename": "c_tasks_pack_1/prime.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T16:47:42Z",
+      "side": 1,
+      "message": "please use %d",
+      "range": {
+        "startLine": 69,
+        "startChar": 24,
+        "endLine": 69,
+        "endChar": 26
+      },
+      "revId": "8e95b2844a66c3b5a5043a2d9c73f8b4a5c6887d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dac65850_3b7b97ff",
+        "filename": "c_tasks_pack_1/prime.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T16:47:42Z",
+      "side": 1,
+      "message": "separate block of code",
+      "range": {
+        "startLine": 74,
+        "startChar": 4,
+        "endLine": 74,
+        "endChar": 13
+      },
+      "revId": "8e95b2844a66c3b5a5043a2d9c73f8b4a5c6887d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
