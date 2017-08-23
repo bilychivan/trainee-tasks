@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "988b0dec_34eb6df7",
+        "filename": "c_tasks_pack_1/even2.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:41:46Z",
+      "side": 1,
+      "message": "please separate blocks of code",
+      "range": {
+        "startLine": 22,
+        "startChar": 4,
+        "endLine": 23,
+        "endChar": 33
+      },
+      "revId": "6f9ed81cb3e1ae1dddf0265ec16cd42b5dc53fb6",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9afaba7e_80601038",
+        "filename": "c_tasks_pack_1/even2.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:41:46Z",
+      "side": 1,
+      "message": "fail! you will have trailing space at the end in this case",
+      "range": {
+        "startLine": 41,
+        "startChar": 7,
+        "endLine": 41,
+        "endChar": 21
+      },
+      "revId": "6f9ed81cb3e1ae1dddf0265ec16cd42b5dc53fb6",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
