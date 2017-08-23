@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ebf755f_9b82e328",
+        "filename": "C_tasks/square2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:19:37Z",
+      "side": 1,
+      "message": "please separate blocks of code",
+      "range": {
+        "startLine": 22,
+        "startChar": 1,
+        "endLine": 23,
+        "endChar": 20
+      },
+      "revId": "45acb66c4da8bab45b06c3ae808eb15aa7235067",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6c3c4501_2fc43eb7",
+        "filename": "C_tasks/square2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:19:37Z",
+      "side": 1,
+      "message": "trailing space - fail!",
+      "range": {
+        "startLine": 29,
+        "startChar": 10,
+        "endLine": 29,
+        "endChar": 15
+      },
+      "revId": "45acb66c4da8bab45b06c3ae808eb15aa7235067",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
