@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "704c96b6_541cbc1c",
+        "filename": "C_tasks/square1.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:20:03Z",
+      "side": 1,
+      "message": "trailing space - fail!",
+      "range": {
+        "startLine": 28,
+        "startChar": 11,
+        "endLine": 28,
+        "endChar": 15
+      },
+      "revId": "62ca33fd2440b43eee4b9972275336dd8b33a2d6",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
