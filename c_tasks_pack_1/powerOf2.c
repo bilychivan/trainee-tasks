@@ -17,14 +17,18 @@
 int main()
 {
     unsigned int number;
+    unsigned int m;
+    #define POWER 2
+
     scanf("%u", &number);
 
-    unsigned int m = 1;
-    for (unsigned int i = 0; i <= number; i++)
+    m = 1;
+    for (unsigned int i = 0; i < number; i++)
     {
         printf("%i ", m);
-        m = m * 2;
+        m = m * POWER;
     }
+    printf("%i\n", m);
 
     return 0;
 }
