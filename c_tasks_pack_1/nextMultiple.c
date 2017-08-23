@@ -16,21 +16,17 @@
 int main()
 {
     int dividend, divider;
-    scanf("%i %i", &dividend, &divider);
-    if (divider == 0)
+
+    scanf("%d %d", &dividend, &divider);
+
+    if ((dividend % divider) != 0)
     {
-        printf("divider can't be 0");
-        return 0;
+        printf("%i\n", (dividend / divider) * divider + divider);
+    }
+    else
+    {
+        printf("%i\n", dividend);
     }
 
-    while (1)
-    {
-        if ((dividend % divider) == 0)
-        {
-            printf("%i", dividend);
-            break;
-        }
-        dividend++;
-    }
 	return 0;
 }
