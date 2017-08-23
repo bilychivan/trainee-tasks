@@ -20,23 +20,21 @@
 
 int main()
 {
-    int count;
-    scanf("%i", &count);
+    int numberOfInputs, max;
+    scanf("%d %d", &numberOfInputs, &max);
 
-    int max = 0;
-
-    while (count > 0)
+    while (numberOfInputs > 1)
     {
-        int t;
-        scanf("%i", &t);
+        int temp;
+        scanf("%d", &temp);
 
-        if (max < t)
+        if (max < temp)
         {
-            max = t;
+            max = temp;
         }
-        count--;
+        numberOfInputs--;
     }
 
-    printf("%i", max);
+    printf("%i\n", max);
 	return 0;
 }
