@@ -17,14 +17,14 @@
 int main()
 {
 	unsigned int number;
+
 	scanf("%u", &number);
-	
-	printf("%u ", number);
-	while (number > 0)
+
+	while (number > 1)
 	{
-		number--;
 		printf("%u ", number);
+		number--;
 	}
-	
+	printf("%u 0\n", number);
 	return 0;
 }
