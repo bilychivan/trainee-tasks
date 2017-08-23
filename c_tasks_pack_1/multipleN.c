@@ -19,12 +19,21 @@
 int main()
 {
     unsigned int max;
-    int div;
-    scanf("%u %i", &max, &div);
+    int divisor;
+    scanf("%u %i", &max, &divisor);
 
-    for (unsigned int i = 0; i < max; i++)
+    for (unsigned int i = 0; i < max; i += divisor)
     {
-        ((i % div) == 0) && printf("%i ", i);
+        printf("%u ", i);
+    }
+
+    if ((max % divisor) == 0)
+    {
+        printf("%u\n", max);
+    }
+    else
+    {
+        printf("\n");
     }
 	return 0;
 }
