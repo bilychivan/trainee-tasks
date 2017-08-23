@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9595d743_1abf37ad",
+        "filename": "C_tasks/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T19:24:14Z",
+      "side": 1,
+      "message": "please remove",
+      "range": {
+        "startLine": 34,
+        "startChar": 0,
+        "endLine": 38,
+        "endChar": 32
+      },
+      "revId": "bda1f93b75635f96c10f3af69619ba7716bc3dc7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5181682f_c21e0e90",
+        "filename": "C_tasks/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T19:24:14Z",
+      "side": 1,
+      "message": "are you kidding me? what is size of this array?",
+      "range": {
+        "startLine": 46,
+        "startChar": 0,
+        "endLine": 47,
+        "endChar": 27
+      },
+      "revId": "bda1f93b75635f96c10f3af69619ba7716bc3dc7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "866c978e_ed3635c2",
+        "filename": "C_tasks/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T19:24:14Z",
+      "side": 1,
+      "message": "this task could be really done without array",
+      "range": {
+        "startLine": 53,
+        "startChar": 15,
+        "endLine": 53,
+        "endChar": 31
+      },
+      "revId": "bda1f93b75635f96c10f3af69619ba7716bc3dc7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d98e0af2_e039dcd8",
+        "filename": "C_tasks/crypt.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T19:24:14Z",
+      "side": 1,
+      "message": "fail!",
+      "range": {
+        "startLine": 61,
+        "startChar": 6,
+        "endLine": 61,
+        "endChar": 25
+      },
+      "revId": "bda1f93b75635f96c10f3af69619ba7716bc3dc7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
