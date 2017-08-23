@@ -16,8 +16,17 @@ no
 
 int main()
 {
-    int n;
-    scanf("%i", &n);
-    ((n % 2) == 0) ? puts("yes") : puts("no");
+    int number;
+    scanf("%d", &number);
+
+    if ((number % 2) == 0)
+    {
+        printf("yes\n");
+    }
+    else
+    {
+        printf("no\n");
+    }
+
 	return 0;
 }
