@@ -13,11 +13,11 @@ int average(int a, int b)
 
 int average(int a, int b)
 {
-	return ((a+b) / 2);
+	return (int)((double)a / 2 + (double)b / 2);
 }
 
 int main()
 {
-	printf("Average of 3 and 4 is: %i\n", average(3, 4));
+	printf("Average of 3 and 4 is: %i\n", average(2147483647, 2147483647));
 	return 0;
 }
