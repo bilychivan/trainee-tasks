@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "267a8e4d_98a6dcfc",
+        "filename": "c_tasks_pack_1/isPrime_f.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T07:49:41Z",
+      "side": 1,
+      "message": "this checks could be avoided",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 29,
+        "endChar": 5
+      },
+      "revId": "4839c72e7ccc54b625c742a95a10dbb8e33f8c24",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ffea1c9e_002f81bc",
+        "filename": "c_tasks_pack_1/isPrime_f.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T07:49:41Z",
+      "side": 1,
+      "message": "why do you need this variable?",
+      "range": {
+        "startLine": 31,
+        "startChar": 4,
+        "endLine": 31,
+        "endChar": 18
+      },
+      "revId": "4839c72e7ccc54b625c742a95a10dbb8e33f8c24",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "16a03d77_3035a197",
+        "filename": "c_tasks_pack_1/isPrime_f.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T07:49:41Z",
+      "side": 1,
+      "message": "this could be done without double type",
+      "range": {
+        "startLine": 34,
+        "startChar": 8,
+        "endLine": 34,
+        "endChar": 41
+      },
+      "revId": "4839c72e7ccc54b625c742a95a10dbb8e33f8c24",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ecd2b29_b625bece",
+        "filename": "c_tasks_pack_1/isPrime_f.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T07:49:41Z",
+      "side": 1,
+      "message": "what is t? time?",
+      "range": {
+        "startLine": 34,
+        "startChar": 15,
+        "endLine": 34,
+        "endChar": 16
+      },
+      "revId": "4839c72e7ccc54b625c742a95a10dbb8e33f8c24",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d02a6ad2_3aa23eb0",
+        "filename": "c_tasks_pack_1/isPrime_f.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T07:49:41Z",
+      "side": 1,
+      "message": "return 0; - not suitable?",
+      "range": {
+        "startLine": 37,
+        "startChar": 12,
+        "endLine": 38,
+        "endChar": 18
+      },
+      "revId": "4839c72e7ccc54b625c742a95a10dbb8e33f8c24",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
