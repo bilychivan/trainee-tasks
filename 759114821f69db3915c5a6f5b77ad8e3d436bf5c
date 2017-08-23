@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4ef075bd_04e1a82e",
+        "filename": "c_tasks_pack_1/powerOf2.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:00:07Z",
+      "side": 1,
+      "message": "please move this after include and before global variables (if any). separate with empty lines. this will be right place for it",
+      "range": {
+        "startLine": 21,
+        "startChar": 4,
+        "endLine": 21,
+        "endChar": 19
+      },
+      "revId": "759114821f69db3915c5a6f5b77ad8e3d436bf5c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "50b7faf6_0735347e",
+        "filename": "c_tasks_pack_1/powerOf2.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:00:07Z",
+      "side": 1,
+      "message": "please move to declaration point",
+      "range": {
+        "startLine": 25,
+        "startChar": 4,
+        "endLine": 25,
+        "endChar": 10
+      },
+      "revId": "759114821f69db3915c5a6f5b77ad8e3d436bf5c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
