@@ -22,6 +22,30 @@
       "revId": "6d995508de330a88a5442d39f602f3922484d1e1",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "969c00eb_a8362342",
+        "filename": "c_tasks_pack_1/maxN.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-23T09:41:45Z",
+      "side": 1,
+      "message": "why not? I need to initialize max with something",
+      "parentUuid": "3bb6d82a_65731e69",
+      "range": {
+        "startLine": 26,
+        "startChar": 4,
+        "endLine": 26,
+        "endChar": 15
+      },
+      "revId": "6d995508de330a88a5442d39f602f3922484d1e1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
