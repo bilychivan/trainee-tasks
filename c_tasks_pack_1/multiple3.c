@@ -18,9 +18,18 @@ int main()
     unsigned int max;
     scanf("%u", &max);
 
-    for (unsigned int i = 0; i < max; i++)
+    for (unsigned int i = 0; i < max; i += 3)
     {
-        ((i % 3) == 0) && printf("%i ", i);
+        printf("%u ", i);
+    }
+
+    if ((max % 3) == 0)
+    {
+        printf("%u\n", max);
+    }
+    else
+    {
+        printf("\n");
     }
 	return 0;
 }
