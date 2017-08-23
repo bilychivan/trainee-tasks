@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6c27e828_6e687c10",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:15:31Z",
+      "side": 1,
+      "message": "this task could be solved without array",
+      "range": {
+        "startLine": 39,
+        "startChar": 4,
+        "endLine": 39,
+        "endChar": 23
+      },
+      "revId": "fa585fc5fab19c304fd9df3260424c338f35ff4e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d3b4324e_53fc69eb",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:15:31Z",
+      "side": 1,
+      "message": "what is the size of this array? this is epic fail",
+      "range": {
+        "startLine": 39,
+        "startChar": 15,
+        "endLine": 39,
+        "endChar": 21
+      },
+      "revId": "fa585fc5fab19c304fd9df3260424c338f35ff4e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "719e7eac_d12e3998",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:15:31Z",
+      "side": 1,
+      "message": "you can combine all related stuff",
+      "range": {
+        "startLine": 40,
+        "startChar": 0,
+        "endLine": 41,
+        "endChar": 13
+      },
+      "revId": "fa585fc5fab19c304fd9df3260424c338f35ff4e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "cda48798_1375d683",
+        "filename": "c_tasks_pack_1/crypt.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:15:31Z",
+      "side": 1,
+      "message": "please separate",
+      "range": {
+        "startLine": 57,
+        "startChar": 3,
+        "endLine": 58,
+        "endChar": 13
+      },
+      "revId": "fa585fc5fab19c304fd9df3260424c338f35ff4e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
