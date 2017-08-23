@@ -16,12 +16,17 @@
 
 int main()
 {
-    int n[2];
-    scanf("%i %i", &n[0], &n[1]);
+    int a, b;
+    scanf("%d %d", &a, &b);
 
-    (n[0] > n[1]) ? (printf("%i", n[0])) : (printf("%i", n[1]));
-    /*int* out;
-    (n[0] > n[1]) ? (out = &n[0]) : (out = &n[1]); // сэкономил память на один вызов printf :D
-    printf("%i", *out);*/
+    if (a > b)
+    {
+        printf("%i\n", a);
+    }
+    else
+    {
+        printf("%i\n", b);
+    }
+
 	return 0;
 }
