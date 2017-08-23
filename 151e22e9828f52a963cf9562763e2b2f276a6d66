@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "deb11d17_0ab3d257",
+        "filename": "c_tasks_pack_1/multiple5.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:21:11Z",
+      "side": 1,
+      "message": "please separate this block of code",
+      "range": {
+        "startLine": 19,
+        "startChar": 4,
+        "endLine": 19,
+        "endChar": 22
+      },
+      "revId": "151e22e9828f52a963cf9562763e2b2f276a6d66",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a3787cdd_cb1d7a8a",
+        "filename": "c_tasks_pack_1/multiple5.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:21:11Z",
+      "side": 1,
+      "message": "please use #define DIVISOR 5",
+      "range": {
+        "startLine": 26,
+        "startChar": 15,
+        "endLine": 26,
+        "endChar": 16
+      },
+      "revId": "151e22e9828f52a963cf9562763e2b2f276a6d66",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1d807759_0d9bccc7",
+        "filename": "c_tasks_pack_1/multiple5.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:21:11Z",
+      "side": 1,
+      "message": "fail! you will have trailing space in this case",
+      "range": {
+        "startLine": 32,
+        "startChar": 8,
+        "endLine": 32,
+        "endChar": 21
+      },
+      "revId": "151e22e9828f52a963cf9562763e2b2f276a6d66",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "80611064_58befd0e",
+        "filename": "c_tasks_pack_1/multiple5.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:21:11Z",
+      "side": 1,
+      "message": "please use single code style",
+      "range": {
+        "startLine": 34,
+        "startChar": 0,
+        "endLine": 34,
+        "endChar": 1
+      },
+      "revId": "151e22e9828f52a963cf9562763e2b2f276a6d66",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
