@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "49f25934_b00305df",
+        "filename": "c_tasks_pack_1/divN.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:49:20Z",
+      "side": 1,
+      "message": "this variables have different meaning. start, max - for diapason, divisor - for calculations. This is a bad idea to mix their declaration",
+      "range": {
+        "startLine": 22,
+        "startChar": 4,
+        "endLine": 22,
+        "endChar": 28
+      },
+      "revId": "70f6faaa54a1ebde1af133861309f28b5f0d640a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a24b6fa_e8854245",
+        "filename": "c_tasks_pack_1/divN.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:49:20Z",
+      "side": 1,
+      "message": "you have a step of this progression. what is the deal to go through ONLY progression elements?",
+      "range": {
+        "startLine": 25,
+        "startChar": 26,
+        "endLine": 25,
+        "endChar": 33
+      },
+      "revId": "70f6faaa54a1ebde1af133861309f28b5f0d640a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "419457d2_77e547f9",
+        "filename": "c_tasks_pack_1/divN.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:49:20Z",
+      "side": 1,
+      "message": "this check on EVERY iteration could be avoided",
+      "range": {
+        "startLine": 27,
+        "startChar": 8,
+        "endLine": 27,
+        "endChar": 35
+      },
+      "revId": "70f6faaa54a1ebde1af133861309f28b5f0d640a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
