@@ -69,6 +69,30 @@
       "revId": "4a8600bb0439231a32dc875fdfb09706e41fb1c9",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "95ea3fba_1ac55326",
+        "filename": "c_tasks_pack_1/powerOf2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T12:18:51Z",
+      "side": 1,
+      "message": "I mean 2 is some magic number from my point of view.\n\nhttps://stackoverflow.com/questions/47882/what-is-a-magic-number-and-why-is-it-bad",
+      "parentUuid": "3abd3bf2_653a9a48",
+      "range": {
+        "startLine": 26,
+        "startChar": 16,
+        "endLine": 26,
+        "endChar": 17
+      },
+      "revId": "4a8600bb0439231a32dc875fdfb09706e41fb1c9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
