@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8824bb00_366de80b",
+        "filename": "c_tasks_pack_1/even.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:44:24Z",
+      "side": 1,
+      "message": "please separate blocks of code",
+      "range": {
+        "startLine": 19,
+        "startChar": 4,
+        "endLine": 20,
+        "endChar": 22
+      },
+      "revId": "953ca3ddab276d34ec58aea6af164a7445af5d13",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "199a8213_d2eefa32",
+        "filename": "c_tasks_pack_1/even.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:44:24Z",
+      "side": 1,
+      "message": "start i from 0 is not possible?",
+      "range": {
+        "startLine": 22,
+        "startChar": 4,
+        "endLine": 22,
+        "endChar": 17
+      },
+      "revId": "953ca3ddab276d34ec58aea6af164a7445af5d13",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "889e92f4_7b1851ad",
+        "filename": "c_tasks_pack_1/even.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:44:24Z",
+      "side": 1,
+      "message": "please use #define DIVISOR 2",
+      "range": {
+        "startLine": 23,
+        "startChar": 43,
+        "endLine": 23,
+        "endChar": 44
+      },
+      "revId": "953ca3ddab276d34ec58aea6af164a7445af5d13",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "79c0d179_063f9f30",
+        "filename": "c_tasks_pack_1/even.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:44:24Z",
+      "side": 1,
+      "message": "error! there will be trailing white space",
+      "range": {
+        "startLine": 34,
+        "startChar": 8,
+        "endLine": 34,
+        "endChar": 21
+      },
+      "revId": "953ca3ddab276d34ec58aea6af164a7445af5d13",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4b59aef7_e5b1f8ee",
+        "filename": "c_tasks_pack_1/even.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:44:24Z",
+      "side": 1,
+      "message": "please separate blocks of code",
+      "range": {
+        "startLine": 35,
+        "startChar": 3,
+        "endLine": 36,
+        "endChar": 13
+      },
+      "revId": "953ca3ddab276d34ec58aea6af164a7445af5d13",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
