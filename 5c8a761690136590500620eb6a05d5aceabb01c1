@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a1a96cc_7dea19c5",
+        "filename": "c_tasks_pack_1/even.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T07:30:11Z",
+      "side": 1,
+      "message": "the same comments",
+      "range": {
+        "startLine": 25,
+        "startChar": 9,
+        "endLine": 25,
+        "endChar": 43
+      },
+      "revId": "5c8a761690136590500620eb6a05d5aceabb01c1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b4bebe27_06940324",
+        "filename": "c_tasks_pack_1/even.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T07:30:11Z",
+      "side": 1,
+      "message": "use single style",
+      "revId": "5c8a761690136590500620eb6a05d5aceabb01c1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
