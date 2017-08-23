@@ -25,6 +25,29 @@
     },
     {
       "key": {
+        "uuid": "1e94671e_66e1a245",
+        "filename": "C_tasks/even2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T19:09:57Z",
+      "side": 1,
+      "message": "avoid unnecessary iterations",
+      "range": {
+        "startLine": 25,
+        "startChar": 29,
+        "endLine": 25,
+        "endChar": 38
+      },
+      "revId": "f07073e9189b95b618c75460450a69405a4ef562",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "d0351a17_668423e6",
         "filename": "C_tasks/even2.c",
         "patchSetId": 1
