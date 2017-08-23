@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5c9bd727_c38055db",
+        "filename": "c_tasks_pack_1/multipleN.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:17:42Z",
+      "side": 1,
+      "message": "fail! you will have trailing space in this case",
+      "range": {
+        "startLine": 36,
+        "startChar": 8,
+        "endLine": 36,
+        "endChar": 21
+      },
+      "revId": "eac3be67e9a7667a45b8ae8fbfd3482f757c9a6e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "83d7f73f_bcf8577b",
+        "filename": "c_tasks_pack_1/multipleN.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T17:17:42Z",
+      "side": 1,
+      "message": "please use single code style!",
+      "range": {
+        "startLine": 38,
+        "startChar": 0,
+        "endLine": 38,
+        "endChar": 1
+      },
+      "revId": "eac3be67e9a7667a45b8ae8fbfd3482f757c9a6e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
