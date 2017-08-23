@@ -33,26 +33,27 @@ int isPrime(int n)
         return 0;
     }
 
-    int prime = 1;
     for (int i = 3; i < n; i += 2)
     {
-        double t = (double)n / (double)i;
-        if ((t - (int)t) == 0)
+        if ((n % i) == 0)
         {
-            prime = 0;
-            break;
+            return 0;
         }
     }
-    return prime;
+    return 1;
 }
 
 int main()
 {
     unsigned int target;
-    scanf("%u", &target);
+    scanf("%d", &target);
+    if (target < 1)
+    {
+        printf("-1\n");
+    }
     if (target == 1)
     {
-        puts("2");
+        printf("2\n");
         return 0;
     }
 
@@ -65,7 +66,7 @@ int main()
 
             if (current == target)
             {
-                printf("%i", i);
+                printf("%i\n", i);
                 break;
             }
         }
