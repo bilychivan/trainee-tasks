@@ -19,7 +19,8 @@ int isPrime(int n)
 	{
 		return 1;
 	}
-	else if (n < 2 || n % 2 == 0)
+	
+	if (n < 2 || n % 2 == 0)
 	{
 		return 0;
 	}
