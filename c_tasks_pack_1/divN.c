@@ -19,13 +19,15 @@
 
 int main()
 {
-    int min, max, dividor;
-    scanf("%i %i %i", &min, &max, &dividor);
+    int start, max, divisor;
+    scanf("%d %d %d", &start, &max, &divisor);
 
-    while (min <= max)
+    for ( ; start <= max; start++)
     {
-        ((min % dividor) == 0) && printf("%i\n", min);
-        min++;
+        if ((start % divisor) == 0)
+        {
+            printf("%d\n", start);
+        }
     }
-	return 0;
+    return 0;
 }
