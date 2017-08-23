@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff456773_6f81de93",
+        "filename": "c_tasks_pack_1/average2_f.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-23T18:05:15Z",
+      "side": 1,
+      "message": "please read carefully the task: Использовать только тип int.",
+      "range": {
+        "startLine": 16,
+        "startChar": 1,
+        "endLine": 16,
+        "endChar": 45
+      },
+      "revId": "44304e955882613eef6b1281f9da0e417e321d93",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
