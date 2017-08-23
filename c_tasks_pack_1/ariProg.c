@@ -18,15 +18,18 @@
 
 int main()
 {
-	int first_member = 0;
+	int counter = 0;
 	int step = 0;
-	int count = 0;
-	scanf("%i %i %i", &first_member, &step, &count);
-	
-	for (int i = 0; i < count; i++)
+	int number = 0;
+
+    scanf("%d %d %d", &counter, &step, &number);
+
+	while (number > 1)
 	{
-		printf("%i ", first_member);
-		first_member += step;
+        printf("%i ", counter);
+		counter += step;
+		number--;
 	}
+	printf("%i\n", counter);
 	return 0;
 }
