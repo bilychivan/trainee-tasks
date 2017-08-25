@@ -14,11 +14,14 @@ unsigned int average(unsigned int a, unsigned int b)
 
 unsigned int average(unsigned int a, unsigned int b)
 {
-	return (unsigned int)((double)a / 2 + (double)b / 2);
+    return ((a / 2 + b / 2) + (a % 2 * b % 2));
 }
 
 int main()
 {
-	printf("Average of 4 and 5 is: %u\n", average(4294967295, 4294967295));
+	printf("Average: %u\n", average(1, 2));
+	printf("Average: %u\n", average(2, 2));
+	printf("Average: %u\n", average(2, 1));
+
 	return 0;
 }
