@@ -12,24 +12,25 @@
 */
 
 #include <stdio.h>
+#define DIVISOR 5
 
 int main()
 {
     unsigned int max;
+
     scanf("%u", &max);
 
-    for (unsigned int i = 0; i < max; i += 5)
+    for (unsigned int i = 0; i <= max; i += DIVISOR)
     {
-        printf("%u ", i);
+        if ((i + DIVISOR) <= max)
+        {
+            printf("%u ", i);
+        }
+        else
+        {
+            printf("%u\n", i);
+        }
     }
 
-    if ((max % 5) == 0)
-    {
-        printf("%u\n", max);
-    }
-    else
-    {
-        printf("\n");
-    }
-	return 0;
+    return 0;
 }
