@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "ff58813b_ceea8a88",
+        "filename": "c_tasks_pack_1/prime.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-25T09:44:29Z",
+      "side": 1,
+      "message": "how?",
+      "parentUuid": "0b2d9b86_571f85a5",
+      "range": {
+        "startLine": 26,
+        "startChar": 0,
+        "endLine": 29,
+        "endChar": 5
+      },
+      "revId": "8e95b2844a66c3b5a5043a2d9c73f8b4a5c6887d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fbb6ced2_5c25b71b",
         "filename": "c_tasks_pack_1/prime.c",
         "patchSetId": 4
@@ -134,6 +158,30 @@
     },
     {
       "key": {
+        "uuid": "f2d3507b_5d34e48f",
+        "filename": "c_tasks_pack_1/prime.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-25T09:44:29Z",
+      "side": 1,
+      "message": "it is indeed inside isPrime, but in this case I need this check here, not anywhere else",
+      "parentUuid": "d032b0ea_e2d50c58",
+      "range": {
+        "startLine": 54,
+        "startChar": 0,
+        "endLine": 58,
+        "endChar": 5
+      },
+      "revId": "8e95b2844a66c3b5a5043a2d9c73f8b4a5c6887d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "dfea30af_0c8e054e",
         "filename": "c_tasks_pack_1/prime.c",
         "patchSetId": 4
@@ -191,6 +239,30 @@
       "writtenOn": "2017-08-23T16:47:42Z",
       "side": 1,
       "message": "please use %d",
+      "range": {
+        "startLine": 69,
+        "startChar": 24,
+        "endLine": 69,
+        "endChar": 26
+      },
+      "revId": "8e95b2844a66c3b5a5043a2d9c73f8b4a5c6887d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dac4990a_32b2c495",
+        "filename": "c_tasks_pack_1/prime.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-25T09:44:29Z",
+      "side": 1,
+      "message": "man 3 printf\n%d and %i are exactly the same, but you are the boss",
+      "parentUuid": "ce1461e0_8c80e4ed",
       "range": {
         "startLine": 69,
         "startChar": 24,
