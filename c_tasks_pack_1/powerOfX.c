@@ -18,11 +18,10 @@ int main()
 {
     unsigned int base;
     unsigned int number;
-    unsigned int m;
+    unsigned int m = 1;
 
     scanf("%u %u", &base, &number);
 
-    m = 1;
     for (unsigned int i = 0; i < number; i++)
     {
         printf("%i ", m);
