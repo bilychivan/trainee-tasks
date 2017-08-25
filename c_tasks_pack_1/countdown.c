@@ -26,5 +26,6 @@ int main()
         number--;
     }
     printf("%u 0\n", number);
+
     return 0;
 }
