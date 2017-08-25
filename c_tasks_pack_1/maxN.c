@@ -20,8 +20,10 @@
 
 int main()
 {
-    int numberOfInputs, max;
-    scanf("%d %d", &numberOfInputs, &max);
+    unsigned int numberOfInputs;
+    int max;
+
+    scanf("%u %d", &numberOfInputs, &max);
 
     while (numberOfInputs > 1)
     {
@@ -36,5 +38,6 @@ int main()
     }
 
     printf("%i\n", max);
+
     return 0;
 }
