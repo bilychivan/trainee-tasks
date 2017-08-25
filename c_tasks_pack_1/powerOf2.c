@@ -16,17 +16,16 @@
 
 int main()
 {
+    const int power = 2;
     unsigned int number;
-    unsigned int m;
-    #define POWER 2
+    unsigned int m = 1;
 
     scanf("%u", &number);
 
-    m = 1;
     for (unsigned int i = 0; i < number; i++)
     {
         printf("%i ", m);
-        m = m * POWER;
+        m = m * power;
     }
     printf("%i\n", m);
 
