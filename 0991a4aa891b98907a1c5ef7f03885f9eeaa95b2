@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "486859e6_f8ebbd04",
+        "filename": "C_tasks/average2_f.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-25T07:23:52Z",
+      "side": 1,
+      "message": "what about separating this? Do you want me typing this type of error in every commit?",
+      "range": {
+        "startLine": 21,
+        "startChar": 1,
+        "endLine": 22,
+        "endChar": 36
+      },
+      "revId": "0991a4aa891b98907a1c5ef7f03885f9eeaa95b2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
