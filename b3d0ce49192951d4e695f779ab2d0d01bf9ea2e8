@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b74d0ee1_4ca29e16",
+        "filename": "countdown.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-25T11:08:45Z",
+      "side": 1,
+      "message": "avoid",
+      "range": {
+        "startLine": 18,
+        "startChar": 11,
+        "endLine": 18,
+        "endChar": 15
+      },
+      "revId": "b3d0ce49192951d4e695f779ab2d0d01bf9ea2e8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "de90764e_35a40ae9",
+        "filename": "countdown.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-25T11:08:45Z",
+      "side": 1,
+      "message": "separate",
+      "range": {
+        "startLine": 20,
+        "startChar": 1,
+        "endLine": 20,
+        "endChar": 22
+      },
+      "revId": "b3d0ce49192951d4e695f779ab2d0d01bf9ea2e8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
