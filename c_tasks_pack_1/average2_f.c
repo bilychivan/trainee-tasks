@@ -13,11 +13,20 @@ int average(int a, int b)
 
 int average(int a, int b)
 {
-	return (int)((double)a / 2 + (double)b / 2);
+    // source:
+    // http://www.hackersdelight.org/basics2.pdf
+    // Page 19, paragraph 2-5
+    int t = (a & b) + ((a ^ b) >> 1);
+    unsigned t_u = (unsigned)t;
+    return (t + ((t_u >> 31) & (a ^ b)));
 }
 
 int main()
 {
-	printf("Average of 3 and 4 is: %i\n", average(2147483647, 2147483647));
+    printf("Average of -10 and   5 is (should  -2): %d\n", average(-10, 5));
+	printf("Average of   6 and  15 is (should  10): %d\n", average(6, 15));
+	printf("Average of   6 and -15 is (should  -4): %d\n", average(6, -15));
+	printf("Average of  -6 and -15 is (should -10): %d\n", average(-6, -15));
+
 	return 0;
 }
