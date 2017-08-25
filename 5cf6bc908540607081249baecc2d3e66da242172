@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d1197a14_61008f72",
+        "filename": "multiple5.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-25T11:17:13Z",
+      "side": 1,
+      "message": "fail",
+      "range": {
+        "startLine": 23,
+        "startChar": 3,
+        "endLine": 25,
+        "endChar": 4
+      },
+      "revId": "5cf6bc908540607081249baecc2d3e66da242172",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
