@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "cc262174_e01e281b",
+        "filename": "divN.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-25T10:08:22Z",
+      "side": 1,
+      "message": "divisor",
+      "range": {
+        "startLine": 23,
+        "startChar": 5,
+        "endLine": 23,
+        "endChar": 12
+      },
+      "revId": "a351b0370638d7c5ebdbad6ea59b89efbdd3fdae",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ea31ce8c_7b23e05c",
+        "filename": "divN.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-25T10:08:22Z",
+      "side": 1,
+      "message": "?",
+      "range": {
+        "startLine": 23,
+        "startChar": 4,
+        "endLine": 23,
+        "endChar": 5
+      },
+      "revId": "a351b0370638d7c5ebdbad6ea59b89efbdd3fdae",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f8583719_54e81c79",
+        "filename": "divN.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-25T10:08:22Z",
+      "side": 1,
+      "message": "0 1000000000000000 100000001\n\nin this case 100000000 times for sure this will not be 0. how much unnecessary iterations do we will have?",
+      "range": {
+        "startLine": 27,
+        "startChar": 2,
+        "endLine": 27,
+        "endChar": 27
+      },
+      "revId": "a351b0370638d7c5ebdbad6ea59b89efbdd3fdae",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
