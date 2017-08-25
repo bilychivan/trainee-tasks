@@ -19,15 +19,20 @@
 
 int main()
 {
-    int start, max, divisor;
-    scanf("%d %d %d", &start, &max, &divisor);
+    int start, max;
+    unsigned divisor;
 
-    for ( ; start <= max; start++)
+    scanf("%d %d %u", &start, &max, &divisor);
+
+    if ((start % divisor) != 0)
     {
-        if ((start % divisor) == 0)
-        {
-            printf("%d\n", start);
-        }
+        start = start - start % divisor + divisor;
     }
+
+    for ( ; start <= max; start += divisor)
+    {
+        printf("%d\n", start);
+    }
+
     return 0;
 }
