@@ -10,7 +10,6 @@ int isPrime(int n)
 */
 
 #include <stdio.h>
-
 int isPrime(int n)
 {
     if (n <= 1)
@@ -35,6 +34,7 @@ int isPrime(int n)
             return 0;
         }
     }
+
     return 1;
 }
 
@@ -44,7 +44,7 @@ int main()
     {
         if (isPrime(i))
         {
-            printf("%i ", i);
+            printf("%d ", i);
         }
     }
     return 0;
