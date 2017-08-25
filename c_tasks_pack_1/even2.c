@@ -19,22 +19,29 @@
 
 int main()
 {
-    unsigned int start, max;
-    scanf("%u %u", &start, &max);
+    const int step = 2;
+    int start, max;
 
-    if ((start % 2) != 0)
+    scanf("%d %d", &start, &max);
+
+    if ((start % step) != 0)
     {
         start++;
     }
 
-    for (unsigned int i = start; i < max; i += 2)
+    if ((max % step) != 0)
     {
-        printf("%u ", i);
+        max--;
     }
 
-    if ((max % 2) == 0)
+    for (int i = start; i < max; i += step)
     {
-        printf("%u\n", max);
+        printf("%d_", i);
+    }
+
+    if ((max % step) == 0)
+    {
+        printf("%d\n", max);
     }
     else
     {
