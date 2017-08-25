@@ -40,25 +40,30 @@ int isPrime(int n)
             return 0;
         }
     }
+
     return 1;
 }
 
 int main()
 {
     unsigned int target;
+    unsigned int current = 1;
+
     scanf("%d", &target);
+
     if (target < 1)
     {
         printf("-1\n");
+        return 0;
     }
+
     if (target == 1)
     {
         printf("2\n");
         return 0;
     }
 
-    unsigned int current = 1;
-    for (int i = 3;; i+=2)
+    for (int i = 3;; i += 2)
     {
         if (isPrime(i))
         {
@@ -66,10 +71,11 @@ int main()
 
             if (current == target)
             {
-                printf("%i\n", i);
+                printf("%d\n", i);
                 break;
             }
         }
     }
+
     return 0;
-    }
+}
