@@ -22,7 +22,14 @@ int main()
 
     if ((dividend % divider) != 0)
     {
-        printf("%i\n", (dividend / divider) * divider);
+        if (dividend >= 0)
+        {
+            printf("%i\n", (dividend / divider) * divider);
+        }
+        else
+        {
+            printf("%i\n", (dividend / divider) * divider - divider);
+        }
     }
     else
     {
