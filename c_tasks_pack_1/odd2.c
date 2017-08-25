@@ -17,20 +17,27 @@
 
 int main()
 {
+    const int divisor = 2;
     unsigned int start, max;
+
     scanf("%u %u", &start, &max);
 
-    if ((start % 2) == 0)
+    if ((start % divisor) == 0)
     {
         start++;
     }
 
-    for (unsigned int i = start; i < max; i += 2)
+    if ((max % divisor) == 0)
+    {
+        max--;
+    }
+
+    for (unsigned int i = start; i < max; i += divisor)
     {
         printf("%u ", i);
     }
 
-    if ((max % 2) != 0)
+    if ((max % divisor) != 0)
     {
         printf("%u\n", max);
     }
@@ -39,5 +46,5 @@ int main()
         printf("\n");
     }
 
-	return 0;
+    return 0;
 }
