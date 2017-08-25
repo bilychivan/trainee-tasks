@@ -36,11 +36,12 @@ int main()
     int plain2;
     int encrypted2;
     int length;
-    int inputs[length];
     int keyA;
     int keyB;
 
     scanf("%d %d %d %d %d", &plain1, &encrypted1, &plain2, &encrypted2, &length);
+
+    int inputs[length];
 
     for (int i = 0; i < length; i++)
     {
@@ -55,5 +56,6 @@ int main()
         printf("%i ", (inputs[i] - keyB) / keyA);
     }
     printf("%i\n", (inputs[length-1] - keyB) / keyA);
+
     return 0;
 }
