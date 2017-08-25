@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "efe4cf73_cea0c0ee",
+        "filename": "c_tasks_pack_1/maxN.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-25T07:57:03Z",
+      "side": 1,
+      "message": "See my comments in minN",
+      "parentUuid": "9398d631_dc336759",
+      "range": {
+        "startLine": 23,
+        "startChar": 8,
+        "endLine": 23,
+        "endChar": 22
+      },
+      "revId": "c9928b448d323369abb3fb95981b54e28ac28537",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "44af0146_6f05aad9",
         "filename": "c_tasks_pack_1/maxN.c",
         "patchSetId": 4
