@@ -17,6 +17,7 @@ yes
 int main()
 {
     int number;
+
     scanf("%d", &number);
 
     if ((number % 2) == 1)
