@@ -31,13 +31,12 @@ int main()
 {
     unsigned int lines;
     unsigned int row, col;
-    unsigned int value;
 
     scanf("%u", &lines);
 
     for (row = 0; row < lines; row++)
     {
-        value = 1;
+        unsigned int value = 1;
         for (col = 0; col <= row; col++)
         {
             printf("%d ", value);
@@ -45,5 +44,6 @@ int main()
         }
         printf("\n");
     }
+
     return 0;
 }
