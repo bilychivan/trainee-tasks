@@ -37,5 +37,6 @@ int main()
     }
 
     printf("%i\n", max);
+
     return 0;
 }
