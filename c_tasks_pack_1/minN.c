@@ -20,8 +20,10 @@
 
 int main()
 {
-    int numberOfInputs, min;
-    scanf("%d %d", &numberOfInputs, &min);
+    unsigned int numberOfInputs;
+    int min;
+
+    scanf("%u %d", &numberOfInputs, &min);
 
     while (numberOfInputs > 1)
     {
@@ -36,5 +38,6 @@ int main()
     }
 
     printf("%i\n", min);
+
     return 0;
 }
