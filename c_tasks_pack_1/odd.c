@@ -14,17 +14,25 @@
 
 #include <stdio.h>
 
+#define DIVISOR 2
+
 int main()
 {
     unsigned int max;
+
     scanf("%u", &max);
 
-    for (unsigned int i = 1; i < max; i += 2)
+    if ((max % DIVISOR) == 0)
+    {
+        max--;
+    }
+
+    for (unsigned int i = 1; i < max; i += DIVISOR)
     {
         printf("%u ", i);
     }
 
-    if ((max % 2) != 0)
+    if ((max % DIVISOR) != 0)
     {
         printf("%u\n", max);
     }
@@ -32,5 +40,6 @@ int main()
     {
         printf("\n");
     }
+
     return 0;
 }
