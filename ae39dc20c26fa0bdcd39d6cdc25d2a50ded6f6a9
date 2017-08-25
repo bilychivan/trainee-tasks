@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f3963b0e_6057c0b6",
+        "filename": "odd.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-25T10:01:31Z",
+      "side": 1,
+      "message": "avoid this initialization",
+      "range": {
+        "startLine": 18,
+        "startChar": 8,
+        "endLine": 18,
+        "endChar": 12
+      },
+      "revId": "ae39dc20c26fa0bdcd39d6cdc25d2a50ded6f6a9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "625fb797_e8112c94",
+        "filename": "odd.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-25T10:01:31Z",
+      "side": 1,
+      "message": "in case there will be 10000000000000 numbers you can avoid checking at least half of them",
+      "range": {
+        "startLine": 22,
+        "startChar": 27,
+        "endLine": 22,
+        "endChar": 30
+      },
+      "revId": "ae39dc20c26fa0bdcd39d6cdc25d2a50ded6f6a9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf4cbfc0_1c6f861d",
+        "filename": "odd.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-25T10:01:31Z",
+      "side": 1,
+      "message": "this is fail - print n-1 number with space and n-th without",
+      "range": {
+        "startLine": 24,
+        "startChar": 3,
+        "endLine": 27,
+        "endChar": 4
+      },
+      "revId": "ae39dc20c26fa0bdcd39d6cdc25d2a50ded6f6a9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
