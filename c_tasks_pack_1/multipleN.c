@@ -20,20 +20,25 @@ int main()
 {
     unsigned int max;
     int divisor;
-    scanf("%u %i", &max, &divisor);
 
-    for (unsigned int i = 0; i < max; i += divisor)
+    scanf("%u %d", &max, &divisor);
+
+    if (divisor < 0)
     {
-        printf("%u ", i);
+        divisor *= -1;
     }
 
-    if ((max % divisor) == 0)
+    for (unsigned int i = 0; i <= max; i += divisor)
     {
-        printf("%u\n", max);
+        if ((i + divisor) <= max)
+        {
+            printf("%u ", i);
+        }
+        else
+        {
+            printf("%u\n", i);
+        }
     }
-    else
-    {
-        printf("\n");
-    }
-	return 0;
+
+    return 0;
 }
