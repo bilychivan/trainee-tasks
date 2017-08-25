@@ -18,15 +18,20 @@
 
 int main()
 {
+    const int divisor = 3;
     int start, max;
+
     scanf("%d %d", &start, &max);
 
-    for ( ; start <= max; start++)
+    if ((start % divisor) != 0)
     {
-        if ((start % 3) == 0)
-        {
-            printf("%d\n", start);
-        }
+        start = start - start % divisor + divisor;
     }
+
+    for ( ; start <= max; start += divisor)
+    {
+        printf("%d\n", start);
+    }
+
     return 0;
 }
