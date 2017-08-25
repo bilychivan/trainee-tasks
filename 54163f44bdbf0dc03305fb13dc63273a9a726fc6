@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7754c272_a50ee7e5",
+        "filename": "average_f.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-25T11:49:13Z",
+      "side": 1,
+      "message": "please do not use words with capital letter for variables",
+      "range": {
+        "startLine": 16,
+        "startChar": 5,
+        "endLine": 16,
+        "endChar": 14
+      },
+      "revId": "54163f44bdbf0dc03305fb13dc63273a9a726fc6",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "753d79be_8b0ae2ed",
+        "filename": "average_f.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-25T11:49:13Z",
+      "side": 1,
+      "message": "you can avoid usage of Remainder variable",
+      "revId": "54163f44bdbf0dc03305fb13dc63273a9a726fc6",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
