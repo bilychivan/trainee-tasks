@@ -48,6 +48,30 @@
     },
     {
       "key": {
+        "uuid": "133abdb9_e45b4c48",
+        "filename": "c_tasks_pack_1/minN.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-25T07:51:42Z",
+      "side": 1,
+      "message": "https://english.stackexchange.com/questions/9439/amount-vs-number-vs-quantity\n\nNumber of inputs is perfectly fine name for it. Have you even encountered word combination \u0027quantity of inputs\u0027? I haven\u0027t. I don\u0027t see why it ever be better.\n\nI\u0027ll make it unsigned.",
+      "parentUuid": "b7f72dae_9fcd2e26",
+      "range": {
+        "startLine": 23,
+        "startChar": 8,
+        "endLine": 23,
+        "endChar": 22
+      },
+      "revId": "c70d4308f788bc89a12339a10705b10a35b75845",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "96c678e4_6dfccf5f",
         "filename": "c_tasks_pack_1/minN.c",
         "patchSetId": 4
