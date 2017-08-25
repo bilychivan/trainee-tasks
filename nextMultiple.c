@@ -14,14 +14,18 @@
 #include <stdio.h>
 
 int main(void) {
-	int dividend = 0;
-	int	divider = 0;
+	int dividend;
+	int divider;
+	int result;
 
 	scanf("%d %d", &dividend, &divider);
-	while ((dividend % divider) != 0) {
-		dividend++;
+
+	if (divider < 0) {
+		divider *= -1;
 	}
-	printf("%d\n", dividend);
+	result = dividend - (dividend % divider);
+	result += divider;
+	printf("%d\n", result);
 
 	return 0;
 }

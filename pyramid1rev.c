@@ -17,7 +17,7 @@
 #include <stdio.h>
 
 int main(void) {
-	int total = 0;
+	int total;
 
 	scanf("%d", &total);
 

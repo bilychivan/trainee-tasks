@@ -14,10 +14,11 @@
 
 #include <stdio.h>
 
-int	main(void) {
-	int NumLen = 0;
+int main(void) {
+	int NumLen;
 
 	scanf("%d", &NumLen);
+	
 	while (NumLen > 0) {
 		printf("%d ", NumLen);
 		NumLen--;

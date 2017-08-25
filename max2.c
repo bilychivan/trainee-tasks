@@ -14,9 +14,9 @@
 
 #include <stdio.h>
 
-int	main(void) {
-	int first = 0;
-	int second = 0;
+int main(void) {
+	int first;
+	int second;
 
 	scanf("%d %d", &first, &second);
 	if (first > second) {

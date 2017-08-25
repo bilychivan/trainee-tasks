@@ -19,10 +19,11 @@
 #include <stdio.h>
 
 int main(void) {
-	int total = 0;
+	int total;
 	int num;
 
 	scanf("%d", &total);
+	
 	for (int row = total; row > 0; row--) {
 		num = (row - 1) * total + 1;
 		for (int col = 1; col < total; col++) {

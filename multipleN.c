@@ -17,19 +17,25 @@
 #include <stdio.h>
 
 int main(void) {
-	int num = 0;
-	int	step = 0;
+	int max;
+	int	divisor;
+	int step;
+	int newMax;
 
-	scanf("%d %d", &num, &step);
-	for (int i = 0; i < num; i++) {
-		if (i % step == 0) {
-			printf("%d", i);
-			if ((i + 1) < num) {
-				printf(" ");
-			}
-		}
+	scanf("%d %d", &max, &divisor);
+
+	if (divisor < 0) {
+		divisor *= -1;
 	}
-	printf("\n");
+	step = 0;
+	for ( ; step % divisor != 0; ) {
+		step += 1;
+	}
+	newMax = max - divisor; 
+	for ( ; step <= newMax; step += divisor) {
+		printf("%d ", step);
+	}
+	printf("%d\n", step);
 
 	return 0;
 }

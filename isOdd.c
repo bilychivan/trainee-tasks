@@ -15,9 +15,10 @@ yes
 #include <stdio.h>
 
 int main(void) {
-	int res = 0;
+	int res;
 
 	scanf("%d", &res);
+	
 	if (res % 2 == 0) {
 		printf("no\n");
 	} else {

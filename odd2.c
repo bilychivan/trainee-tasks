@@ -16,20 +16,16 @@
 #include <stdio.h>
 
 int main(void) {
-	int first = 0;
-	int sec = 0;
+	int min;
+	int max;
+	int odd;
 
-	scanf("%d %d", &first, &sec);
-	while (first <= sec) {
-		if (first % 2) {
-			printf("%d", first);
-			if ((first + 1) < sec) {
-				printf(" ");
-			}
-		}
-		first++;
+	scanf("%d %d", &min, &max);
+
+	for (odd = min; odd < max; odd += 2) {
+		printf("%d ", odd);
 	}
-	printf("\n");
+	printf("%d\n", odd);
 
 	return 0;
 }

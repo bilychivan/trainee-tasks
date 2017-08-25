@@ -15,19 +15,15 @@
 #include <stdio.h>
 
 int main(void) {
-	int num = 0;
+	int num;
+	int odd;
 
 	scanf("%d", &num);
 
-	for (int i = 0; i <= num; i++) {
-		if (i % 2) {
-			printf("%d", i);
-			if ((i + 1) < num) {
-				printf(" ");
-			}
-		}
+	for (odd = 1; odd < num; odd += 2) {
+		printf("%d ", odd);
 	}
-	printf("\n");
+	printf("%d\n", odd);
 
 	return 0;
 }

@@ -12,7 +12,11 @@ int average(int a, int b)
 #include <stdio.h>
 
 int average(int a, int b) {
-	int Remainder = (a % 2) + (b % 2);
+	int rem = (a % 2) + (b % 2);
 
-	return ((a / 2) + (b / 2) + (Remainder / 2));
+	if (rem > 1) {
+		return ((a / 2) + (b / 2) + (rem / 2));
+	}
+
+	return (a / 2) + (b / 2);
 }

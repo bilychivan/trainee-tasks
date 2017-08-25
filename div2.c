@@ -17,17 +17,22 @@
 
 #include <stdio.h>
 
+#define STEP 2
+
 int main(void) {
-	int min = 0;
-	int max = 0;
+	int min;
+	int max;
+	int multiple;
 
 	scanf("%d %d", &min, &max);
-	while (min <= max) {
-		if (min % 2 == 0) {
-			printf("%d\n", min);
-		}
-		min++;
-	}
 
+	multiple = min;
+	for ( ; multiple % STEP != 0; ) {
+		multiple += 1;
+	}
+	for ( ; multiple <= max; multiple += STEP) {
+		printf("%d\n", multiple);
+	}
+	
 	return 0;
 }

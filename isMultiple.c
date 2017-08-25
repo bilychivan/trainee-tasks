@@ -15,11 +15,11 @@ yes
 #include <stdio.h>
 
 int main(void) {
-	int first = 0;
-	int	sec = 0;
+	int dividend;
+	int divisor;
 
-	scanf("%d %d", &first, &sec);
-	if ((first % sec) == 0) {
+	scanf("%d %d", &dividend, &divisor);
+	if ((dividend % divisor) == 0) {
 		printf("yes\n");
 	} else {
 		printf("no\n");

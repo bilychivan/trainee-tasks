@@ -20,8 +20,8 @@
 
 int main(void) {
 	int res = 2147483647;
-	int len = 0;
-	int tmp = 0;
+	int len;
+	int tmp;
 
 	scanf("%d", &len);
 	for (int i = 0; i < len; i++) {

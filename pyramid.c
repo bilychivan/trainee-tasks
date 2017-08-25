@@ -19,15 +19,16 @@
 #include <stdio.h>
 
 int main(void) {
-	int total = 0;
-	int rows = 0;
-	int cols = 0;
+	int total;
+	int rows;
+	int cols;
 
 	scanf("%d %d %d", &total, &rows, &cols);
+
 	if (rows < cols) {
 		rows = cols;
 	}
-	for (int row = rows + 1; row < total + 1; row++) {
+	for (int row = rows + 1; row <= total; row++) {
 		for (int col = cols + 1; col < row; col++) {
 			printf("%d ", col);
 		}

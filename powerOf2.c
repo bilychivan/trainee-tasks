@@ -14,23 +14,18 @@
 
 #include <stdio.h>
 
-int power(int n, int k) {
-	if (k <= 0) {
-		return 1;
-	}
-
-	return (n * power(n, --k));
-}
-
 int main(void) {
-	int res = 0;
-	int pos;
+	int len;
+	int base = 2;
+	int power = 1;
 
-	scanf("%d", &res);
-	for (pos = 0; pos < res; pos++) {
-		printf("%d ", power(2, pos));
+	scanf("%d", &len);
+
+	for (int i = 0; i < len; i++) {
+		printf("%d ", power);
+		power *= base;
 	}
-	printf("%d\n", power(2, pos));
+	printf("%d\n", power);
 
 	return 0;
 }

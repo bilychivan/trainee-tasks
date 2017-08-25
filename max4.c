@@ -15,22 +15,25 @@
 
 #include <stdio.h>
 
-int	main(void) {
-	int first = 0;
-	int second = 0;
-	int	third = 0;
-	int fourth = 0;
+int main(void) {
+	int a;
+	int b;
+	int c;
+	int d;
+	int max;
 
-	scanf("%d %d %d %d", &first, &second, &third, &fourth);
-	if (first > second && first > third && first > fourth) {
-		printf("%d\n", first);
-	} else if (second > third && second > fourth) {
-		printf("%d\n", second);
-	} else if (third > fourth) {
-		printf("%d\n", third);
-	} else {
-		printf("%d\n", fourth);
+	scanf("%d %d %d %d", &a, &b, &c, &d);
+	max = a;
+	if (b > max) {
+		max = b;
 	}
+	if (c > max) {
+		max = c;
+	}
+	if (d > max) {
+		max = d;
+	}
+	printf("%d\n", max);
 
 	return 0;
 }

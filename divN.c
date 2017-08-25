@@ -18,17 +18,20 @@
 #include <stdio.h>
 
 int main(void) {
-	int min = 0;
-	int max = 0;
-	int	divider = 0;
+	int min;
+	int max;
+	int	divisor;
+	int step;
 
-	scanf("%d %d %d", &min, &max, &divider);
-	while (min <= max) {
-		if (min % divider == 0) {
-			printf("%d\n", min);
-		}
-		min++;
+	scanf("%d %d %d", &min, &max, &divisor);
+
+	step = min;
+	for ( ; step % divisor != 0; ) {
+		step += 1;
 	}
-
+	for ( ; step <= max; step += divisor) {
+		printf("%d\n", step);
+	}
+	
 	return 0;
 }

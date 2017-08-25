@@ -19,12 +19,12 @@
 #include <stdio.h>
 
 int main(void) {
-	int res = 0;
-	int len = 0;
-	int tmp = 0;
+	int res;
+	int len;
+	int tmp;
 
 	scanf("%d", &len);
-	for (int i = 0; i < len; ++i) {
+	for (int i = 0; i < len; i++) {
 		scanf("%d", &tmp);
 		if (tmp >= res) {
 			res = tmp;

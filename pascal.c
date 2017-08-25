@@ -48,7 +48,7 @@ int binomial(int row, int col)
 }
 
 int main(void) {
-	int len = 0;
+	int len;
 	int col;
 
 	scanf ("%d", &len);
