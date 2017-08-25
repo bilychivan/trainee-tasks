@@ -17,6 +17,7 @@ yes
 int main()
 {
     int number, divisor;
+
     scanf("%d %d", &number, &divisor);
 
     if ((number % divisor) == 0)
