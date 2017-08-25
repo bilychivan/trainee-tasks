@@ -16,16 +16,22 @@
 
 int main()
 {
+    const int step = 2;
     unsigned int max;
+
     scanf("%u", &max);
 
-    printf("0 ");
-    for (unsigned int i = 2; i < max; i += 2)
+    if ((max % step) != 0)
+    {
+        max--;
+    }
+
+    for (unsigned int i = 0; i < max; i += step)
     {
         printf("%u ", i);
     }
 
-    if ((max % 2) == 0)
+    if ((max % step) == 0)
     {
         printf("%u\n", max);
     }
@@ -33,5 +39,6 @@ int main()
     {
         printf("\n");
     }
+
     return 0;
 }
