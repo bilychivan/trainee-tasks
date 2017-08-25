@@ -21,6 +21,10 @@ int main()
 
     if ((dividend % divider) != 0)
     {
+        if (divider < 0)
+        {
+            divider *= -1;
+        }
         printf("%i\n", (dividend / divider) * divider + divider);
     }
     else
