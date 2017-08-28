@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "51ed426e_a87ee113",
+        "filename": "c_tasks_pack_2/rot13.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T17:30:01Z",
+      "side": 1,
+      "message": "avoid",
+      "range": {
+        "startLine": 42,
+        "startChar": 0,
+        "endLine": 50,
+        "endChar": 5
+      },
+      "revId": "d31b9e12ece260383264357c0db905311e454a39",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
