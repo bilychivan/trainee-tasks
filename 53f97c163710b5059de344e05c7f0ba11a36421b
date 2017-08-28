@@ -1,0 +1,130 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "649ff781_1b0d7624",
+        "filename": "clibrary/build/build.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:38:56Z",
+      "side": 1,
+      "message": "this is not an error, but __usually__ we do not force user to create build directory. this script is located in the root (if exist). build instructions provided in README.",
+      "revId": "53f97c163710b5059de344e05c7f0ba11a36421b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "059b3ecb_ecabeb1b",
+        "filename": "clibrary/build/build.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:38:56Z",
+      "side": 1,
+      "message": "Add !#/bin/bash (or whatever)",
+      "revId": "53f97c163710b5059de344e05c7f0ba11a36421b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c5d5d590_2b638d1c",
+        "filename": "clibrary/demo/demo.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:38:56Z",
+      "side": 1,
+      "message": "fail, do not use ../ in path",
+      "range": {
+        "startLine": 2,
+        "startChar": 9,
+        "endLine": 2,
+        "endChar": 38
+      },
+      "revId": "53f97c163710b5059de344e05c7f0ba11a36421b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f1aefe86_cf8a16a6",
+        "filename": "clibrary/library/include/lyslib.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:38:56Z",
+      "side": 1,
+      "message": "remove extern",
+      "range": {
+        "startLine": 4,
+        "startChar": 4,
+        "endLine": 4,
+        "endChar": 10
+      },
+      "revId": "53f97c163710b5059de344e05c7f0ba11a36421b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d1d715df_15546bfb",
+        "filename": "clibrary/library/include/lyslib.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:38:56Z",
+      "side": 1,
+      "message": "remove spaces",
+      "range": {
+        "startLine": 6,
+        "startChar": 0,
+        "endLine": 6,
+        "endChar": 4
+      },
+      "revId": "53f97c163710b5059de344e05c7f0ba11a36421b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d2b9f19b_5af148a0",
+        "filename": "clibrary/library/src/lyslib.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:38:56Z",
+      "side": 1,
+      "message": "this is fail, read about #include \u003c...\u003e",
+      "range": {
+        "startLine": 1,
+        "startChar": 9,
+        "endLine": 1,
+        "endChar": 30
+      },
+      "revId": "53f97c163710b5059de344e05c7f0ba11a36421b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
