@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a530d101_a07e5cd0",
+        "filename": "c_tasks_pack_2/lowerCase.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T17:21:58Z",
+      "side": 1,
+      "message": "please avoid",
+      "range": {
+        "startLine": 35,
+        "startChar": 0,
+        "endLine": 42,
+        "endChar": 5
+      },
+      "revId": "a2dff90990e32adec823169ba1f87f9850458da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
