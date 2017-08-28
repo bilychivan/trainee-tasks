@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "c93628a4_34d6f536",
+        "filename": "c_tasks_pack_2/base2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-28T14:19:31Z",
+      "side": 1,
+      "message": "yeah well, will fix",
+      "parentUuid": "4774db36_8638f2e5",
+      "range": {
+        "startLine": 45,
+        "startChar": 21,
+        "endLine": 45,
+        "endChar": 22
+      },
+      "revId": "f4b8ca556d1241b7684bb0480a14aeb0df71c281",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "cddb94c4_c2c7c907",
         "filename": "c_tasks_pack_2/base2.c",
         "patchSetId": 1
@@ -48,6 +72,30 @@
     },
     {
       "key": {
+        "uuid": "4c75d8fb_6940379e",
+        "filename": "c_tasks_pack_2/base2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-28T14:19:31Z",
+      "side": 1,
+      "message": "will fix",
+      "parentUuid": "cddb94c4_c2c7c907",
+      "range": {
+        "startLine": 47,
+        "startChar": 22,
+        "endLine": 47,
+        "endChar": 23
+      },
+      "revId": "f4b8ca556d1241b7684bb0480a14aeb0df71c281",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "91c54ebb_fd538a43",
         "filename": "c_tasks_pack_2/base2.c",
         "patchSetId": 1
@@ -59,6 +107,30 @@
       "writtenOn": "2017-08-28T14:09:40Z",
       "side": 1,
       "message": "this could be moved to above calculation somehow",
+      "range": {
+        "startLine": 50,
+        "startChar": 21,
+        "endLine": 50,
+        "endChar": 24
+      },
+      "revId": "f4b8ca556d1241b7684bb0480a14aeb0df71c281",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "31cf6dc3_0b6dece9",
+        "filename": "c_tasks_pack_2/base2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-28T14:19:31Z",
+      "side": 1,
+      "message": "that wouldn\u0027t make sense, we need this \u00270\u0027 to output value, not more, not less",
+      "parentUuid": "91c54ebb_fd538a43",
       "range": {
         "startLine": 50,
         "startChar": 21,
