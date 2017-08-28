@@ -1,0 +1,159 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0941cec3_940e1719",
+        "filename": "c_tasks_pack_2/lowerCase.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:16:24Z",
+      "side": 1,
+      "message": "this variable does not required in this task",
+      "range": {
+        "startLine": 23,
+        "startChar": 4,
+        "endLine": 23,
+        "endChar": 29
+      },
+      "revId": "a2af80e86cbd3cb8b75d9cf77306347677728dc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "58bb5d1e_0cfb857b",
+        "filename": "c_tasks_pack_2/lowerCase.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:16:24Z",
+      "side": 1,
+      "message": "please read task carefully",
+      "range": {
+        "startLine": 25,
+        "startChar": 23,
+        "endLine": 25,
+        "endChar": 35
+      },
+      "revId": "a2af80e86cbd3cb8b75d9cf77306347677728dc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8133bc49_4c5659d1",
+        "filename": "c_tasks_pack_2/lowerCase.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:16:24Z",
+      "side": 1,
+      "message": "move to declaration",
+      "range": {
+        "startLine": 25,
+        "startChar": 4,
+        "endLine": 25,
+        "endChar": 21
+      },
+      "revId": "a2af80e86cbd3cb8b75d9cf77306347677728dc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6dbbffa7_98eab489",
+        "filename": "c_tasks_pack_2/lowerCase.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:16:24Z",
+      "side": 1,
+      "message": "this operations does not required in this task",
+      "range": {
+        "startLine": 27,
+        "startChar": 4,
+        "endLine": 29,
+        "endChar": 34
+      },
+      "revId": "a2af80e86cbd3cb8b75d9cf77306347677728dc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d8a6473c_58c53099",
+        "filename": "c_tasks_pack_2/lowerCase.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:16:24Z",
+      "side": 1,
+      "message": "you do not need array to solve this task",
+      "range": {
+        "startLine": 31,
+        "startChar": 4,
+        "endLine": 33,
+        "endChar": 50
+      },
+      "revId": "a2af80e86cbd3cb8b75d9cf77306347677728dc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "90eda13a_84a5c5a5",
+        "filename": "c_tasks_pack_2/lowerCase.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:16:24Z",
+      "side": 1,
+      "message": "remove line",
+      "revId": "a2af80e86cbd3cb8b75d9cf77306347677728dc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7d9d8a5a_5a3de9c7",
+        "filename": "c_tasks_pack_2/lowerCase.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:16:24Z",
+      "side": 1,
+      "message": "please use fprintf()",
+      "range": {
+        "startLine": 45,
+        "startChar": 4,
+        "endLine": 45,
+        "endChar": 10
+      },
+      "revId": "a2af80e86cbd3cb8b75d9cf77306347677728dc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
