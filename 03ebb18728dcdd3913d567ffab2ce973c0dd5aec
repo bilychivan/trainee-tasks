@@ -49,6 +49,30 @@
     },
     {
       "key": {
+        "uuid": "88c87028_e7f62911",
+        "filename": "c_tasks_pack_2/arrayExchange_f.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:50:04Z",
+      "side": 1,
+      "message": "in this case there is exist a solution where you do not to modify input data at all.\n\nI do not approve creating of new variables in cases we a) do not need them b) we can use ones from function input data.\n\nThe main rule is to not change meaning of variable during program executing.",
+      "parentUuid": "a3b4c125_c2d5fc3e",
+      "range": {
+        "startLine": 21,
+        "startChar": 4,
+        "endLine": 21,
+        "endChar": 13
+      },
+      "revId": "03ebb18728dcdd3913d567ffab2ce973c0dd5aec",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a502770_cd9e5683",
         "filename": "c_tasks_pack_2/arrayExchange_f.c",
         "patchSetId": 1
@@ -84,6 +108,30 @@
       "side": 1,
       "message": "what? elaborate please",
       "parentUuid": "3a502770_cd9e5683",
+      "range": {
+        "startLine": 25,
+        "startChar": 29,
+        "endLine": 25,
+        "endChar": 34
+      },
+      "revId": "03ebb18728dcdd3913d567ffab2ce973c0dd5aec",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "03a7f687_6ba671d2",
+        "filename": "c_tasks_pack_2/arrayExchange_f.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:50:04Z",
+      "side": 1,
+      "message": "on every iteration you always calculate the same value array + 1, as both of them are constants in context of this loop",
+      "parentUuid": "7b340c0f_6e2eedd9",
       "range": {
         "startLine": 25,
         "startChar": 29,
