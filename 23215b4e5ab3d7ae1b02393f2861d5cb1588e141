@@ -46,6 +46,30 @@
       "revId": "23215b4e5ab3d7ae1b02393f2861d5cb1588e141",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4b64ff0a_d5eeaa3e",
+        "filename": "c_tasks_pack_2/divMN.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:54:08Z",
+      "side": 1,
+      "message": "this was discussed on our meeting on Friday",
+      "parentUuid": "83a290e0_5963bb45",
+      "range": {
+        "startLine": 28,
+        "startChar": 24,
+        "endLine": 28,
+        "endChar": 30
+      },
+      "revId": "23215b4e5ab3d7ae1b02393f2861d5cb1588e141",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
