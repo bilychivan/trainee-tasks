@@ -1,0 +1,5 @@
+Simple C library
+-----
+
+To build it you need to run build.sh from build folder.
+Demo application is also included.
