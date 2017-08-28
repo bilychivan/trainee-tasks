@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4774db36_8638f2e5",
+        "filename": "c_tasks_pack_2/base2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:09:40Z",
+      "side": 1,
+      "message": "magic",
+      "range": {
+        "startLine": 45,
+        "startChar": 21,
+        "endLine": 45,
+        "endChar": 22
+      },
+      "revId": "f4b8ca556d1241b7684bb0480a14aeb0df71c281",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "cddb94c4_c2c7c907",
+        "filename": "c_tasks_pack_2/base2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:09:40Z",
+      "side": 1,
+      "message": "magic",
+      "range": {
+        "startLine": 47,
+        "startChar": 22,
+        "endLine": 47,
+        "endChar": 23
+      },
+      "revId": "f4b8ca556d1241b7684bb0480a14aeb0df71c281",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "91c54ebb_fd538a43",
+        "filename": "c_tasks_pack_2/base2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T14:09:40Z",
+      "side": 1,
+      "message": "this could be moved to above calculation somehow",
+      "range": {
+        "startLine": 50,
+        "startChar": 21,
+        "endLine": 50,
+        "endChar": 24
+      },
+      "revId": "f4b8ca556d1241b7684bb0480a14aeb0df71c281",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
