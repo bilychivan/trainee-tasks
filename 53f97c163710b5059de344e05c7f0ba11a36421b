@@ -59,6 +59,30 @@
     },
     {
       "key": {
+        "uuid": "eeae6bd1_fb93a472",
+        "filename": "clibrary/demo/demo.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-28T14:42:51Z",
+      "side": 1,
+      "message": "I have to copy lyslib.h from source to demo? I need to provide demo with some header.",
+      "parentUuid": "c5d5d590_2b638d1c",
+      "range": {
+        "startLine": 2,
+        "startChar": 9,
+        "endLine": 2,
+        "endChar": 38
+      },
+      "revId": "53f97c163710b5059de344e05c7f0ba11a36421b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "f1aefe86_cf8a16a6",
         "filename": "clibrary/library/include/lyslib.h",
         "patchSetId": 1
