@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4724966d_ca575e14",
+        "filename": "c_tasks_2/base2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T16:51:04Z",
+      "side": 1,
+      "message": "remove",
+      "range": {
+        "startLine": 23,
+        "startChar": 31,
+        "endLine": 23,
+        "endChar": 65
+      },
+      "revId": "0ec7a031fdd283a765fa8731a940002b1d10e909",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "39198916_1d4a25bd",
+        "filename": "c_tasks_2/base2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T16:51:04Z",
+      "side": 1,
+      "message": "snake_style",
+      "range": {
+        "startLine": 27,
+        "startChar": 13,
+        "endLine": 27,
+        "endChar": 21
+      },
+      "revId": "0ec7a031fdd283a765fa8731a940002b1d10e909",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1ef4b101_c9282117",
+        "filename": "c_tasks_2/base2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T16:51:04Z",
+      "side": 1,
+      "message": "camelStyle",
+      "range": {
+        "startLine": 28,
+        "startChar": 19,
+        "endLine": 28,
+        "endChar": 30
+      },
+      "revId": "0ec7a031fdd283a765fa8731a940002b1d10e909",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "aeb42be9_416e0892",
+        "filename": "c_tasks_2/base2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T16:51:04Z",
+      "side": 1,
+      "message": "Thank you, Captain Obvious!",
+      "range": {
+        "startLine": 42,
+        "startChar": 8,
+        "endLine": 42,
+        "endChar": 25
+      },
+      "revId": "0ec7a031fdd283a765fa8731a940002b1d10e909",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa49c822_1005254b",
+        "filename": "c_tasks_2/base2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T16:51:04Z",
+      "side": 1,
+      "message": "Thank you, Captain Obvious!",
+      "range": {
+        "startLine": 54,
+        "startChar": 41,
+        "endLine": 54,
+        "endChar": 65
+      },
+      "revId": "0ec7a031fdd283a765fa8731a940002b1d10e909",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
