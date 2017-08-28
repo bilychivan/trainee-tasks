@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4b99c2a1_247b8184",
+        "filename": "c_tasks_pack_2/sequenceLen.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T17:19:21Z",
+      "side": 1,
+      "message": "this is OK, but in scope of our current tasks please avoid this  chacks",
+      "range": {
+        "startLine": 27,
+        "startChar": 8,
+        "endLine": 27,
+        "endChar": 37
+      },
+      "revId": "090330d1aceb8507edf7f43a6961f1b8efbb96a3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "27341500_653efad4",
+        "filename": "c_tasks_pack_2/sequenceLen.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T17:19:21Z",
+      "side": 1,
+      "message": "just improvement - you can close this file right after it does not needed any more",
+      "range": {
+        "startLine": 41,
+        "startChar": 4,
+        "endLine": 41,
+        "endChar": 19
+      },
+      "revId": "090330d1aceb8507edf7f43a6961f1b8efbb96a3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
