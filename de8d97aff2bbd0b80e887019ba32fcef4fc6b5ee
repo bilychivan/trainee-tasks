@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "7a867a0e_ca0622d6",
+        "filename": "c_tasks_pack_2/abs.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-28T14:12:15Z",
+      "side": 1,
+      "message": "I feel like it would make code worse in terms of readability, but okay.",
+      "parentUuid": "bcbbcb0e_ef305d91",
+      "range": {
+        "startLine": 27,
+        "startChar": 4,
+        "endLine": 27,
+        "endChar": 37
+      },
+      "revId": "de8d97aff2bbd0b80e887019ba32fcef4fc6b5ee",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7bf0fb83_cd56f90f",
         "filename": "c_tasks_pack_2/abs.c",
         "patchSetId": 1
@@ -36,6 +60,30 @@
       "writtenOn": "2017-08-28T13:56:24Z",
       "side": 1,
       "message": "this could be done with separate function",
+      "range": {
+        "startLine": 29,
+        "startChar": 4,
+        "endLine": 29,
+        "endChar": 42
+      },
+      "revId": "de8d97aff2bbd0b80e887019ba32fcef4fc6b5ee",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3198dab4_74d7369e",
+        "filename": "c_tasks_pack_2/abs.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-28T14:12:15Z",
+      "side": 1,
+      "message": "you want me to make a new function for this one line of code?",
+      "parentUuid": "7bf0fb83_cd56f90f",
       "range": {
         "startLine": 29,
         "startChar": 4,
@@ -71,6 +119,30 @@
     },
     {
       "key": {
+        "uuid": "e626fb5a_cfe78b24",
+        "filename": "c_tasks_pack_2/abs.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-28T14:12:15Z",
+      "side": 1,
+      "message": "uhh okay",
+      "parentUuid": "0e8fd9fe_7b25039e",
+      "range": {
+        "startLine": 33,
+        "startChar": 0,
+        "endLine": 41,
+        "endChar": 5
+      },
+      "revId": "de8d97aff2bbd0b80e887019ba32fcef4fc6b5ee",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "c9a46f29_cec7baf5",
         "filename": "c_tasks_pack_2/abs.c",
         "patchSetId": 1
@@ -82,6 +154,30 @@
       "writtenOn": "2017-08-28T13:56:24Z",
       "side": 1,
       "message": "fail, you are changing meaning of the variable",
+      "range": {
+        "startLine": 47,
+        "startChar": 4,
+        "endLine": 47,
+        "endChar": 18
+      },
+      "revId": "de8d97aff2bbd0b80e887019ba32fcef4fc6b5ee",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "2eb0e3d2_c58b3816",
+        "filename": "c_tasks_pack_2/abs.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-28T14:12:15Z",
+      "side": 1,
+      "message": "no, I\u0027m not, just making sure to not have any trailing spaces, I need one single decrement to make it work.\nGive me some idea on how I should improve this one, please.",
+      "parentUuid": "c9a46f29_cec7baf5",
       "range": {
         "startLine": 47,
         "startChar": 4,
