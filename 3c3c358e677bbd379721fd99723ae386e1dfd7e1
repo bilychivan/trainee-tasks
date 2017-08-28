@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4f45f45d_1b4dfe81",
+        "filename": "c_tasks_2/sequenceLen.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T17:02:37Z",
+      "side": 1,
+      "message": "input?",
+      "range": {
+        "startLine": 21,
+        "startChar": 10,
+        "endLine": 21,
+        "endChar": 15
+      },
+      "revId": "3c3c358e677bbd379721fd99723ae386e1dfd7e1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d1880bd8_46a68f67",
+        "filename": "c_tasks_2/sequenceLen.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T17:02:37Z",
+      "side": 1,
+      "message": "why do you need this war in this scope?",
+      "range": {
+        "startLine": 22,
+        "startChar": 4,
+        "endLine": 22,
+        "endChar": 12
+      },
+      "revId": "3c3c358e677bbd379721fd99723ae386e1dfd7e1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e52ffdc2_6c07b289",
+        "filename": "c_tasks_2/sequenceLen.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-28T17:02:37Z",
+      "side": 1,
+      "message": "this is bad idea use single variable for different files",
+      "range": {
+        "startLine": 31,
+        "startChar": 4,
+        "endLine": 31,
+        "endChar": 9
+      },
+      "revId": "3c3c358e677bbd379721fd99723ae386e1dfd7e1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
