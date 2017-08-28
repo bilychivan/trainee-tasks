@@ -73,6 +73,30 @@
     },
     {
       "key": {
+        "uuid": "fd24e9ec_953f9adc",
+        "filename": "c_tasks_pack_2/abs.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-28T14:48:34Z",
+      "side": 1,
+      "message": "just my personal preference",
+      "parentUuid": "c92cf73a_af08e67d",
+      "range": {
+        "startLine": 27,
+        "startChar": 4,
+        "endLine": 27,
+        "endChar": 37
+      },
+      "revId": "de8d97aff2bbd0b80e887019ba32fcef4fc6b5ee",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7bf0fb83_cd56f90f",
         "filename": "c_tasks_pack_2/abs.c",
         "patchSetId": 1
@@ -250,6 +274,30 @@
       "side": 1,
       "message": "inputLength - length provided by user. now you are decremented it. This is definitely not length provided by user any more.\n\nYou have length and you also could have size. size in case of strings one element lesser than lenght. in this case you want to check against size.",
       "parentUuid": "2eb0e3d2_c58b3816",
+      "range": {
+        "startLine": 47,
+        "startChar": 4,
+        "endLine": 47,
+        "endChar": 18
+      },
+      "revId": "de8d97aff2bbd0b80e887019ba32fcef4fc6b5ee",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "809128f7_b6734b5b",
+        "filename": "c_tasks_pack_2/abs.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-28T14:48:34Z",
+      "side": 1,
+      "message": "which makes me create new variable which is not optimal and should be avoided... or just rename variable to size?",
+      "parentUuid": "5790f908_cb54eaea",
       "range": {
         "startLine": 47,
         "startChar": 4,
