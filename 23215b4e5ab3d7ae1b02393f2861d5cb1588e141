@@ -22,6 +22,30 @@
       "revId": "23215b4e5ab3d7ae1b02393f2861d5cb1588e141",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "83a290e0_5963bb45",
+        "filename": "c_tasks_pack_2/divMN.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-28T14:21:07Z",
+      "side": 1,
+      "message": "I found no better way to do it (15 mins research). I\u0027m not a mathematician, care to guide me, please?",
+      "parentUuid": "6bb26ae6_cb6d5b34",
+      "range": {
+        "startLine": 28,
+        "startChar": 24,
+        "endLine": 28,
+        "endChar": 30
+      },
+      "revId": "23215b4e5ab3d7ae1b02393f2861d5cb1588e141",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
