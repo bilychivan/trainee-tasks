@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "2d11f5dc_e6530d6c",
+        "filename": "c_tasks_pack_2/divMN.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T15:26:56Z",
+      "side": 1,
+      "message": "mmm... read about gcd",
+      "range": {
+        "startLine": 29,
+        "startChar": 0,
+        "endLine": 50,
+        "endChar": 5
+      },
+      "revId": "638b67d82f83522bf1979581078c967fb76d7866",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
