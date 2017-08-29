@@ -1,0 +1,142 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ac50d59c_ddfd9701",
+        "filename": "c_tasks_pack_2/abs.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T15:02:56Z",
+      "side": 1,
+      "message": "why CAPITAL?",
+      "range": {
+        "startLine": 21,
+        "startChar": 11,
+        "endLine": 21,
+        "endChar": 25
+      },
+      "revId": "4e224f07f748932eaee43c8b55dbd6fe3c4771f7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b448a661_4569b05e",
+        "filename": "c_tasks_pack_2/abs.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T15:02:56Z",
+      "side": 1,
+      "message": "avoid global variables",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 22,
+        "endChar": 42
+      },
+      "revId": "4e224f07f748932eaee43c8b55dbd6fe3c4771f7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f425b6a6_b3f1cba2",
+        "filename": "c_tasks_pack_2/abs.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T15:02:56Z",
+      "side": 1,
+      "message": "blocks of code",
+      "range": {
+        "startLine": 26,
+        "startChar": 4,
+        "endLine": 28,
+        "endChar": 16
+      },
+      "revId": "4e224f07f748932eaee43c8b55dbd6fe3c4771f7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8a112c3c_61bb373d",
+        "filename": "c_tasks_pack_2/abs.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T15:02:56Z",
+      "side": 1,
+      "message": "it is hard to combine this lines?\n\nint inputLength \u003d readInputSize(inputFile);",
+      "range": {
+        "startLine": 48,
+        "startChar": 4,
+        "endLine": 50,
+        "endChar": 43
+      },
+      "revId": "4e224f07f748932eaee43c8b55dbd6fe3c4771f7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "344b0029_1fe6954f",
+        "filename": "c_tasks_pack_2/abs.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T15:02:56Z",
+      "side": 1,
+      "message": "and you will not have spaces between block of variables",
+      "range": {
+        "startLine": 52,
+        "startChar": 4,
+        "endLine": 52,
+        "endChar": 34
+      },
+      "revId": "4e224f07f748932eaee43c8b55dbd6fe3c4771f7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b38da655_789a98ab",
+        "filename": "c_tasks_pack_2/abs.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T15:02:56Z",
+      "side": 1,
+      "message": "declare it on the top",
+      "range": {
+        "startLine": 60,
+        "startChar": 4,
+        "endLine": 60,
+        "endChar": 12
+      },
+      "revId": "4e224f07f748932eaee43c8b55dbd6fe3c4771f7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
