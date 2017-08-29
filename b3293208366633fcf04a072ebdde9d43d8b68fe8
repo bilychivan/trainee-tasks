@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dc5c9997_40780141",
+        "filename": "c_tasks_2/sliceReverse_f.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T12:12:43Z",
+      "side": 1,
+      "message": "if this will be array of structs?",
+      "range": {
+        "startLine": 18,
+        "startChar": 8,
+        "endLine": 20,
+        "endChar": 31
+      },
+      "revId": "b3293208366633fcf04a072ebdde9d43d8b68fe8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8af17855_49deb3e3",
+        "filename": "c_tasks_2/sliceReverse_f.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T12:12:43Z",
+      "side": 1,
+      "message": "this is size",
+      "range": {
+        "startLine": 26,
+        "startChar": 8,
+        "endLine": 26,
+        "endChar": 11
+      },
+      "revId": "b3293208366633fcf04a072ebdde9d43d8b68fe8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
