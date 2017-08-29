@@ -1,0 +1,142 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d611b59f_b81992ad",
+        "filename": "c_tasks_pack_2/base2.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T13:24:30Z",
+      "side": 1,
+      "message": "magic",
+      "range": {
+        "startLine": 34,
+        "startChar": 21,
+        "endLine": 34,
+        "endChar": 22
+      },
+      "revId": "84b23a2024f4b1ba30c1537a888b423a32643209",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9d8ebe27_fe653c16",
+        "filename": "c_tasks_pack_2/base2.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T13:24:30Z",
+      "side": 1,
+      "message": "magic",
+      "range": {
+        "startLine": 36,
+        "startChar": 42,
+        "endLine": 36,
+        "endChar": 44
+      },
+      "revId": "84b23a2024f4b1ba30c1537a888b423a32643209",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "21065253_603e312f",
+        "filename": "c_tasks_pack_2/base2.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T13:24:30Z",
+      "side": 1,
+      "message": "you can avoid this",
+      "range": {
+        "startLine": 54,
+        "startChar": 0,
+        "endLine": 57,
+        "endChar": 5
+      },
+      "revId": "84b23a2024f4b1ba30c1537a888b423a32643209",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "57bffb73_8c1a9001",
+        "filename": "c_tasks_pack_2/base2.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T13:24:30Z",
+      "side": 1,
+      "message": "super magic",
+      "range": {
+        "startLine": 63,
+        "startChar": 15,
+        "endLine": 63,
+        "endChar": 26
+      },
+      "revId": "84b23a2024f4b1ba30c1537a888b423a32643209",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "975cb89c_1c03839a",
+        "filename": "c_tasks_pack_2/base2.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T13:24:30Z",
+      "side": 1,
+      "message": "why? what about base?",
+      "range": {
+        "startLine": 63,
+        "startChar": 0,
+        "endLine": 67,
+        "endChar": 5
+      },
+      "revId": "84b23a2024f4b1ba30c1537a888b423a32643209",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "969c465a_e6020f0b",
+        "filename": "c_tasks_pack_2/base2.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T13:24:30Z",
+      "side": 1,
+      "message": "this is better to move to your function",
+      "range": {
+        "startLine": 69,
+        "startChar": 4,
+        "endLine": 69,
+        "endChar": 17
+      },
+      "revId": "84b23a2024f4b1ba30c1537a888b423a32643209",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
