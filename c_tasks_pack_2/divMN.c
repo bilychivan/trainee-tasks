@@ -22,15 +22,42 @@ int main()
 {
     int head, max;
     int m, n;
+    int step;
 
     scanf("%d %d %d %d", &head, &max, &m, &n);
 
-    for (; head <= max; head++)
+    if (n > m)
     {
-        if (((head % m) == 0) && ((head % n) == 0))
+        int tmp = n;
+        n = m;
+        m = tmp;
+    }
+
+    if ((m % n) == 0)
+    {
+        if (m > n)
         {
-            printf("%d\n", head);
+            step = m;
         }
+        else
+        {
+            step = n;
+        }
+    }
+    else
+    {
+        step = m * n;
+    }
+
+    head = (head / step) * step;
+    if (head >= 0)
+    {
+        head += step;
+    }
+
+    for (; head <= max; head += step)
+    {
+        printf("%d\n", head);
     }
 
     return 0;
