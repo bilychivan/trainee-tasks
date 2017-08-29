@@ -21,6 +21,8 @@
 
 int main()
 {
+    const int MAX_DIGIT = 9;
+    const int CONVERT_DIGIT_TO_LETTER = 7;
     int input;
     int base;
     int maxFactor = 1;
@@ -42,9 +44,9 @@ int main()
     {
         int offset = input / maxFactor;
 
-        if (offset > 9)
+        if (offset > MAX_DIGIT)
         {
-            offset += 7;
+            offset += CONVERT_DIGIT_TO_LETTER;
         }
 
         printf("%c", '0' + offset);
