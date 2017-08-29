@@ -15,35 +15,26 @@ abcd
 
 #include <stdio.h>
 
+const char FILENAME_INPUT[]  = "task.in";
+const char FILENAME_OUTPUT[] = "task.out";
+
 int main()
 {
     const int TO_UPPER = 32;
     FILE* inputFile;
     FILE* outputFile;
-    unsigned int inputLength;
+    char inputChar;
 
-    inputFile = fopen("lowerCase.in", "r");
+    inputFile  = fopen(FILENAME_INPUT , "r");
+    outputFile = fopen(FILENAME_OUTPUT, "w");
 
-    fseek(inputFile, 0, SEEK_END);
-    inputLength = ftell(inputFile);
-    fseek(inputFile, 0, SEEK_SET);
-
-    char inputChars[inputLength];
-
-    fread(&inputChars, inputLength, 1, inputFile);
-
-    for (unsigned int i = 0; i < inputLength; i++)
+    for (; fscanf(inputFile, "%c", &inputChar) > 0; )
     {
-        inputChars[i] += TO_UPPER;
+        inputChar += TO_UPPER;
+        fprintf(outputFile, "%c", inputChar);
     }
 
     fclose(inputFile);
-
-
-    outputFile = fopen("lowerCase.out", "w");
-
-    fwrite(&inputChars, inputLength, 1, inputFile);
-
     fclose(outputFile);
 
     return 0;
