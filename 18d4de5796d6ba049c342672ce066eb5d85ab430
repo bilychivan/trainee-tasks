@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a3c790b2_fb4ee9d8",
+        "filename": "c_tasks_pack_2/arrayShiftLeft_f.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T13:19:30Z",
+      "side": 1,
+      "message": "why this is sizeMax? Why it is max?",
+      "range": {
+        "startLine": 17,
+        "startChar": 8,
+        "endLine": 17,
+        "endChar": 15
+      },
+      "revId": "18d4de5796d6ba049c342672ce066eb5d85ab430",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
