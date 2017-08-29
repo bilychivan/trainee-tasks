@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b2a524d4_a745d43d",
+        "filename": "c_tasks_pack_2/sliceReverse_f.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T16:10:45Z",
+      "side": 1,
+      "message": "forget to remove?",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 18
+      },
+      "revId": "e2e02333ca61ca8d0ee2874d52e75d959236cecb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
