@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b9fa6559_62d27761",
+        "filename": "c_tasks_pack_2/lowerCase.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T15:32:05Z",
+      "side": 1,
+      "message": "please use CAPITAL names ONLY for preprocessor directives constants",
+      "range": {
+        "startLine": 18,
+        "startChar": 11,
+        "endLine": 18,
+        "endChar": 25
+      },
+      "revId": "b27962ae3bd059eba1c4d89b613f0da694f74327",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4c0a86c7_95f51990",
+        "filename": "c_tasks_pack_2/lowerCase.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T15:32:05Z",
+      "side": 1,
+      "message": "remove global variables",
+      "range": {
+        "startLine": 18,
+        "startChar": 0,
+        "endLine": 19,
+        "endChar": 42
+      },
+      "revId": "b27962ae3bd059eba1c4d89b613f0da694f74327",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1dbb7a62_831fdbfd",
+        "filename": "c_tasks_pack_2/lowerCase.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T15:32:05Z",
+      "side": 1,
+      "message": "why capital? why snake_style?",
+      "range": {
+        "startLine": 23,
+        "startChar": 14,
+        "endLine": 23,
+        "endChar": 22
+      },
+      "revId": "b27962ae3bd059eba1c4d89b613f0da694f74327",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "178ce67d_6a97b77e",
+        "filename": "c_tasks_pack_2/lowerCase.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T15:32:05Z",
+      "side": 1,
+      "message": "you can open this files in the declaration line",
+      "range": {
+        "startLine": 28,
+        "startChar": 4,
+        "endLine": 29,
+        "endChar": 45
+      },
+      "revId": "b27962ae3bd059eba1c4d89b613f0da694f74327",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
