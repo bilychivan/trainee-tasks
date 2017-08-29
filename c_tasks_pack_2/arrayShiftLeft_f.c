@@ -14,36 +14,15 @@ arrayShiftLeft(int array[], int size)
 
 void arrayShiftLeft(int array[], int size)
 {
-    for (int i = 1; i < size; i++)
+    int *array_head = &array[0];
+    int *array_offset = &array[1];
+    int *boundary = &array[size - 1];
+    int temp = array[0];
+
+    for (; array_head < boundary; ++array_head, ++array_offset)
     {
-        int temp = array[i - 1];
-        array[i - 1] = array[i];
-        array[i] = temp;
+        *array_head = *array_offset;
     }
-}
 
-void test(int array[], int size)
-{
-    arrayShiftLeft(array, size);
-    for (unsigned int i = 0; i < size; i++)
-    {
-        printf("%d ", array[i]);
-    }
-    printf("\n");
-}
-
-int main()
-{
-    int array1[] = {1};
-    int array2[] = {1, 2};
-    int array3[] = {1, 2, 3};
-    int array4[] = {1, 2, 3, 4};
-    int array5[] = {1, 2, 3, 4, 5};
-    test(array1, 1);
-    test(array2, 2);
-    test(array3, 3);
-    test(array4, 4);
-    test(array5, 5);
-
-    return 0;
+    array[size - 1] = temp;
 }
