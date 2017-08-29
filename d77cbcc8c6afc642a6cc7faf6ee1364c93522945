@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "db81d8fd_7c723d34",
+        "filename": "c_tasks_pack_2/arrayExchange_f.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T15:12:47Z",
+      "side": 1,
+      "message": "https://gyazo.com/a8763f12bac16a30e6996b20261de4cd",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 37,
+        "endChar": 5
+      },
+      "revId": "d77cbcc8c6afc642a6cc7faf6ee1364c93522945",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
