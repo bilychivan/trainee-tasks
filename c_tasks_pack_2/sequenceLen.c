@@ -14,25 +14,42 @@
 
 #include <stdio.h>
 
-int main()
+const char FILENAME_INPUT[]    = "task.in";
+const char FILENAME_OUTPUT[]   = "task.out";
+const int  MAXIMUM_DATA_LENGTH = 100;
+
+struct inputData
 {
-    FILE* inputFile;
-    FILE* outputFile;
-    int inputNumber;
-    int counter;
+    unsigned int counter;
+};
+typedef struct inputData inputData;
 
-    inputFile = fopen("sequenceLen.in", "r");
+inputData proccessInputFile()
+{
+    inputData data = {0};
+    FILE* inputFile = fopen(FILENAME_INPUT, "r");
 
-    for (counter = 0; fscanf(inputFile, "%d", &inputNumber) > 0; counter++);
+    for (int inputNumber = 0; (fscanf(inputFile, "%d", &inputNumber) > 0) && (data.counter < MAXIMUM_DATA_LENGTH); data.counter++);
 
     fclose(inputFile);
 
+    return data;
+}
 
-    outputFile = fopen("sequenceLen.out", "w");
+void writeOutputFile(inputData data)
+{
+    FILE* outputFile = fopen(FILENAME_OUTPUT, "w");
 
-    fprintf(inputFile, "%d", counter);
+    fprintf(outputFile, "%d", data.counter);
 
     fclose(outputFile);
+}
+
+int main()
+{
+    inputData data = proccessInputFile();
+
+    writeOutputFile(data);
 
     return 0;
 }
