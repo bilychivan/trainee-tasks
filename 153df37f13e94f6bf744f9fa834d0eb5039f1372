@@ -143,6 +143,30 @@
     },
     {
       "key": {
+        "uuid": "c0b410d2_8e336c13",
+        "filename": "c_tasks_pack_2/rot13.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T16:04:33Z",
+      "side": 1,
+      "message": "unsigned char inputChars[getArraySize()]",
+      "parentUuid": "ba2f63bd_63665c4d",
+      "range": {
+        "startLine": 37,
+        "startChar": 4,
+        "endLine": 37,
+        "endChar": 42
+      },
+      "revId": "153df37f13e94f6bf744f9fa834d0eb5039f1372",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "8d3184e6_0aa6922b",
         "filename": "c_tasks_pack_2/rot13.c",
         "patchSetId": 1
