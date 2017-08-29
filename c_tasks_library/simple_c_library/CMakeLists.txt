@@ -1,0 +1,1 @@
+build_lirbary(simple_c_library)
