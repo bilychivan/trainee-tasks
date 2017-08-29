@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f91b30a2_25b4fd25",
+        "filename": "clibrary/build/build.sh",
+        "patchSetId": 4
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T14:53:39Z",
+      "side": 1,
+      "message": "man gcc\nread about -I flag",
+      "range": {
+        "startLine": 3,
+        "startChar": 0,
+        "endLine": 3,
+        "endChar": 47
+      },
+      "revId": "1946033f5a31bd75cad5d2ef7ebcbc1c43a08027",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
