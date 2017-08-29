@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "c26ee822_84b69bac",
+        "filename": "c_tasks_library/simple_c_library_2/Source/simple_c_library_2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T14:31:11Z",
+      "side": 1,
+      "message": "\\n",
+      "range": {
+        "startLine": 15,
+        "startChar": 12,
+        "endLine": 15,
+        "endChar": 15
+      },
+      "revId": "8b93eabfb521adf353164b86ac686d7a78b53932",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
