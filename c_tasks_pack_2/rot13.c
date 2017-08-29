@@ -15,55 +15,50 @@ onyx
 
 #include <stdio.h>
 
-int main()
+const char FILENAME_INPUT[]  = "task.in";
+const char FILENAME_OUTPUT[] = "task.out";
+
+unsigned char applyRot13(unsigned char ch)
 {
     const int ROTATE_NUMBER = 13;
     const int ALPHABET_SIZE = 26;
-    FILE* inputFile;
-    FILE* outputFile;
-    unsigned int inputLength;
 
-    inputFile = fopen("rot13.in", "r");
-
-    fseek(inputFile, 0, SEEK_END);
-    inputLength = ftell(inputFile);
-    fseek(inputFile, 0, SEEK_SET);
-
-    if (inputLength > 100)
+    if ((ch >= 'A') && (ch <= 'Z'))
     {
-        inputLength = 100;
+        ch += ROTATE_NUMBER;
+        if (ch > 'Z')
+        {
+            ch -= ALPHABET_SIZE;
+        }
+    }
+    else
+    {
+        ch += ROTATE_NUMBER;
+        if (ch > 'z')
+        {
+            ch -= ALPHABET_SIZE;
+        }
     }
 
-    unsigned char inputChars[inputLength];
-    fread(&inputChars, inputLength, 1, inputFile);
+    return ch;
+}
 
-    for (unsigned int i = 0; i < inputLength; i++)
+int main()
+{
+    FILE* inputFile;
+    FILE* outputFile;
+    unsigned int counter;
+    unsigned char inputChar;
+
+    inputFile  = fopen(FILENAME_INPUT , "r");
+    outputFile = fopen(FILENAME_OUTPUT, "w");
+
+    for (counter = 0; (fscanf(inputFile, "%c", &inputChar) > 0) && (counter < 100); counter++)
     {
-        if ((inputChars[i] >= 'A') && (inputChars[i] <= 'Z'))
-        {
-            inputChars[i] += ROTATE_NUMBER;
-            if (inputChars[i] > 'Z')
-            {
-                inputChars[i] -= ALPHABET_SIZE;
-            }
-        }
-        else
-        {
-            inputChars[i] += ROTATE_NUMBER;
-            if (inputChars[i] > 'z')
-            {
-                inputChars[i] -= ALPHABET_SIZE;
-            }
-        }
+        fprintf(outputFile, "%c", applyRot13(inputChar));
     }
 
     fclose(inputFile);
-
-
-    outputFile = fopen("rot13.out", "w");
-
-    fwrite(&inputChars, inputLength, 1, inputFile);
-
     fclose(outputFile);
 
     return 0;
