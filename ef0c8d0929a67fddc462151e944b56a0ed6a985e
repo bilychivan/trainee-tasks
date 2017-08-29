@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "c3f2b861_3c814a44",
+        "filename": "c_tasks_2/rot13.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T12:24:38Z",
+      "side": 1,
+      "message": "Use define or const for constants, but but two at once",
+      "range": {
+        "startLine": 18,
+        "startChar": 0,
+        "endLine": 18,
+        "endChar": 17
+      },
+      "revId": "ef0c8d0929a67fddc462151e944b56a0ed6a985e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "82c52b40_164ed249",
+        "filename": "c_tasks_2/rot13.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T12:24:38Z",
+      "side": 1,
+      "message": "fail. this function is called rot13(), it does not called rot13AndWriteResultToOutputFile()",
+      "range": {
+        "startLine": 33,
+        "startChar": 8,
+        "endLine": 33,
+        "endChar": 38
+      },
+      "revId": "ef0c8d0929a67fddc462151e944b56a0ed6a985e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
