@@ -18,19 +18,19 @@
 
 #include <stdio.h>
 
-int main()
+const char FILENAME_INPUT[]  = "task.in";
+const char FILENAME_OUTPUT[] = "task.out";
+
+int readInputSize(FILE* inputFile)
 {
-    FILE* inputFile;
-    FILE* outputFile;
-    unsigned int inputLength;
+    int temp;
+    fscanf(inputFile, "%d", &temp);
+    return temp;
+}
 
-    inputFile = fopen("abs.in", "r");
-
-    fscanf(inputFile, "%d", &inputLength);
-
-    int inputNumbers[inputLength];
-
-    for (unsigned int i = 0; i < inputLength; i++)
+void processInput(FILE* inputFile, int inputLength, int inputNumbers[])
+{
+    for (int i = 0; i < inputLength; i++)
     {
         fscanf(inputFile, "%d", &inputNumbers[i]);
 
@@ -39,17 +39,30 @@ int main()
             inputNumbers[i] *= -1;
         }
     }
+}
+
+int main()
+{
+    FILE* inputFile = fopen(FILENAME_INPUT, "r");
+    FILE* outputFile;
+    int inputLength;
+
+    inputLength = readInputSize(inputFile);
+
+    int inputNumbers[inputLength];
+
+    processInput(inputFile, inputLength, inputNumbers);
 
     fclose(inputFile);
 
-    outputFile = fopen("abs.out", "w");
+    outputFile = fopen(FILENAME_OUTPUT, "w");
 
-    inputLength--;
-    for (unsigned int i = 0; i < inputLength; i++)
+    int size = inputLength - 1;
+    for (unsigned int i = 0; i < size; i++)
     {
         fprintf(outputFile, "%d ", inputNumbers[i]);
     }
-    fprintf(outputFile, "%d\n", inputNumbers[inputLength]);
+    fprintf(outputFile, "%d\n", inputNumbers[size]);
 
     fclose(outputFile);
 
