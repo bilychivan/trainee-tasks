@@ -15,36 +15,37 @@ olleh
 
 #include <stdio.h>
 
+const char FILENAME_INPUT[]  = "task.in";
+const char FILENAME_OUTPUT[] = "task.out";
+
+const int MAXIMUM_INPUT_LENGTH = 100;
+
+void strReverse(char* low, char* high)
+{
+    for (; low < high; low++, high--)
+    {
+        char temp = *low;
+        *low = *high;
+        *high = temp;
+    }
+}
+
 int main()
 {
     FILE* inputFile;
     FILE* outputFile;
     unsigned int inputLength;
+    char inputChars[MAXIMUM_INPUT_LENGTH];
 
-    inputFile = fopen("strReverse.in", "r");
+    inputFile = fopen(FILENAME_INPUT, "r");
 
-    fseek(inputFile, 0, SEEK_END);
-    inputLength = ftell(inputFile);
-    fseek(inputFile, 0, SEEK_SET);
-
-    char inputChars[inputLength];
-
-    fread(&inputChars, inputLength, 1, inputFile);
-
-    char* low  = &inputChars[0];
-    char* high = &inputChars[inputLength - 1];
-
-    for (; low < high; low++, high--)
-    {
-        char temp = *low;
-        *low      = *high;
-        *high     = temp;
-    }
+    for (inputLength = 0; (fscanf(inputFile, "%c", &inputChars[inputLength]) > 0) && (inputLength < 100); inputLength++);
 
     fclose(inputFile);
 
+    strReverse(&inputChars[0], &inputChars[inputLength - 1]);
 
-    outputFile = fopen("strReverse.out", "w");
+    outputFile = fopen(FILENAME_OUTPUT, "w");
 
     fwrite(&inputChars, inputLength, 1, inputFile);
 
