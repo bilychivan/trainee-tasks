@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "99719b04_d14e375d",
+        "filename": "c_tasks_pack_2/arrayShiftLeft_f.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T15:21:01Z",
+      "side": 1,
+      "message": "why do you need this?",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 18
+      },
+      "revId": "fa5b5ed4975429b6553b5f4170a5545254f1805f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a0ae3312_af62b7aa",
+        "filename": "c_tasks_pack_2/arrayShiftLeft_f.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-29T15:21:01Z",
+      "side": 1,
+      "message": "this could be simplified:\n1. Number of instructions reduced;\n2. Number of additional variables reduced;\n3. Number of code lines reduced;",
+      "range": {
+        "startLine": 17,
+        "startChar": 0,
+        "endLine": 27,
+        "endChar": 27
+      },
+      "revId": "fa5b5ed4975429b6553b5f4170a5545254f1805f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
