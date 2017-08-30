@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "46f72b99_6b694c7a",
+        "filename": "c_tasks_pack_3/Vector.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-30T07:42:55Z",
+      "side": 1,
+      "message": "oops, forgot that you can do that, haven\u0027t really used C that much to remember this \u0027trick\u0027",
+      "parentUuid": "f517795f_9414966b",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 29,
+        "endChar": 29
+      },
+      "revId": "4ee383c49b9ee0e3236f97116e66240da81b2364",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "882af608_50e84669",
         "filename": "c_tasks_pack_3/Vector.c",
         "patchSetId": 2
@@ -36,6 +60,30 @@
       "writtenOn": "2017-08-29T16:15:36Z",
       "side": 1,
       "message": "could be optimized",
+      "range": {
+        "startLine": 45,
+        "startChar": 4,
+        "endLine": 50,
+        "endChar": 13
+      },
+      "revId": "4ee383c49b9ee0e3236f97116e66240da81b2364",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "403f009a_9fc4b0d0",
+        "filename": "c_tasks_pack_3/Vector.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-30T07:42:55Z",
+      "side": 1,
+      "message": "How? To check if vectors are equal I need to check their individual components.\nMaking it something like:\n    if (a.x \u003d\u003d b.x)\n    {\n        if (a.y \u003d\u003d b.y)\n        {\n            return 1;\n        }\n    }\nWould make no sense coz code is compiled in same way by default",
+      "parentUuid": "882af608_50e84669",
       "range": {
         "startLine": 45,
         "startChar": 4,
