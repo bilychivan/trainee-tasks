@@ -93,6 +93,30 @@
       "revId": "4ee383c49b9ee0e3236f97116e66240da81b2364",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "69c9e52b_57bac51c",
+        "filename": "c_tasks_pack_3/Vector.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-30T09:45:13Z",
+      "side": 1,
+      "message": "Oh, you probably meant this:\nreturn ((a.x \u003d\u003d b.x) ...);",
+      "parentUuid": "403f009a_9fc4b0d0",
+      "range": {
+        "startLine": 45,
+        "startChar": 4,
+        "endLine": 50,
+        "endChar": 13
+      },
+      "revId": "4ee383c49b9ee0e3236f97116e66240da81b2364",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
