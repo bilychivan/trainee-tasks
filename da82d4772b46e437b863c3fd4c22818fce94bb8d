@@ -1,0 +1,228 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "679f1506_d9c580a7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-30T14:58:08Z",
+      "side": 1,
+      "message": "This is bad commit message:\n1. You are adding not only makefile implementation\n2. impl - what is this?\n3. Please use capital letter on the beginning of the sentence",
+      "range": {
+        "startLine": 7,
+        "startChar": 11,
+        "endLine": 7,
+        "endChar": 35
+      },
+      "revId": "da82d4772b46e437b863c3fd4c22818fce94bb8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ddd5a8ea_4e98fd2c",
+        "filename": "c_tasks_pack_2/simpleLib/Makefile",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-30T14:58:08Z",
+      "side": 1,
+      "message": ".PHONY: all",
+      "range": {
+        "startLine": 22,
+        "startChar": 0,
+        "endLine": 22,
+        "endChar": 3
+      },
+      "revId": "da82d4772b46e437b863c3fd4c22818fce94bb8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bc528e60_b083bceb",
+        "filename": "c_tasks_pack_2/simpleLib/Makefile",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-30T14:58:08Z",
+      "side": 1,
+      "message": "fail",
+      "range": {
+        "startLine": 24,
+        "startChar": 4,
+        "endLine": 24,
+        "endChar": 8
+      },
+      "revId": "da82d4772b46e437b863c3fd4c22818fce94bb8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "90ee09f9_3cb303d7",
+        "filename": "c_tasks_pack_2/simpleLib/Makefile",
+        "patchSetId": 1
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-30T14:58:08Z",
+      "side": 1,
+      "message": ".PHONY: re",
+      "range": {
+        "startLine": 49,
+        "startChar": 0,
+        "endLine": 49,
+        "endChar": 3
+      },
+      "revId": "da82d4772b46e437b863c3fd4c22818fce94bb8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "74a79a44_d6784bd2",
+        "filename": "c_tasks_pack_2/simpleLib/README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-30T14:58:08Z",
+      "side": 1,
+      "message": "please use:\n## Install\n\n\u003csome useful text\u003e\n\n1. ...\n2. ...\n3. ...",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 52
+      },
+      "revId": "da82d4772b46e437b863c3fd4c22818fce94bb8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6d093ddf_6990ad0b",
+        "filename": "c_tasks_pack_2/simpleLib/includes/mylib.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-30T14:58:08Z",
+      "side": 1,
+      "message": "why?",
+      "range": {
+        "startLine": 2,
+        "startChar": 1,
+        "endLine": 2,
+        "endChar": 2
+      },
+      "revId": "da82d4772b46e437b863c3fd4c22818fce94bb8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "74b56850_e74ec5b8",
+        "filename": "c_tasks_pack_2/simpleLib/includes/mylib.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-30T14:58:08Z",
+      "side": 1,
+      "message": "new style?",
+      "range": {
+        "startLine": 4,
+        "startChar": 1,
+        "endLine": 4,
+        "endChar": 2
+      },
+      "revId": "da82d4772b46e437b863c3fd4c22818fce94bb8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b9d4f0c4_de44b1e1",
+        "filename": "c_tasks_pack_2/simpleLib/lib/abs.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-30T14:58:08Z",
+      "side": 1,
+      "message": "this is not actually correct have single header and many *.c files. all functions from .h file should be implemented in single .c file",
+      "range": {
+        "startLine": 3,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 1
+      },
+      "revId": "da82d4772b46e437b863c3fd4c22818fce94bb8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3491e85a_8713f185",
+        "filename": "c_tasks_pack_2/simpleLib/src/test.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-30T14:58:08Z",
+      "side": 1,
+      "message": "why do you need this empty line?",
+      "revId": "da82d4772b46e437b863c3fd4c22818fce94bb8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "35d84242_c58c50fb",
+        "filename": "c_tasks_pack_2/simpleLib/src/test.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-30T14:58:08Z",
+      "side": 1,
+      "message": "remove",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 21
+      },
+      "revId": "da82d4772b46e437b863c3fd4c22818fce94bb8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
