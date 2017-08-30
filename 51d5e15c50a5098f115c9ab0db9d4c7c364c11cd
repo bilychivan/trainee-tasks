@@ -94,6 +94,30 @@
     },
     {
       "key": {
+        "uuid": "c67a299e_aac34213",
+        "filename": "c_tasks_pack_3/Complex.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-30T07:51:27Z",
+      "side": 1,
+      "message": "Oops",
+      "parentUuid": "cfcddfad_c0057c24",
+      "range": {
+        "startLine": 66,
+        "startChar": 49,
+        "endLine": 66,
+        "endChar": 54
+      },
+      "revId": "51d5e15c50a5098f115c9ab0db9d4c7c364c11cd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7cc17b1d_06868aef",
         "filename": "c_tasks_pack_3/Complex.c",
         "patchSetId": 2
@@ -105,6 +129,30 @@
       "writtenOn": "2017-08-29T16:20:37Z",
       "side": 1,
       "message": "actually you could reuse complexIncrement() and in all other functions also",
+      "range": {
+        "startLine": 73,
+        "startChar": 0,
+        "endLine": 78,
+        "endChar": 13
+      },
+      "revId": "51d5e15c50a5098f115c9ab0db9d4c7c364c11cd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "0f47476d_0a01a174",
+        "filename": "c_tasks_pack_3/Complex.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-30T07:51:27Z",
+      "side": 1,
+      "message": "I thought about that but decided to do it in naive way, I\u0027ll change that",
+      "parentUuid": "7cc17b1d_06868aef",
       "range": {
         "startLine": 73,
         "startChar": 0,
@@ -151,6 +199,30 @@
       "writtenOn": "2017-08-29T16:20:37Z",
       "side": 1,
       "message": "this could be done without if ()",
+      "range": {
+        "startLine": 118,
+        "startChar": 4,
+        "endLine": 125,
+        "endChar": 5
+      },
+      "revId": "51d5e15c50a5098f115c9ab0db9d4c7c364c11cd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5e3afb32_7f0ad54d",
+        "filename": "c_tasks_pack_3/Complex.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-08-30T07:51:27Z",
+      "side": 1,
+      "message": "Never encountered such situation when you need to respect + sign, didn\u0027t knew that it can be done without if, fixed now.",
+      "parentUuid": "471ce19c_2d065697",
       "range": {
         "startLine": 118,
         "startChar": 4,
