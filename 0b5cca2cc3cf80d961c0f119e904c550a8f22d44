@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dc4cd943_1f9cb64f",
+        "filename": "c_tasks_pack_2/lowerCase.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-31T12:32:49Z",
+      "side": 1,
+      "message": "this char could be moved to for() header",
+      "range": {
+        "startLine": 35,
+        "startChar": 4,
+        "endLine": 35,
+        "endChar": 11
+      },
+      "revId": "0b5cca2cc3cf80d961c0f119e904c550a8f22d44",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
