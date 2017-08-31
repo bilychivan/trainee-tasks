@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "2a4346a2_c6058587",
+        "filename": "c_tasks_pack_2/arrayExchange_f.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-31T12:53:32Z",
+      "side": 1,
+      "message": "I asked you not to use space as alignment tool",
+      "range": {
+        "startLine": 19,
+        "startChar": 7,
+        "endLine": 19,
+        "endChar": 9
+      },
+      "revId": "ed5516dd7d42b3a034ae4dd0f1bd55a45a161a9b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "25420d4f_fcb60b48",
+        "filename": "c_tasks_pack_2/arrayExchange_f.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-31T12:53:32Z",
+      "side": 1,
+      "message": "\u0026array[1]",
+      "range": {
+        "startLine": 20,
+        "startChar": 24,
+        "endLine": 20,
+        "endChar": 37
+      },
+      "revId": "ed5516dd7d42b3a034ae4dd0f1bd55a45a161a9b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3305a69d_65bc11af",
+        "filename": "c_tasks_pack_2/arrayExchange_f.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-31T12:53:32Z",
+      "side": 1,
+      "message": "generally the idea there is to use two indexes, but OK if you want to use pointer",
+      "range": {
+        "startLine": 22,
+        "startChar": 4,
+        "endLine": 22,
+        "endChar": 41
+      },
+      "revId": "ed5516dd7d42b3a034ae4dd0f1bd55a45a161a9b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
