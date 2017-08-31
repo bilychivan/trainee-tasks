@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e869ebd5_7db0101f",
+        "filename": "c_tasks_3/arrayMerge_f.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-31T11:42:37Z",
+      "side": 1,
+      "message": "this could be done with only 2 if options:\nif (...) {...} else {...}.\nPLease try to ofind this solution",
+      "range": {
+        "startLine": 27,
+        "startChar": 0,
+        "endLine": 42,
+        "endChar": 9
+      },
+      "revId": "4275e0e4730c360bd250ef2fb358786e22850e77",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
