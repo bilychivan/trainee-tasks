@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "120a22a9_01c6f22c",
+        "filename": "c_tasks_pack_2/arrayShiftLeft_f.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-31T13:10:03Z",
+      "side": 1,
+      "message": "this is wired",
+      "range": {
+        "startLine": 15,
+        "startChar": 22,
+        "endLine": 15,
+        "endChar": 31
+      },
+      "revId": "995bee0738d40c32f1cdef2427b71b4b59f99d96",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "76d8ee1f_256a4170",
+        "filename": "c_tasks_pack_2/arrayShiftLeft_f.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-31T13:10:03Z",
+      "side": 1,
+      "message": "this will not be head on second iteration",
+      "range": {
+        "startLine": 21,
+        "startChar": 9,
+        "endLine": 21,
+        "endChar": 19
+      },
+      "revId": "995bee0738d40c32f1cdef2427b71b4b59f99d96",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "105932ba_b039cd6a",
+        "filename": "c_tasks_pack_2/arrayShiftLeft_f.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-31T13:10:03Z",
+      "side": 1,
+      "message": "this is wired^2",
+      "range": {
+        "startLine": 21,
+        "startChar": 22,
+        "endLine": 21,
+        "endChar": 35
+      },
+      "revId": "995bee0738d40c32f1cdef2427b71b4b59f99d96",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "425675d8_e278d299",
+        "filename": "c_tasks_pack_2/arrayShiftLeft_f.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-31T13:10:03Z",
+      "side": 1,
+      "message": "this solution is too complicated. please use:\n\narray[i - 1] \u003d array[i]",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 1
+      },
+      "revId": "995bee0738d40c32f1cdef2427b71b4b59f99d96",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
