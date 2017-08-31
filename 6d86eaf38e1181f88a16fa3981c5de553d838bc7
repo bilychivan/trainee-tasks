@@ -1,0 +1,113 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "59bf993b_44d87cdb",
+        "filename": "c_tasks_pack_2/simpleLib/Makefile",
+        "patchSetId": 3
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-31T14:42:07Z",
+      "side": 1,
+      "message": "remove",
+      "range": {
+        "startLine": 24,
+        "startChar": 4,
+        "endLine": 24,
+        "endChar": 8
+      },
+      "revId": "6d86eaf38e1181f88a16fa3981c5de553d838bc7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5958179a_164c39b3",
+        "filename": "c_tasks_pack_2/simpleLib/includes/mylib.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-31T14:42:07Z",
+      "side": 1,
+      "message": "remove",
+      "range": {
+        "startLine": 2,
+        "startChar": 1,
+        "endLine": 2,
+        "endChar": 2
+      },
+      "revId": "6d86eaf38e1181f88a16fa3981c5de553d838bc7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1af85285_791ba590",
+        "filename": "c_tasks_pack_2/simpleLib/lib/tolower.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-31T14:42:07Z",
+      "side": 1,
+      "message": "all realizations should be in a single file",
+      "range": {
+        "startLine": 3,
+        "startChar": 0,
+        "endLine": 10,
+        "endChar": 1
+      },
+      "revId": "6d86eaf38e1181f88a16fa3981c5de553d838bc7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "24d0032f_d4859b99",
+        "filename": "c_tasks_pack_2/simpleLib/src/test.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-31T14:42:07Z",
+      "side": 1,
+      "message": "remove empty line",
+      "revId": "6d86eaf38e1181f88a16fa3981c5de553d838bc7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9c521f1c_3f0cb1aa",
+        "filename": "c_tasks_pack_2/simpleLib/src/test.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-08-31T14:42:07Z",
+      "side": 1,
+      "message": "remove",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 21
+      },
+      "revId": "6d86eaf38e1181f88a16fa3981c5de553d838bc7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
