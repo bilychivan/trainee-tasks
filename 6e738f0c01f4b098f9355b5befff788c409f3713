@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "2cc8a5e2_74406e89",
+        "filename": "c_tasks_3/arrayUnique_f.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-04T13:06:01Z",
+      "side": 1,
+      "message": "for future cases https://stackoverflow.com/questions/37538/how-do-i-determine-the-size-of-my-array-in-c",
+      "range": {
+        "startLine": 84,
+        "startChar": 18,
+        "endLine": 84,
+        "endChar": 23
+      },
+      "revId": "6e738f0c01f4b098f9355b5befff788c409f3713",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
