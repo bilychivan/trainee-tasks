@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "89ce06ed_28b587cd",
+        "filename": "c_tasks_3/arrayUnique_f.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-04T11:10:37Z",
+      "side": 1,
+      "message": "I see O(n^3) this could be done in O(n^2) at least",
+      "range": {
+        "startLine": 25,
+        "startChar": 0,
+        "endLine": 45,
+        "endChar": 1
+      },
+      "revId": "973ce084e6cef106b1aef6b325996aed8053eeee",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
