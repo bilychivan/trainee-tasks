@@ -1,0 +1,142 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "c181635b_73010235",
+        "filename": "c_tasks_pack_3/cards.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-04T10:54:49Z",
+      "side": 1,
+      "message": "Capital?",
+      "range": {
+        "startLine": 10,
+        "startChar": 4,
+        "endLine": 10,
+        "endChar": 5
+      },
+      "revId": "bccee1270dc033239bcae04290e6ea26a9eb1254",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bd8e4118_393744d8",
+        "filename": "c_tasks_pack_3/cards.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-04T10:54:49Z",
+      "side": 1,
+      "message": "it will be 0 by default and AFAIK Ace is 1",
+      "range": {
+        "startLine": 17,
+        "startChar": 4,
+        "endLine": 17,
+        "endChar": 7
+      },
+      "revId": "bccee1270dc033239bcae04290e6ea26a9eb1254",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b08c6b25_53432f8f",
+        "filename": "c_tasks_pack_3/cards.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-04T10:54:49Z",
+      "side": 1,
+      "message": "this will be 1",
+      "range": {
+        "startLine": 18,
+        "startChar": 4,
+        "endLine": 18,
+        "endChar": 7
+      },
+      "revId": "bccee1270dc033239bcae04290e6ea26a9eb1254",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f2eed51_fb20d30c",
+        "filename": "c_tasks_pack_3/cards.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-04T10:54:49Z",
+      "side": 1,
+      "message": "numbers could be just numbers",
+      "range": {
+        "startLine": 19,
+        "startChar": 4,
+        "endLine": 19,
+        "endChar": 9
+      },
+      "revId": "bccee1270dc033239bcae04290e6ea26a9eb1254",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b66f7a9e_9e53a8e0",
+        "filename": "c_tasks_pack_3/cards.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-04T10:54:49Z",
+      "side": 1,
+      "message": "capital letter?",
+      "range": {
+        "startLine": 29,
+        "startChar": 4,
+        "endLine": 29,
+        "endChar": 8
+      },
+      "revId": "bccee1270dc033239bcae04290e6ea26a9eb1254",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "22511adc_00e99d5d",
+        "filename": "c_tasks_pack_3/cards.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-04T10:54:49Z",
+      "side": 1,
+      "message": "Rank suits more",
+      "range": {
+        "startLine": 30,
+        "startChar": 2,
+        "endLine": 30,
+        "endChar": 6
+      },
+      "revId": "bccee1270dc033239bcae04290e6ea26a9eb1254",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
