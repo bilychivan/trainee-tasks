@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a31abc6_8eecd970",
+        "filename": "c_tasks_pack_3/cards.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-04T11:40:37Z",
+      "side": 1,
+      "message": "1 AFAIK",
+      "range": {
+        "startLine": 24,
+        "startChar": 20,
+        "endLine": 24,
+        "endChar": 24
+      },
+      "revId": "b9b4604d0cb2b89db3c253441dcf7f35fb49e165",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "73d456e6_53bd5b11",
+        "filename": "c_tasks_pack_3/cards.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-04T11:40:37Z",
+      "side": 1,
+      "message": "could be ommited",
+      "range": {
+        "startLine": 29,
+        "startChar": 4,
+        "endLine": 29,
+        "endChar": 13
+      },
+      "revId": "b9b4604d0cb2b89db3c253441dcf7f35fb49e165",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
