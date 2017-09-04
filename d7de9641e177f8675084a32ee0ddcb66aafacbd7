@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d51c28a7_3370694b",
+        "filename": "c_tasks_pack_3/Complex.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-04T13:43:26Z",
+      "side": 1,
+      "message": "actually you do need only to save\n\n double re \u003d this-\u003ere;",
+      "range": {
+        "startLine": 62,
+        "startChar": 4,
+        "endLine": 62,
+        "endChar": 16
+      },
+      "revId": "d7de9641e177f8675084a32ee0ddcb66aafacbd7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
