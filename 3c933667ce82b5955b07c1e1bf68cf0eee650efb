@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "65cee8a4_03a7ab99",
+        "filename": "c_tasks_3/Complex.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-04T11:19:00Z",
+      "side": 1,
+      "message": "printf(\"%g%+gi\", this.re, this.im);",
+      "range": {
+        "startLine": 90,
+        "startChar": 4,
+        "endLine": 97,
+        "endChar": 29
+      },
+      "revId": "3c933667ce82b5955b07c1e1bf68cf0eee650efb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
