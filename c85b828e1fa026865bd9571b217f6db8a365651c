@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d18a148b_4d7ce487",
+        "filename": "c_tasks_pack_3/arrayUnique_f.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-04T11:34:32Z",
+      "side": 1,
+      "message": "​Do not use break, continue, goto;​",
+      "range": {
+        "startLine": 32,
+        "startChar": 16,
+        "endLine": 32,
+        "endChar": 22
+      },
+      "revId": "c85b828e1fa026865bd9571b217f6db8a365651c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
