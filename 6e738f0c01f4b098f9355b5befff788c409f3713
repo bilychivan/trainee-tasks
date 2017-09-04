@@ -22,6 +22,30 @@
       "revId": "6e738f0c01f4b098f9355b5befff788c409f3713",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "73c46e52_c42428bf",
+        "filename": "c_tasks_3/arrayUnique_f.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 1012163
+      },
+      "writtenOn": "2017-09-04T13:45:18Z",
+      "side": 1,
+      "message": "thought that define is better",
+      "parentUuid": "2cc8a5e2_74406e89",
+      "range": {
+        "startLine": 84,
+        "startChar": 18,
+        "endLine": 84,
+        "endChar": 23
+      },
+      "revId": "6e738f0c01f4b098f9355b5befff788c409f3713",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
