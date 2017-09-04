@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0140e8a0_1e149e58",
+        "filename": "c_tasks_3/cards.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-04T11:11:55Z",
+      "side": 1,
+      "message": "AFAIK this is 1",
+      "range": {
+        "startLine": 20,
+        "startChar": 4,
+        "endLine": 20,
+        "endChar": 7
+      },
+      "revId": "7f3a244fe0e744738b282d710f480b23826e6c85",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "88ddb2ab_3b7a14c2",
+        "filename": "c_tasks_3/cards.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-04T11:11:55Z",
+      "side": 1,
+      "message": "this would a plus if you found solution to print actual names",
+      "range": {
+        "startLine": 45,
+        "startChar": 19,
+        "endLine": 45,
+        "endChar": 31
+      },
+      "revId": "7f3a244fe0e744738b282d710f480b23826e6c85",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
