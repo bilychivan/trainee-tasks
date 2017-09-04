@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "64064fe1_b2a64cc7",
+        "filename": "c_tasks_3/Vector.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-04T11:17:02Z",
+      "side": 1,
+      "message": "there will not be + sign in case of positive imagine part",
+      "range": {
+        "startLine": 62,
+        "startChar": 11,
+        "endLine": 62,
+        "endChar": 21
+      },
+      "revId": "bd4e9301d2d340e05e083b5e7f7d8165b37a5536",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
