@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dd2a35e9_e2ccec5a",
+        "filename": "c++_tasks_pack_1/ariProg.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:22:51Z",
+      "side": 1,
+      "message": "if you want just init some values with numbers without check - please use initialization list\n\n : index(1), currentMember(argFirstMember), step(argStep), length(argLength)\n\nYou even can have the same names\n\n : index(1), currentMember(first), step(step), limit(limit)",
+      "range": {
+        "startLine": 5,
+        "startChar": 4,
+        "endLine": 9,
+        "endChar": 14
+      },
+      "revId": "85ed203c87329fc49405bc8ad5a559da54163537",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c01f218d_776f2af4",
+        "filename": "c++_tasks_pack_1/ariProg.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:22:51Z",
+      "side": 1,
+      "message": "!last()",
+      "range": {
+        "startLine": 19,
+        "startChar": 8,
+        "endLine": 19,
+        "endChar": 29
+      },
+      "revId": "85ed203c87329fc49405bc8ad5a559da54163537",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6d9444b6_10728b56",
+        "filename": "c++_tasks_pack_1/ariProg.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:22:51Z",
+      "side": 1,
+      "message": "!first()",
+      "range": {
+        "startLine": 32,
+        "startChar": 8,
+        "endLine": 32,
+        "endChar": 17
+      },
+      "revId": "85ed203c87329fc49405bc8ad5a559da54163537",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "318083d4_297e1849",
+        "filename": "c++_tasks_pack_1/ariProg.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:22:51Z",
+      "side": 1,
+      "message": "seems this will never happen",
+      "range": {
+        "startLine": 45,
+        "startChar": 4,
+        "endLine": 45,
+        "endChar": 23
+      },
+      "revId": "85ed203c87329fc49405bc8ad5a559da54163537",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e952d2f3_5d81ee51",
+        "filename": "c++_tasks_pack_1/ariProg.h",
+        "patchSetId": 4
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:22:51Z",
+      "side": 1,
+      "message": "please use single style",
+      "range": {
+        "startLine": 33,
+        "startChar": 0,
+        "endLine": 33,
+        "endChar": 7
+      },
+      "revId": "85ed203c87329fc49405bc8ad5a559da54163537",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
