@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9cd6c969_88f19545",
+        "filename": "c++_pack_1/passport.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:02:13Z",
+      "side": 1,
+      "message": "it is more right do check at first and then assign values",
+      "range": {
+        "startLine": 74,
+        "startChar": 4,
+        "endLine": 74,
+        "endChar": 16
+      },
+      "revId": "59c0d39ad227d23dc82a9f101f389a83d9aafef6",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
