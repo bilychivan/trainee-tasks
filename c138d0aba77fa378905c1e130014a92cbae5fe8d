@@ -1,0 +1,280 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "90dee8f1_227fb1a8",
+        "filename": "c++_tasks_pack_1/date.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:42:24Z",
+      "side": 1,
+      "message": "remove",
+      "range": {
+        "startLine": 46,
+        "startChar": 0,
+        "endLine": 49,
+        "endChar": 2
+      },
+      "revId": "c138d0aba77fa378905c1e130014a92cbae5fe8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "864b507f_8d28fe5b",
+        "filename": "c++_tasks_pack_1/date.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:42:24Z",
+      "side": 1,
+      "message": "this could be a class private method",
+      "range": {
+        "startLine": 50,
+        "startChar": 0,
+        "endLine": 50,
+        "endChar": 32
+      },
+      "revId": "c138d0aba77fa378905c1e130014a92cbae5fe8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ab7483bc_4922b11c",
+        "filename": "c++_tasks_pack_1/date.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:42:24Z",
+      "side": 1,
+      "message": "please avoid doing this - bitwise operations only when we are working with registers",
+      "range": {
+        "startLine": 52,
+        "startChar": 13,
+        "endLine": 52,
+        "endChar": 21
+      },
+      "revId": "c138d0aba77fa378905c1e130014a92cbae5fe8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f4a3c9fc_c73b3f32",
+        "filename": "c++_tasks_pack_1/date.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:42:24Z",
+      "side": 1,
+      "message": "this is also",
+      "range": {
+        "startLine": 52,
+        "startChar": 53,
+        "endLine": 52,
+        "endChar": 62
+      },
+      "revId": "c138d0aba77fa378905c1e130014a92cbae5fe8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ea0cefc_7ccbd822",
+        "filename": "c++_tasks_pack_1/date.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:42:24Z",
+      "side": 1,
+      "message": "great name!",
+      "range": {
+        "startLine": 65,
+        "startChar": 15,
+        "endLine": 65,
+        "endChar": 16
+      },
+      "revId": "c138d0aba77fa378905c1e130014a92cbae5fe8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5d993036_ea480415",
+        "filename": "c++_tasks_pack_1/date.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:42:24Z",
+      "side": 1,
+      "message": "some wired combination of magic",
+      "range": {
+        "startLine": 65,
+        "startChar": 22,
+        "endLine": 65,
+        "endChar": 56
+      },
+      "revId": "c138d0aba77fa378905c1e130014a92cbae5fe8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "36438057_345b7c84",
+        "filename": "c++_tasks_pack_1/date.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:42:24Z",
+      "side": 1,
+      "message": "this should be some class field",
+      "range": {
+        "startLine": 65,
+        "startChar": 4,
+        "endLine": 65,
+        "endChar": 10
+      },
+      "revId": "c138d0aba77fa378905c1e130014a92cbae5fe8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "79839048_b3c5be5f",
+        "filename": "c++_tasks_pack_1/date.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:42:24Z",
+      "side": 1,
+      "message": "what is this?",
+      "range": {
+        "startLine": 66,
+        "startChar": 8,
+        "endLine": 66,
+        "endChar": 9
+      },
+      "revId": "c138d0aba77fa378905c1e130014a92cbae5fe8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4f9dcb6e_e56e71e9",
+        "filename": "c++_tasks_pack_1/date.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:42:24Z",
+      "side": 1,
+      "message": "?",
+      "range": {
+        "startLine": 68,
+        "startChar": 4,
+        "endLine": 68,
+        "endChar": 5
+      },
+      "revId": "c138d0aba77fa378905c1e130014a92cbae5fe8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ea6ec0f5_85089879",
+        "filename": "c++_tasks_pack_1/date.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:42:24Z",
+      "side": 1,
+      "message": "????",
+      "range": {
+        "startLine": 69,
+        "startChar": 4,
+        "endLine": 69,
+        "endChar": 5
+      },
+      "revId": "c138d0aba77fa378905c1e130014a92cbae5fe8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ec3f496_07aed88f",
+        "filename": "c++_tasks_pack_1/date.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:42:24Z",
+      "side": 1,
+      "message": "what is 7?",
+      "range": {
+        "startLine": 71,
+        "startChar": 51,
+        "endLine": 71,
+        "endChar": 54
+      },
+      "revId": "c138d0aba77fa378905c1e130014a92cbae5fe8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "31970576_2e3ab70e",
+        "filename": "c++_tasks_pack_1/date.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:42:24Z",
+      "side": 1,
+      "message": "Date(const int, const int, const int);\n int getDay() const;\n int getMounth() const;\n int getYear() const;\n\nIf you are changing API please create at least new version of tests, OK?",
+      "range": {
+        "startLine": 41,
+        "startChar": 0,
+        "endLine": 44,
+        "endChar": 28
+      },
+      "revId": "c138d0aba77fa378905c1e130014a92cbae5fe8d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
