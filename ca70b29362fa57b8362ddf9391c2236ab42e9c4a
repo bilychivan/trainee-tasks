@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df0136b1_324db362",
+        "filename": "c++_pack_1/complex.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T13:14:36Z",
+      "side": 1,
+      "message": "see ariProg",
+      "range": {
+        "startLine": 7,
+        "startChar": 3,
+        "endLine": 7,
+        "endChar": 6
+      },
+      "revId": "ca70b29362fa57b8362ddf9391c2236ab42e9c4a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "87b475b4_560eb198",
+        "filename": "c++_pack_1/complex.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T13:14:36Z",
+      "side": 1,
+      "message": "you creating new object and replacing current, but you can just modify current without creating a new one",
+      "range": {
+        "startLine": 36,
+        "startChar": 4,
+        "endLine": 36,
+        "endChar": 24
+      },
+      "revId": "ca70b29362fa57b8362ddf9391c2236ab42e9c4a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "66d5158c_adf09f5f",
+        "filename": "c++_pack_1/complex.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T13:14:36Z",
+      "side": 1,
+      "message": "the same",
+      "range": {
+        "startLine": 41,
+        "startChar": 4,
+        "endLine": 41,
+        "endChar": 25
+      },
+      "revId": "ca70b29362fa57b8362ddf9391c2236ab42e9c4a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f12ab3a8_27a658a6",
+        "filename": "c++_pack_1/complex.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T13:14:36Z",
+      "side": 1,
+      "message": "the same",
+      "range": {
+        "startLine": 46,
+        "startChar": 4,
+        "endLine": 46,
+        "endChar": 25
+      },
+      "revId": "ca70b29362fa57b8362ddf9391c2236ab42e9c4a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a8ab5d33_91f358da",
+        "filename": "c++_pack_1/complex.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T13:14:36Z",
+      "side": 1,
+      "message": "!operator\u003d\u003d(that);",
+      "range": {
+        "startLine": 56,
+        "startChar": 11,
+        "endLine": 56,
+        "endChar": 28
+      },
+      "revId": "ca70b29362fa57b8362ddf9391c2236ab42e9c4a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
