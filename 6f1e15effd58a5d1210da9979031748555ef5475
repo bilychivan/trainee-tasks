@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "cec44ebc_85afa423",
+        "filename": "c++_tasks_pack_1/complex.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:23:38Z",
+      "side": 1,
+      "message": "please use initialization list",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 6,
+        "endChar": 19
+      },
+      "revId": "6f1e15effd58a5d1210da9979031748555ef5475",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
