@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ccf31217_78b63f87",
+        "filename": "c++_tasks_pack_1/fibonacci/fibonacci.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:49:56Z",
+      "side": 1,
+      "message": "what is x?",
+      "range": {
+        "startLine": 13,
+        "startChar": 8,
+        "endLine": 13,
+        "endChar": 9
+      },
+      "revId": "51a70f320eddd3cb9d5c665f77a6e0db1f5e6ed2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b2127997_13f8be07",
+        "filename": "c++_tasks_pack_1/fibonacci/fibonacci.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:49:56Z",
+      "side": 1,
+      "message": "what is y?",
+      "range": {
+        "startLine": 14,
+        "startChar": 8,
+        "endLine": 14,
+        "endChar": 9
+      },
+      "revId": "51a70f320eddd3cb9d5c665f77a6e0db1f5e6ed2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
