@@ -1,0 +1,124 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f431462d_9ecf726f",
+        "filename": "c++_tasks_pack_1/date/date.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:54:17Z",
+      "side": 1,
+      "message": "you can avoid this check",
+      "range": {
+        "startLine": 28,
+        "startChar": 19,
+        "endLine": 28,
+        "endChar": 27
+      },
+      "revId": "c37523166445b687e9613088577c2a9c411619fd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "26b43b3b_7f690ce1",
+        "filename": "c++_tasks_pack_1/date/date.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:54:17Z",
+      "side": 1,
+      "message": "why?",
+      "range": {
+        "startLine": 43,
+        "startChar": 8,
+        "endLine": 43,
+        "endChar": 16
+      },
+      "revId": "c37523166445b687e9613088577c2a9c411619fd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "679e53aa_5a884504",
+        "filename": "c++_tasks_pack_1/date/date.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:54:17Z",
+      "side": 1,
+      "message": "why so many empty lines?",
+      "revId": "c37523166445b687e9613088577c2a9c411619fd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d9ed220b_cae737f1",
+        "filename": "c++_tasks_pack_1/date/date.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:54:17Z",
+      "side": 1,
+      "message": "maxDays",
+      "range": {
+        "startLine": 62,
+        "startChar": 10,
+        "endLine": 62,
+        "endChar": 16
+      },
+      "revId": "c37523166445b687e9613088577c2a9c411619fd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "0eefc6af_9202b34e",
+        "filename": "c++_tasks_pack_1/date/date.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:54:17Z",
+      "side": 1,
+      "message": "tab?",
+      "revId": "c37523166445b687e9613088577c2a9c411619fd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "931ac13c_e9c70186",
+        "filename": "c++_tasks_pack_1/date/date.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:54:17Z",
+      "side": 1,
+      "message": "why do you need empty line?",
+      "revId": "c37523166445b687e9613088577c2a9c411619fd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
