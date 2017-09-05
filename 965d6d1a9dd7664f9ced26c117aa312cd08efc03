@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fb785569_8a0e081f",
+        "filename": "c++_tasks_pack_1/vector.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:44:53Z",
+      "side": 1,
+      "message": "please use initialization list",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 6,
+        "endChar": 13
+      },
+      "revId": "965d6d1a9dd7664f9ced26c117aa312cd08efc03",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6a386adf_4bfb4db5",
+        "filename": "c++_tasks_pack_1/vector.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:44:53Z",
+      "side": 1,
+      "message": "!operator\u003d\u003d(other);",
+      "range": {
+        "startLine": 43,
+        "startChar": 11,
+        "endLine": 43,
+        "endChar": 29
+      },
+      "revId": "965d6d1a9dd7664f9ced26c117aa312cd08efc03",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fb2d30cf_a3f1bdaf",
+        "filename": "c++_tasks_pack_1/vector.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:44:53Z",
+      "side": 1,
+      "message": "\u0027result\u0027 suits better",
+      "range": {
+        "startLine": 48,
+        "startChar": 11,
+        "endLine": 48,
+        "endChar": 12
+      },
+      "revId": "965d6d1a9dd7664f9ced26c117aa312cd08efc03",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "30a126fa_2afa6cb6",
+        "filename": "c++_tasks_pack_1/vector.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T12:44:53Z",
+      "side": 1,
+      "message": "please use single style",
+      "range": {
+        "startLine": 31,
+        "startChar": 0,
+        "endLine": 31,
+        "endChar": 7
+      },
+      "revId": "965d6d1a9dd7664f9ced26c117aa312cd08efc03",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
