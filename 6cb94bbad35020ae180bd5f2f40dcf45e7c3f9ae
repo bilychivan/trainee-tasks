@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf347e63_e1482617",
+        "filename": "c++_tasks_pack_1/vector/vector.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:24:08Z",
+      "side": 1,
+      "message": "y",
+      "range": {
+        "startLine": 5,
+        "startChar": 33,
+        "endLine": 5,
+        "endChar": 35
+      },
+      "revId": "6cb94bbad35020ae180bd5f2f40dcf45e7c3f9ae",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "69e82b63_8773cd6c",
+        "filename": "c++_tasks_pack_1/vector/vector.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:24:08Z",
+      "side": 1,
+      "message": "this could be x",
+      "range": {
+        "startLine": 5,
+        "startChar": 22,
+        "endLine": 5,
+        "endChar": 24
+      },
+      "revId": "6cb94bbad35020ae180bd5f2f40dcf45e7c3f9ae",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e47d39b0_0f3a9f44",
+        "filename": "c++_tasks_pack_1/vector/vector.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:24:08Z",
+      "side": 1,
+      "message": "!operator\u003d\u003d(other)",
+      "range": {
+        "startLine": 41,
+        "startChar": 11,
+        "endLine": 41,
+        "endChar": 39
+      },
+      "revId": "6cb94bbad35020ae180bd5f2f40dcf45e7c3f9ae",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
