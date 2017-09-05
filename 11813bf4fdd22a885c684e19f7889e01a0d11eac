@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "2a88f6f7_e632fba1",
+        "filename": "c++_tasks_pack_1/passport.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T13:02:11Z",
+      "side": 1,
+      "message": "I asked not to use ++ -- operators except of indexes",
+      "range": {
+        "startLine": 13,
+        "startChar": 59,
+        "endLine": 13,
+        "endChar": 61
+      },
+      "revId": "11813bf4fdd22a885c684e19f7889e01a0d11eac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ad48a978_387ce403",
+        "filename": "c++_tasks_pack_1/passport.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T13:02:11Z",
+      "side": 1,
+      "message": "this is more vise to check first and then fill fields",
+      "range": {
+        "startLine": 54,
+        "startChar": 8,
+        "endLine": 54,
+        "endChar": 31
+      },
+      "revId": "11813bf4fdd22a885c684e19f7889e01a0d11eac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "32445756_06faa1c2",
+        "filename": "c++_tasks_pack_1/passport.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T13:02:11Z",
+      "side": 1,
+      "message": "again it is more rational to do check first",
+      "range": {
+        "startLine": 66,
+        "startChar": 4,
+        "endLine": 66,
+        "endChar": 40
+      },
+      "revId": "11813bf4fdd22a885c684e19f7889e01a0d11eac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e706eef1_3010e259",
+        "filename": "c++_tasks_pack_1/passport.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T13:02:11Z",
+      "side": 1,
+      "message": "why out_of_range?",
+      "range": {
+        "startLine": 42,
+        "startChar": 33,
+        "endLine": 42,
+        "endChar": 50
+      },
+      "revId": "11813bf4fdd22a885c684e19f7889e01a0d11eac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "57100def_5041fa02",
+        "filename": "c++_tasks_pack_1/passport.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T13:02:11Z",
+      "side": 1,
+      "message": "please use single style",
+      "range": {
+        "startLine": 44,
+        "startChar": 0,
+        "endLine": 44,
+        "endChar": 7
+      },
+      "revId": "11813bf4fdd22a885c684e19f7889e01a0d11eac",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
