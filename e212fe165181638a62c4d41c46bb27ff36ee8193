@@ -1,0 +1,211 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "917524e0_605cb1b9",
+        "filename": "c++_tasks_pack_1/passport/passport.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:47:00Z",
+      "side": 1,
+      "message": "?",
+      "range": {
+        "startLine": 4,
+        "startChar": 63,
+        "endLine": 4,
+        "endChar": 64
+      },
+      "revId": "e212fe165181638a62c4d41c46bb27ff36ee8193",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "20fedccc_f8f10bf3",
+        "filename": "c++_tasks_pack_1/passport/passport.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:47:00Z",
+      "side": 1,
+      "message": "?",
+      "range": {
+        "startLine": 4,
+        "startChar": 41,
+        "endLine": 4,
+        "endChar": 42
+      },
+      "revId": "e212fe165181638a62c4d41c46bb27ff36ee8193",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3aaa85f6_1fffb679",
+        "filename": "c++_tasks_pack_1/passport/passport.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:47:00Z",
+      "side": 1,
+      "message": "?",
+      "range": {
+        "startLine": 12,
+        "startChar": 41,
+        "endLine": 12,
+        "endChar": 42
+      },
+      "revId": "e212fe165181638a62c4d41c46bb27ff36ee8193",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c98e5ffe_32e26a62",
+        "filename": "c++_tasks_pack_1/passport/passport.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:47:00Z",
+      "side": 1,
+      "message": "?",
+      "range": {
+        "startLine": 12,
+        "startChar": 77,
+        "endLine": 12,
+        "endChar": 78
+      },
+      "revId": "e212fe165181638a62c4d41c46bb27ff36ee8193",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "815c541b_fdaa2fee",
+        "filename": "c++_tasks_pack_1/passport/passport.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:47:00Z",
+      "side": 1,
+      "message": "?",
+      "range": {
+        "startLine": 12,
+        "startChar": 63,
+        "endLine": 12,
+        "endChar": 64
+      },
+      "revId": "e212fe165181638a62c4d41c46bb27ff36ee8193",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a9708eab_760c77da",
+        "filename": "c++_tasks_pack_1/passport/passport.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:47:00Z",
+      "side": 1,
+      "message": "magic",
+      "range": {
+        "startLine": 19,
+        "startChar": 17,
+        "endLine": 19,
+        "endChar": 24
+      },
+      "revId": "e212fe165181638a62c4d41c46bb27ff36ee8193",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "04ddc0b6_a17fb3a7",
+        "filename": "c++_tasks_pack_1/passport/passport.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:47:00Z",
+      "side": 1,
+      "message": "Letter",
+      "range": {
+        "startLine": 26,
+        "startChar": 14,
+        "endLine": 26,
+        "endChar": 17
+      },
+      "revId": "e212fe165181638a62c4d41c46bb27ff36ee8193",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba052aad_57265d09",
+        "filename": "c++_tasks_pack_1/passport/passport.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:47:00Z",
+      "side": 1,
+      "message": "?",
+      "range": {
+        "startLine": 73,
+        "startChar": 64,
+        "endLine": 73,
+        "endChar": 65
+      },
+      "revId": "e212fe165181638a62c4d41c46bb27ff36ee8193",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7bba0b5b_40a3cff0",
+        "filename": "c++_tasks_pack_1/passport/passport.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-05T14:47:00Z",
+      "side": 1,
+      "message": "what is n?",
+      "range": {
+        "startLine": 12,
+        "startChar": 16,
+        "endLine": 12,
+        "endChar": 17
+      },
+      "revId": "e212fe165181638a62c4d41c46bb27ff36ee8193",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
