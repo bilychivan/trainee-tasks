@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "76491f23_5b197112",
+        "filename": "c++_pack_1/date.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-06T09:43:08Z",
+      "side": 1,
+      "message": "private static const int suits more for this than enum",
+      "range": {
+        "startLine": 35,
+        "startChar": 0,
+        "endLine": 40,
+        "endChar": 6
+      },
+      "revId": "416c396452f2c92713edea49dd6ce984ccf90c8f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
