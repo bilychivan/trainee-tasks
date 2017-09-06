@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dad0df4b_e68d395b",
+        "filename": "c_tasks_3/cards.c",
+        "patchSetId": 5
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-06T09:33:45Z",
+      "side": 1,
+      "message": "you can move this up\n\nACE \u003d 1,\nSEVEN \u003d 7,\n...",
+      "range": {
+        "startLine": 22,
+        "startChar": 4,
+        "endLine": 22,
+        "endChar": 7
+      },
+      "revId": "94f80a332c09ae8eb2271978cf32e02b8e75271e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "84abd132_1cae72b2",
+        "filename": "c_tasks_3/cards.c",
+        "patchSetId": 5
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-06T09:33:45Z",
+      "side": 1,
+      "message": "if you will rearrange enum this array could be ommited",
+      "range": {
+        "startLine": 39,
+        "startChar": 0,
+        "endLine": 42,
+        "endChar": 2
+      },
+      "revId": "94f80a332c09ae8eb2271978cf32e02b8e75271e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
