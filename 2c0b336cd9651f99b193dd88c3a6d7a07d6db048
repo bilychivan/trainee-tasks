@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6517ba55_ae2af158",
+        "filename": "c++_pack_1/fibonacci.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-06T09:44:19Z",
+      "side": 1,
+      "message": "this exception will be never thrown",
+      "range": {
+        "startLine": 41,
+        "startChar": 4,
+        "endLine": 44,
+        "endChar": 5
+      },
+      "revId": "2c0b336cd9651f99b193dd88c3a6d7a07d6db048",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
