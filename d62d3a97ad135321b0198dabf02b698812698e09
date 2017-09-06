@@ -68,6 +68,30 @@
       "revId": "d62d3a97ad135321b0198dabf02b698812698e09",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4c9bcd55_6056108e",
+        "filename": "c++_pack_1/ariProg.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1012163
+      },
+      "writtenOn": "2017-09-06T06:36:10Z",
+      "side": 1,
+      "message": "Why? There are not any tabs before \"public/private\" so far",
+      "parentUuid": "51334bcf_d37adfee",
+      "range": {
+        "startLine": 41,
+        "startChar": 0,
+        "endLine": 41,
+        "endChar": 7
+      },
+      "revId": "d62d3a97ad135321b0198dabf02b698812698e09",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
