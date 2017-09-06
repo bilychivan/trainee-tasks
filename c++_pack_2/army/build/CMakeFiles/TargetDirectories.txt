@@ -1,0 +1,3 @@
+/home/andriiromanchuk/Documents/temp_tasks/c++_tasks_pack_2/army/build/CMakeFiles/edit_cache.dir
+/home/andriiromanchuk/Documents/temp_tasks/c++_tasks_pack_2/army/build/CMakeFiles/rebuild_cache.dir
+/home/andriiromanchuk/Documents/temp_tasks/c++_tasks_pack_2/army/build/CMakeFiles/Army.dir
