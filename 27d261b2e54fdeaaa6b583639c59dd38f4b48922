@@ -1,0 +1,234 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e2d4ea47_69a27bfe",
+        "filename": "c++_pack_2/army/CMakeLists.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:53:06Z",
+      "side": 1,
+      "message": "fail!",
+      "range": {
+        "startLine": 9,
+        "startChar": 16,
+        "endLine": 9,
+        "endChar": 17
+      },
+      "revId": "27d261b2e54fdeaaa6b583639c59dd38f4b48922",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ee8d7868_adc5fd8c",
+        "filename": "c++_pack_2/army/Include/category.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:53:06Z",
+      "side": 1,
+      "message": "this is OK but it is better to do with single defines",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 18,
+        "endChar": 17
+      },
+      "revId": "27d261b2e54fdeaaa6b583639c59dd38f4b48922",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ed69aa54_98722cbd",
+        "filename": "c++_pack_2/army/Include/category.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:53:06Z",
+      "side": 1,
+      "message": "why 7?",
+      "range": {
+        "startLine": 18,
+        "startChar": 14,
+        "endLine": 18,
+        "endChar": 17
+      },
+      "revId": "27d261b2e54fdeaaa6b583639c59dd38f4b48922",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d33306e7_e95b4fcf",
+        "filename": "c++_pack_2/army/Include/entity.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:53:06Z",
+      "side": 1,
+      "message": "this will be by default",
+      "range": {
+        "startLine": 16,
+        "startChar": 12,
+        "endLine": 16,
+        "endChar": 16
+      },
+      "revId": "27d261b2e54fdeaaa6b583639c59dd38f4b48922",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f8403ea_5140c2e7",
+        "filename": "c++_pack_2/army/Source/entity.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:53:06Z",
+      "side": 1,
+      "message": "?",
+      "range": {
+        "startLine": 20,
+        "startChar": 4,
+        "endLine": 20,
+        "endChar": 31
+      },
+      "revId": "27d261b2e54fdeaaa6b583639c59dd38f4b48922",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9b9bdae7_acc0104b",
+        "filename": "c++_pack_2/army/Source/entity.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:53:06Z",
+      "side": 1,
+      "message": "?",
+      "range": {
+        "startLine": 58,
+        "startChar": 13,
+        "endLine": 58,
+        "endChar": 27
+      },
+      "revId": "27d261b2e54fdeaaa6b583639c59dd38f4b48922",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9e559579_801f6f85",
+        "filename": "c++_pack_2/army/Source/entity.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:53:06Z",
+      "side": 1,
+      "message": "remove",
+      "range": {
+        "startLine": 69,
+        "startChar": 1,
+        "endLine": 69,
+        "endChar": 54
+      },
+      "revId": "27d261b2e54fdeaaa6b583639c59dd38f4b48922",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "66863587_3cfad49a",
+        "filename": "c++_pack_2/army/Source/entity.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:53:06Z",
+      "side": 1,
+      "message": "what is this?",
+      "range": {
+        "startLine": 97,
+        "startChar": 0,
+        "endLine": 100,
+        "endChar": 1
+      },
+      "revId": "27d261b2e54fdeaaa6b583639c59dd38f4b48922",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "172a4541_cbf334be",
+        "filename": "c++_pack_2/army/Source/mage.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:53:06Z",
+      "side": 1,
+      "message": "blast",
+      "range": {
+        "startLine": 19,
+        "startChar": 14,
+        "endLine": 19,
+        "endChar": 19
+      },
+      "revId": "27d261b2e54fdeaaa6b583639c59dd38f4b48922",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "23088741_af5c307f",
+        "filename": "c++_pack_2/army/Source/mage.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:53:06Z",
+      "side": 1,
+      "message": "black",
+      "range": {
+        "startLine": 23,
+        "startChar": 29,
+        "endLine": 23,
+        "endChar": 34
+      },
+      "revId": "27d261b2e54fdeaaa6b583639c59dd38f4b48922",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
