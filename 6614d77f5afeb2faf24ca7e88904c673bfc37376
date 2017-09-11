@@ -1,0 +1,481 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "92f97b25_14b13b78",
+        "filename": "c++_tasks_pack_2/army/creature.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "please use init list",
+      "range": {
+        "startLine": 53,
+        "startChar": 0,
+        "endLine": 54,
+        "endChar": 18
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ce1763ea_b051d71e",
+        "filename": "c++_tasks_pack_2/army/creature.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "http://www.cplusplus.com/reference/string/string/empty/",
+      "range": {
+        "startLine": 56,
+        "startChar": 15,
+        "endLine": 56,
+        "endChar": 28
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "22a327f3_7c001db3",
+        "filename": "c++_tasks_pack_2/army/creature.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "stats.push_back({0, Creature::StatUndefined});",
+      "range": {
+        "startLine": 68,
+        "startChar": 8,
+        "endLine": 73,
+        "endChar": 29
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "af9f3c00_a73296ed",
+        "filename": "c++_tasks_pack_2/army/creature.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "This could be replaced with fill constructor usage in constructor init list",
+      "range": {
+        "startLine": 65,
+        "startChar": 4,
+        "endLine": 74,
+        "endChar": 5
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7b961dfa_563efb6b",
+        "filename": "c++_tasks_pack_2/army/creature.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 187,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "not sure this will be an error",
+      "range": {
+        "startLine": 187,
+        "startChar": 8,
+        "endLine": 187,
+        "endChar": 64
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8c073077_e4801794",
+        "filename": "c++_tasks_pack_2/army/creature.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 214,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "I see no \u0027false\u0027 case",
+      "range": {
+        "startLine": 214,
+        "startChar": 4,
+        "endLine": 214,
+        "endChar": 16
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "08378e2e_41a6b1af",
+        "filename": "c++_tasks_pack_2/army/creature.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 217,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "bool counter?",
+      "range": {
+        "startLine": 217,
+        "startChar": 80,
+        "endLine": 217,
+        "endChar": 95
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a8103cdf_e5b1033f",
+        "filename": "c++_tasks_pack_2/army/creature.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "string?",
+      "range": {
+        "startLine": 45,
+        "startChar": 15,
+        "endLine": 45,
+        "endChar": 27
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a5107f64_be67c311",
+        "filename": "c++_tasks_pack_2/army/creature.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "please do not use var names with Capital letter, only type",
+      "range": {
+        "startLine": 47,
+        "startChar": 34,
+        "endLine": 47,
+        "endChar": 44
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a7a33dc2_04772b51",
+        "filename": "c++_tasks_pack_2/army/creature.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "please use single style",
+      "range": {
+        "startLine": 49,
+        "startChar": 25,
+        "endLine": 49,
+        "endChar": 27
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "646368f9_a8c5644a",
+        "filename": "c++_tasks_pack_2/army/creature.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "not sure multiplier should be set by user",
+      "range": {
+        "startLine": 82,
+        "startChar": 46,
+        "endLine": 82,
+        "endChar": 68
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "482b7a12_b5fa681b",
+        "filename": "c++_tasks_pack_2/army/main.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "where do you use rand()?",
+      "range": {
+        "startLine": 19,
+        "startChar": 4,
+        "endLine": 19,
+        "endChar": 19
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "80316ade_af79ca8a",
+        "filename": "c++_tasks_pack_2/army/main.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "remove",
+      "range": {
+        "startLine": 146,
+        "startChar": 4,
+        "endLine": 146,
+        "endChar": 29
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "95a81d7f_ae867ca0",
+        "filename": "c++_tasks_pack_2/army/spellbook.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "this is a way c style, use c++ one",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 8,
+        "endChar": 3
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "51d26e39_9fa486f6",
+        "filename": "c++_tasks_pack_2/army/spellbook.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "combine",
+      "range": {
+        "startLine": 10,
+        "startChar": 4,
+        "endLine": 12,
+        "endChar": 11
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f423a1ac_bc2fa63a",
+        "filename": "c++_tasks_pack_2/army/spellbook.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "exception",
+      "range": {
+        "startLine": 20,
+        "startChar": 3,
+        "endLine": 20,
+        "endChar": 14
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "aab2d618_f4e3a816",
+        "filename": "c++_tasks_pack_2/army/spellbook.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "wheel http://en.cppreference.com/w/cpp/algorithm/find",
+      "range": {
+        "startLine": 10,
+        "startChar": 4,
+        "endLine": 20,
+        "endChar": 14
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bc1e5ea4_273a36be",
+        "filename": "c++_tasks_pack_2/army/spellbook.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "separate",
+      "range": {
+        "startLine": 37,
+        "startChar": 4,
+        "endLine": 38,
+        "endChar": 6
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fbbdf4a7_dc465f2b",
+        "filename": "c++_tasks_pack_2/army/spells.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "This is wrong. This should not be separate functions. This should be some methods of some class. I.e.:\n\nmage.spellAttack(warrior)\n\nmage.castSpell(mage.getFirstSpell(), warrior)\n\nmage.castSpell(someSpell, warrior)\n\n...",
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9c5fe7f5_c03d89c9",
+        "filename": "c++_tasks_pack_2/army/spells.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "this should be done in constructor",
+      "range": {
+        "startLine": 57,
+        "startChar": 4,
+        "endLine": 59,
+        "endChar": 91
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d34bf3e9_d7b9aabd",
+        "filename": "c++_tasks_pack_2/army/spells.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-11T14:35:24Z",
+      "side": 1,
+      "message": "this is a bad idea define a global variable in header",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 21,
+        "endChar": 34
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
