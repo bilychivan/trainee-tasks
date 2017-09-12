@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b76eee7f_c9953712",
+        "filename": "c++_tasks_pack_1/fibonacci/fibonacci.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:00:47Z",
+      "side": 1,
+      "message": "prevPrevPrevPrevPrev...PrevNum",
+      "range": {
+        "startLine": 14,
+        "startChar": 8,
+        "endLine": 14,
+        "endChar": 20
+      },
+      "revId": "6cd7733c0848dbe0b8fc4077e5ea02bf2431127f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "294ae041_4d4ad11e",
+        "filename": "c++_tasks_pack_1/fibonacci/fibonacci.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:00:47Z",
+      "side": 1,
+      "message": "to be double sure this is private?",
+      "range": {
+        "startLine": 16,
+        "startChar": 0,
+        "endLine": 17,
+        "endChar": 8
+      },
+      "revId": "6cd7733c0848dbe0b8fc4077e5ea02bf2431127f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad872af_9547c9e5",
+        "filename": "c++_tasks_pack_1/fibonacci/fibonacci.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:00:47Z",
+      "side": 1,
+      "message": "separate",
+      "range": {
+        "startLine": 18,
+        "startChar": 0,
+        "endLine": 19,
+        "endChar": 7
+      },
+      "revId": "6cd7733c0848dbe0b8fc4077e5ea02bf2431127f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
