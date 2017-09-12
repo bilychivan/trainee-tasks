@@ -71,6 +71,30 @@
     },
     {
       "key": {
+        "uuid": "f03ebcc3_587990aa",
+        "filename": "memman/memman.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-09-12T07:24:32Z",
+      "side": 1,
+      "message": "only if you want to get null pointer dereference:\nhttp://en.cppreference.com/w/cpp/language/eval_order",
+      "parentUuid": "9378caff_10fdd012",
+      "range": {
+        "startLine": 81,
+        "startChar": 0,
+        "endLine": 84,
+        "endChar": 13
+      },
+      "revId": "5ac38d932430974244b8f69b2fe6c555e073782d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "dd2ea0a7_f4847176",
         "filename": "memman/memman.c",
         "patchSetId": 1
