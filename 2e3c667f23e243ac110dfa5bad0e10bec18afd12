@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7c940247_227e0d7f",
+        "filename": "c++_tasks_pack_1/passport/passport.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:02:04Z",
+      "side": 1,
+      "message": "fail! class cpp file should not contain main()",
+      "range": {
+        "startLine": 83,
+        "startChar": 0,
+        "endLine": 101,
+        "endChar": 1
+      },
+      "revId": "2e3c667f23e243ac110dfa5bad0e10bec18afd12",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c709f683_16923677",
+        "filename": "c++_tasks_pack_1/passport/passport.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:02:04Z",
+      "side": 1,
+      "message": "super private",
+      "range": {
+        "startLine": 23,
+        "startChar": 0,
+        "endLine": 23,
+        "endChar": 8
+      },
+      "revId": "2e3c667f23e243ac110dfa5bad0e10bec18afd12",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "75669c55_b6068c4e",
+        "filename": "c++_tasks_pack_1/passport/passport.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:02:04Z",
+      "side": 1,
+      "message": "separate",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 7
+      },
+      "revId": "2e3c667f23e243ac110dfa5bad0e10bec18afd12",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
