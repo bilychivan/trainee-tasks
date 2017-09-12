@@ -476,6 +476,30 @@
       "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "831c782b_ec4f8b5c",
+        "filename": "c++_tasks_pack_2/army/spells.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012161
+      },
+      "writtenOn": "2017-09-12T06:59:03Z",
+      "side": 1,
+      "message": "http://en.cppreference.com/w/cpp/language/storage_duration\n\"non-volatile const-qualified variables (including constexpr) that aren\u0027t declared extern and aren\u0027t previously declared to have external linkage.\"\n\nhttp://www.goldsborough.me/c/c++/linker/2016/03/30/19-34-25-internal_and_external_linkage_in_c++/",
+      "parentUuid": "d34bf3e9_d7b9aabd",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 21,
+        "endChar": 34
+      },
+      "revId": "6614d77f5afeb2faf24ca7e88904c673bfc37376",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
