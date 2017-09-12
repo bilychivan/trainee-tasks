@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4035789b_a1fdab02",
+        "filename": "c++_tasks_pack_1/complex/complex.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T13:55:02Z",
+      "side": 1,
+      "message": "what do you expect to get there?",
+      "range": {
+        "startLine": 38,
+        "startChar": 16,
+        "endLine": 38,
+        "endChar": 32
+      },
+      "revId": "33cc53898bf01bd7415338d5ce223a15c7718717",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "95cf36da_281afe51",
+        "filename": "c++_tasks_pack_1/complex/complex.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T13:55:02Z",
+      "side": 1,
+      "message": "I see multiplication is not your best...",
+      "range": {
+        "startLine": 36,
+        "startChar": 0,
+        "endLine": 40,
+        "endChar": 21
+      },
+      "revId": "33cc53898bf01bd7415338d5ce223a15c7718717",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e8b9df80_614c0183",
+        "filename": "c++_tasks_pack_1/complex/complex.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T13:55:02Z",
+      "side": 1,
+      "message": "Complex result \u003d *this;\n    \n    result +\u003d other;\n    \n    return result;",
+      "range": {
+        "startLine": 45,
+        "startChar": 0,
+        "endLine": 50,
+        "endChar": 18
+      },
+      "revId": "33cc53898bf01bd7415338d5ce223a15c7718717",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "0e55b11e_3f57094a",
+        "filename": "c++_tasks_pack_1/complex/complex.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T13:55:02Z",
+      "side": 1,
+      "message": "???",
+      "range": {
+        "startLine": 79,
+        "startChar": 28,
+        "endLine": 79,
+        "endChar": 32
+      },
+      "revId": "33cc53898bf01bd7415338d5ce223a15c7718717",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
