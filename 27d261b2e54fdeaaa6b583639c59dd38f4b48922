@@ -94,6 +94,30 @@
     },
     {
       "key": {
+        "uuid": "83a53ed1_145b4b73",
+        "filename": "c++_pack_2/army/Include/entity.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1012163
+      },
+      "writtenOn": "2017-09-12T09:46:21Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d33306e7_e95b4fcf",
+      "range": {
+        "startLine": 16,
+        "startChar": 12,
+        "endLine": 16,
+        "endChar": 16
+      },
+      "revId": "27d261b2e54fdeaaa6b583639c59dd38f4b48922",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7f8403ea_5140c2e7",
         "filename": "c++_pack_2/army/Source/entity.cpp",
         "patchSetId": 1
@@ -105,6 +129,30 @@
       "writtenOn": "2017-09-11T14:53:06Z",
       "side": 1,
       "message": "?",
+      "range": {
+        "startLine": 20,
+        "startChar": 4,
+        "endLine": 20,
+        "endChar": 31
+      },
+      "revId": "27d261b2e54fdeaaa6b583639c59dd38f4b48922",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "eae463a0_f6017fc8",
+        "filename": "c++_pack_2/army/Source/entity.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1012163
+      },
+      "writtenOn": "2017-09-12T09:46:21Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7f8403ea_5140c2e7",
       "range": {
         "startLine": 20,
         "startChar": 4,
@@ -174,6 +222,30 @@
       "writtenOn": "2017-09-11T14:53:06Z",
       "side": 1,
       "message": "what is this?",
+      "range": {
+        "startLine": 97,
+        "startChar": 0,
+        "endLine": 100,
+        "endChar": 1
+      },
+      "revId": "27d261b2e54fdeaaa6b583639c59dd38f4b48922",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e29b156e_208dc1b5",
+        "filename": "c++_pack_2/army/Source/entity.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 1012163
+      },
+      "writtenOn": "2017-09-12T09:46:21Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "66863587_3cfad49a",
       "range": {
         "startLine": 97,
         "startChar": 0,
