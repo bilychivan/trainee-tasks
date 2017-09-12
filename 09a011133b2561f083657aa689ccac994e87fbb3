@@ -1,0 +1,211 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "580d0f8f_2e3f2c89",
+        "filename": "c++_tasks_pack_2/army/Units/magicUnit.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:16:21Z",
+      "side": 1,
+      "message": "you are passing COPY of entire map, this is bad",
+      "range": {
+        "startLine": 33,
+        "startChar": 4,
+        "endLine": 33,
+        "endChar": 26
+      },
+      "revId": "09a011133b2561f083657aa689ccac994e87fbb3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "caa10a0c_4cba0649",
+        "filename": "c++_tasks_pack_2/army/Units/unit.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:16:21Z",
+      "side": 1,
+      "message": "space",
+      "range": {
+        "startLine": 33,
+        "startChar": 8,
+        "endLine": 33,
+        "endChar": 10
+      },
+      "revId": "09a011133b2561f083657aa689ccac994e87fbb3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7756b2_435ee679",
+        "filename": "c++_tasks_pack_2/army/Units/unit.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:16:21Z",
+      "side": 1,
+      "message": "one space",
+      "range": {
+        "startLine": 96,
+        "startChar": 13,
+        "endLine": 96,
+        "endChar": 15
+      },
+      "revId": "09a011133b2561f083657aa689ccac994e87fbb3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "505f2b59_66c7337f",
+        "filename": "c++_tasks_pack_2/army/Units/unit.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:16:21Z",
+      "side": 1,
+      "message": "private static const",
+      "range": {
+        "startLine": 6,
+        "startChar": 0,
+        "endLine": 10,
+        "endChar": 24
+      },
+      "revId": "09a011133b2561f083657aa689ccac994e87fbb3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "0a3af79f_93180228",
+        "filename": "c++_tasks_pack_2/army/Units/vampire.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:16:21Z",
+      "side": 1,
+      "message": "fail! do not copy entire string",
+      "range": {
+        "startLine": 16,
+        "startChar": 4,
+        "endLine": 16,
+        "endChar": 15
+      },
+      "revId": "09a011133b2561f083657aa689ccac994e87fbb3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "92028060_ab81f4ab",
+        "filename": "c++_tasks_pack_2/army/Units/warlock.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:16:21Z",
+      "side": 1,
+      "message": "you are committing to return class...",
+      "range": {
+        "startLine": 8,
+        "startChar": 21,
+        "endLine": 8,
+        "endChar": 29
+      },
+      "revId": "09a011133b2561f083657aa689ccac994e87fbb3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b643d584_e6a7156f",
+        "filename": "c++_tasks_pack_2/army/Units/warlock.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:16:21Z",
+      "side": 1,
+      "message": "do not return copy",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 8,
+        "endChar": 11
+      },
+      "revId": "09a011133b2561f083657aa689ccac994e87fbb3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "18affe82_77f31899",
+        "filename": "c++_tasks_pack_2/army/Units/warlock.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:16:21Z",
+      "side": 1,
+      "message": "but you are giving className, why?",
+      "range": {
+        "startLine": 10,
+        "startChar": 11,
+        "endLine": 10,
+        "endChar": 26
+      },
+      "revId": "09a011133b2561f083657aa689ccac994e87fbb3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "0c59caa0_d70d07ac",
+        "filename": "c++_tasks_pack_2/army/Units/warrior.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:16:21Z",
+      "side": 1,
+      "message": "the same error",
+      "range": {
+        "startLine": 10,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 1
+      },
+      "revId": "09a011133b2561f083657aa689ccac994e87fbb3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
