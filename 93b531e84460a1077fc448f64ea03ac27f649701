@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8810ecb3_6c0c81b8",
+        "filename": "c++_tasks_pack_1/vector/vector.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:03:44Z",
+      "side": 1,
+      "message": "Vector result \u003d *this;",
+      "range": {
+        "startLine": 46,
+        "startChar": 4,
+        "endLine": 46,
+        "endChar": 18
+      },
+      "revId": "93b531e84460a1077fc448f64ea03ac27f649701",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "122edaf6_e9c4ba7f",
+        "filename": "c++_tasks_pack_1/vector/vector.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:03:44Z",
+      "side": 1,
+      "message": "result +\u003d other;",
+      "range": {
+        "startLine": 48,
+        "startChar": 4,
+        "endLine": 49,
+        "endChar": 27
+      },
+      "revId": "93b531e84460a1077fc448f64ea03ac27f649701",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "cd64eda7_878fccac",
+        "filename": "c++_tasks_pack_1/vector/vector.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:03:44Z",
+      "side": 1,
+      "message": "Vector result \u003d *this;",
+      "range": {
+        "startLine": 56,
+        "startChar": 4,
+        "endLine": 56,
+        "endChar": 18
+      },
+      "revId": "93b531e84460a1077fc448f64ea03ac27f649701",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8ff995a3_90d909fc",
+        "filename": "c++_tasks_pack_1/vector/vector.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:03:44Z",
+      "side": 1,
+      "message": "result -\u003d other;",
+      "range": {
+        "startLine": 58,
+        "startChar": 4,
+        "endLine": 59,
+        "endChar": 27
+      },
+      "revId": "93b531e84460a1077fc448f64ea03ac27f649701",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f6609cb4_0c1c030f",
+        "filename": "c++_tasks_pack_1/vector/vector.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-12T14:03:44Z",
+      "side": 1,
+      "message": "fail! remove main to separate file",
+      "range": {
+        "startLine": 69,
+        "startChar": 0,
+        "endLine": 80,
+        "endChar": 1
+      },
+      "revId": "93b531e84460a1077fc448f64ea03ac27f649701",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
