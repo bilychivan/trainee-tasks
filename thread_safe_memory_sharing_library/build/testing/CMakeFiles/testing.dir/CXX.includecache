@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../memory_manager_library/Include/memory_manager_library.h
+
+/home/andriiromanchuk/Documents/trainee-tasks/thread_safe_memory_sharing_library/testing/testing.cpp
+memory_manager_library.h
+/home/andriiromanchuk/Documents/trainee-tasks/thread_safe_memory_sharing_library/testing/memory_manager_library.h
+iostream
+-
+cstring
+-
+thread
+-
+atomic
+-
+vector
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -pthread -fsanitize=address -fno-omit-frame-pointer   CMakeFiles/testing.dir/testing.cpp.o  -o testing -rdynamic ../memory_manager_library/libmemory_manager_library_STATIC.a 

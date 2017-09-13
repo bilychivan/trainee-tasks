@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -std=c++11 -pthread -fsanitize=address -fno-omit-frame-pointer  -shared -Wl,-soname,libmemory_manager_library_SHARED.so -o libmemory_manager_library_SHARED.so CMakeFiles/memory_manager_library_SHARED.dir/Source/memory_manager_library.cpp.o 

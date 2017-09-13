@@ -1,0 +1,10 @@
+/home/andriiromanchuk/Documents/trainee-tasks/thread_safe_memory_sharing_library/build/CMakeFiles/edit_cache.dir
+/home/andriiromanchuk/Documents/trainee-tasks/thread_safe_memory_sharing_library/build/CMakeFiles/rebuild_cache.dir
+/home/andriiromanchuk/Documents/trainee-tasks/thread_safe_memory_sharing_library/build/memory_manager_library/CMakeFiles/rebuild_cache.dir
+/home/andriiromanchuk/Documents/trainee-tasks/thread_safe_memory_sharing_library/build/memory_manager_library/CMakeFiles/memory_manager_library_STATIC.dir
+/home/andriiromanchuk/Documents/trainee-tasks/thread_safe_memory_sharing_library/build/memory_manager_library/CMakeFiles/edit_cache.dir
+/home/andriiromanchuk/Documents/trainee-tasks/thread_safe_memory_sharing_library/build/memory_manager_library/CMakeFiles/memory_manager_library_SHARED.dir
+/home/andriiromanchuk/Documents/trainee-tasks/thread_safe_memory_sharing_library/build/testing/CMakeFiles/rebuild_cache.dir
+/home/andriiromanchuk/Documents/trainee-tasks/thread_safe_memory_sharing_library/build/testing/CMakeFiles/edit_cache.dir
+/home/andriiromanchuk/Documents/trainee-tasks/thread_safe_memory_sharing_library/build/testing/CMakeFiles/main.dir
+/home/andriiromanchuk/Documents/trainee-tasks/thread_safe_memory_sharing_library/build/testing/CMakeFiles/testing.dir

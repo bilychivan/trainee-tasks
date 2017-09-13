@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andriiromanchuk/Documents/trainee-tasks/thread_safe_memory_sharing_library/testing/main.cpp
+pthread.h
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+

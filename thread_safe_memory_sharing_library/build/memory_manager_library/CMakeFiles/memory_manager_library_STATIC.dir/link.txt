@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmemory_manager_library_STATIC.a  CMakeFiles/memory_manager_library_STATIC.dir/Source/memory_manager_library.cpp.o
+/usr/bin/ranlib libmemory_manager_library_STATIC.a
