@@ -1,0 +1,1 @@
+build_lirbary(memory_manager_library)
