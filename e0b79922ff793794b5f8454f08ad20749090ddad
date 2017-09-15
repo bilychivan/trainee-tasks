@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "beb8bcc1_99a5056c",
+        "filename": "c++_tasks_pack_1/date/date.cpp",
+        "patchSetId": 7
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-15T13:36:55Z",
+      "side": 1,
+      "message": "year could not be 0",
+      "range": {
+        "startLine": 6,
+        "startChar": 38,
+        "endLine": 6,
+        "endChar": 49
+      },
+      "revId": "e0b79922ff793794b5f8454f08ad20749090ddad",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "afcef415_90975cde",
+        "filename": "c++_tasks_pack_1/date/date.cpp",
+        "patchSetId": 7
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-15T13:36:55Z",
+      "side": 1,
+      "message": "this is a bad idea to fill data and then do a check",
+      "range": {
+        "startLine": 6,
+        "startChar": 11,
+        "endLine": 6,
+        "endChar": 49
+      },
+      "revId": "e0b79922ff793794b5f8454f08ad20749090ddad",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
