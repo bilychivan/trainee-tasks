@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b0bfad6a_a3012723",
+        "filename": "c_tasks_pack_3/Complex.c",
+        "patchSetId": 6
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-15T13:44:06Z",
+      "side": 1,
+      "message": "I think this is wrong",
+      "range": {
+        "startLine": 62,
+        "startChar": 0,
+        "endLine": 66,
+        "endChar": 21
+      },
+      "revId": "97f84d897dab5e5b11fcf1847353b792eb3f8241",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fc4eebf_c885df9e",
+        "filename": "c_tasks_pack_3/Complex.c",
+        "patchSetId": 6
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-15T13:44:06Z",
+      "side": 1,
+      "message": "please reuse complexMultiply();",
+      "range": {
+        "startLine": 93,
+        "startChar": 4,
+        "endLine": 94,
+        "endChar": 43
+      },
+      "revId": "97f84d897dab5e5b11fcf1847353b792eb3f8241",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
