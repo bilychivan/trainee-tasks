@@ -140,6 +140,29 @@
     },
     {
       "key": {
+        "uuid": "f2e98059_faee8f1c",
+        "filename": "threadsafe_memory_manager/memory_manager_library/Source/memory_manager_library.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-15T15:07:42Z",
+      "side": 1,
+      "message": "http://en.cppreference.com/w/cpp/language/alignas",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 17,
+        "endChar": 2
+      },
+      "revId": "a7520a20627361ffeadf83c3ffd2589b3a17eeaf",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "4936f2e7_06ac9110",
         "filename": "threadsafe_memory_manager/memory_manager_library/Source/memory_manager_library.cpp",
         "patchSetId": 1
