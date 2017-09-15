@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0ec016c8_99ba6a9f",
+        "filename": "c++_tasks_pack_2/shop/Category.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-15T13:14:31Z",
+      "side": 1,
+      "message": "for (auto\u0026 item : itemList) {...}",
+      "range": {
+        "startLine": 15,
+        "startChar": 4,
+        "endLine": 18,
+        "endChar": 29
+      },
+      "revId": "9bc0255e0a562eb5763e4e00c926f55ec4e7fdc4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "113bf66e_d2277539",
+        "filename": "c++_tasks_pack_2/shop/Category.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-15T13:14:31Z",
+      "side": 1,
+      "message": "wrong place",
+      "range": {
+        "startLine": 48,
+        "startChar": 12,
+        "endLine": 48,
+        "endChar": 14
+      },
+      "revId": "9bc0255e0a562eb5763e4e00c926f55ec4e7fdc4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
