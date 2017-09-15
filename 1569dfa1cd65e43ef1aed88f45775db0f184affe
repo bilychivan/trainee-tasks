@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6beb0644_00193852",
+        "filename": "thread_safe_memory_sharing_library/memory_manager_library/Source/memory_manager_library.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-15T13:17:07Z",
+      "side": 1,
+      "message": "bad name",
+      "range": {
+        "startLine": 30,
+        "startChar": 29,
+        "endLine": 30,
+        "endChar": 31
+      },
+      "revId": "1569dfa1cd65e43ef1aed88f45775db0f184affe",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "074a7218_24ddf9cb",
+        "filename": "thread_safe_memory_sharing_library/memory_manager_library/Source/memory_manager_library.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-15T13:17:07Z",
+      "side": 1,
+      "message": "even worse name",
+      "range": {
+        "startLine": 32,
+        "startChar": 12,
+        "endLine": 32,
+        "endChar": 13
+      },
+      "revId": "1569dfa1cd65e43ef1aed88f45775db0f184affe",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "90f81c33_e68de837",
+        "filename": "thread_safe_memory_sharing_library/memory_manager_library/Source/memory_manager_library.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-15T13:17:07Z",
+      "side": 1,
+      "message": "dude, what is the problem?",
+      "range": {
+        "startLine": 33,
+        "startChar": 12,
+        "endLine": 33,
+        "endChar": 14
+      },
+      "revId": "1569dfa1cd65e43ef1aed88f45775db0f184affe",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d5e12b55_09298fd1",
+        "filename": "thread_safe_memory_sharing_library/memory_manager_library/Source/memory_manager_library.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-15T13:17:07Z",
+      "side": 1,
+      "message": "really, you think that this is clear to read this line?",
+      "range": {
+        "startLine": 37,
+        "startChar": 12,
+        "endLine": 37,
+        "endChar": 56
+      },
+      "revId": "1569dfa1cd65e43ef1aed88f45775db0f184affe",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
