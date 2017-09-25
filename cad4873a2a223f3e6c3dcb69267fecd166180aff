@@ -1,0 +1,297 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "c086da8f_cd1c41c3",
+        "filename": "myMalloc/myMalloc.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-25T15:20:54Z",
+      "side": 1,
+      "message": "static",
+      "range": {
+        "startLine": 3,
+        "startChar": 0,
+        "endLine": 3,
+        "endChar": 22
+      },
+      "revId": "cad4873a2a223f3e6c3dcb69267fecd166180aff",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ac4b8781_932c041c",
+        "filename": "myMalloc/myMalloc.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-25T15:20:54Z",
+      "side": 1,
+      "message": "please use more suitable name",
+      "range": {
+        "startLine": 3,
+        "startChar": 16,
+        "endLine": 3,
+        "endChar": 21
+      },
+      "revId": "cad4873a2a223f3e6c3dcb69267fecd166180aff",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a3a49c4f_404162f1",
+        "filename": "myMalloc/myMalloc.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-25T15:20:54Z",
+      "side": 1,
+      "message": "static",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 38
+      },
+      "revId": "cad4873a2a223f3e6c3dcb69267fecd166180aff",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "06c904ca_43474c0d",
+        "filename": "myMalloc/myMalloc.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-25T15:20:54Z",
+      "side": 1,
+      "message": "static",
+      "range": {
+        "startLine": 6,
+        "startChar": 0,
+        "endLine": 6,
+        "endChar": 20
+      },
+      "revId": "cad4873a2a223f3e6c3dcb69267fecd166180aff",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "22f0a5ce_d381e108",
+        "filename": "myMalloc/myMalloc.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-25T15:20:54Z",
+      "side": 1,
+      "message": "this is more \u0027right\u0027 to move this check to first if and exit in case there is head !\u003d NULL",
+      "revId": "cad4873a2a223f3e6c3dcb69267fecd166180aff",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b36becc7_3ae851f7",
+        "filename": "myMalloc/myMalloc.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-25T15:20:54Z",
+      "side": 1,
+      "message": "please separate malloc() call and check",
+      "range": {
+        "startLine": 22,
+        "startChar": 8,
+        "endLine": 22,
+        "endChar": 48
+      },
+      "revId": "cad4873a2a223f3e6c3dcb69267fecd166180aff",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a56cb6d_c5b1fdc4",
+        "filename": "myMalloc/myMalloc.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-25T15:20:54Z",
+      "side": 1,
+      "message": "please avoid any messages on library abstraction layer",
+      "range": {
+        "startLine": 28,
+        "startChar": 8,
+        "endLine": 28,
+        "endChar": 40
+      },
+      "revId": "cad4873a2a223f3e6c3dcb69267fecd166180aff",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "082884ed_52742b6c",
+        "filename": "myMalloc/myMalloc.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 99,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-25T15:20:54Z",
+      "side": 1,
+      "message": "actually this is not library duty to print this message",
+      "range": {
+        "startLine": 99,
+        "startChar": 12,
+        "endLine": 99,
+        "endChar": 42
+      },
+      "revId": "cad4873a2a223f3e6c3dcb69267fecd166180aff",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a12d7b24_ea653c46",
+        "filename": "myMalloc/myMalloc.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-25T15:20:54Z",
+      "side": 1,
+      "message": "fail! remove this please",
+      "range": {
+        "startLine": 100,
+        "startChar": 12,
+        "endLine": 100,
+        "endChar": 21
+      },
+      "revId": "cad4873a2a223f3e6c3dcb69267fecd166180aff",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1dc7179b_99bee4df",
+        "filename": "myMalloc/myMalloc.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 168,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-25T15:20:54Z",
+      "side": 1,
+      "message": "please remove",
+      "range": {
+        "startLine": 168,
+        "startChar": 12,
+        "endLine": 168,
+        "endChar": 36
+      },
+      "revId": "cad4873a2a223f3e6c3dcb69267fecd166180aff",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8ef59cd5_6b7c389b",
+        "filename": "myMalloc/myMalloc.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 191,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-25T15:20:54Z",
+      "side": 1,
+      "message": "check for error (NULL) and return it, then write code without one level on indentation",
+      "range": {
+        "startLine": 191,
+        "startChar": 5,
+        "endLine": 191,
+        "endChar": 27
+      },
+      "revId": "cad4873a2a223f3e6c3dcb69267fecd166180aff",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e97db435_a95fcc41",
+        "filename": "myMalloc/myMalloc.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 264,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-25T15:20:54Z",
+      "side": 1,
+      "message": "remove prints",
+      "range": {
+        "startLine": 256,
+        "startChar": 16,
+        "endLine": 264,
+        "endChar": 43
+      },
+      "revId": "cad4873a2a223f3e6c3dcb69267fecd166180aff",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da082c3c_eaefb2c0",
+        "filename": "myMalloc/myMalloc.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 265,
+      "author": {
+        "id": 1012111
+      },
+      "writtenOn": "2017-09-25T15:20:54Z",
+      "side": 1,
+      "message": "please decrease level of indentation",
+      "range": {
+        "startLine": 246,
+        "startChar": 4,
+        "endLine": 265,
+        "endChar": 5
+      },
+      "revId": "cad4873a2a223f3e6c3dcb69267fecd166180aff",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
