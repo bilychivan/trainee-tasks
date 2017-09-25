@@ -13,24 +13,19 @@
 
 #include <stdio.h>
 
-#define MULTIPLE 3
-
 int main(void) {
-	int max;
-	int step;
-	int newMax;
+	int num = 0;
 
-	scanf("%d", &max);
-
-	step = 0;
-	for ( ; step % MULTIPLE != 0; ) {
-		step += 1;
+	scanf("%d", &num);
+	for (int i = 0; i < num; i++) {
+		if (i % 3 == 0) {
+			printf("%d", i);
+			if ((i + 1) < num) {
+				printf(" ");
+			}
+		}
 	}
-	newMax = max - MULTIPLE; 
-	for ( ; step <= newMax; step += MULTIPLE) {
-		printf("%d ", step);
-	}
-	printf("%d\n", step);
+	printf("\n");
 
 	return 0;
 }

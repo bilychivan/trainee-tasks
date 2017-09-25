@@ -5,7 +5,7 @@
 Считать с клавиатуры два целых числа.
 Вывести в строку все чётные числа в промежутке от первого до второго
 включительно.
-В указанном промежутке гарантировано наличие хотя бы одного числа, подлежащего
+В указанном промежутке гарантировано наличие хотя бы одного числа, подлежащегоd
 выводу.
 
 Пример ввода
@@ -17,26 +17,20 @@
 
 #include <stdio.h>
 
-#define	EVEN 2
-
 int main(void) {
-	int max;
-	int min;
-	int newMax;
-	int i;
+	int first = 0;
+	int	last = 0;
 
-	scanf("%d %d", &min, &max);
-
-	if (min < 0) {
-		i = min - (min % 2);
-	} else {
-		i = min + (min % 2);
+	scanf("%d %d", &first, &last);
+	for (int i = first; i <= last; i++) {
+		if (i % 2 == 0) {
+			printf("%d", i);
+			if ((i + 1 < last)) {
+				printf(" ");
+			}
+		}
 	}
-	newMax = max - EVEN;
-	for ( ; i <= newMax; i += EVEN) {
-		printf("%d ", i);
-	}
-	printf("%d\n", i);
+	printf("\n");
 
 	return 0;
 }

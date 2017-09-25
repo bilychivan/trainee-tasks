@@ -20,14 +20,12 @@ N считать с клавиатуры.
 #define FALSE	0
 
 int isPrime(int n) {
-	if (n > 1) {
-		for (int i = 2; i <= n / 2; i++) {
-			if ((n % i) == 0) {
+	if (n > 1) { 
+		for (int j = 2; j <= n / 2; j++) {
+			if ((n % j) == 0) {
 				return FALSE;
 			}
 		}
-	} else if (n >= 0) { 
-		return FALSE;
 	}
 
 	return TRUE;
@@ -35,8 +33,8 @@ int isPrime(int n) {
 
 int main(void) {
 	int N;
-	int counter;
-	int res;
+	int counter = 0;
+	int	res = 0;
 
 	scanf("%d", &N);
 	if (N < 1) {
